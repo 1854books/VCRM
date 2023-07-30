@@ -1051,7 +1051,7 @@ for evermore."
 
 ## Appendix
 
-![img](https://github.com/ZONE-09/VCRM/blob/f86129acaa1d07a9f8fc9b960db51d7f28343498/sahajaSubtleSystem.jpg)
+![img](sahajaSubtleSystem.jpg)
 
 1\. The Muladhara Chakra. 1a. The Muladhara. 2. The Svadishthana Chakra.
 3. The Nabhi Chakra. 3a. The Void. 4. The Anahata Chakra.
