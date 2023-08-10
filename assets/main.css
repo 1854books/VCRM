@@ -236,7 +236,7 @@ h1.style5, h2.style5, h3.style5, p.style5 {
 	width: calc(100% + 0.2rem);
 	font-size: 3.5em;
 	line-height: 1.25;
-	font-weight: 400;
+	font-weight: 500;
 }
 
 h1.style5 mark, h2.style5 mark, h3.style5 mark, p.style5 mark {
@@ -289,8 +289,8 @@ h1.style1, h2.style1, h3.style1, p.style1 {
 	letter-spacing: 0.4rem;
 	width: calc(100% + 0.4rem);
 	font-size: 3.5em;
-	line-height: 1.25;
-	font-weight: 400;
+	line-height: 0.75;
+	font-weight: 500;
 	background-image: linear-gradient(45deg, #000000 100%, #000000 100%);
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
@@ -343,6 +343,33 @@ h1.style2 a:hover, h2.style2 a:hover, h3.style2 a:hover, p.style2 a:hover {
 }
 
 h1.style2 span.p:nth-child(n + 2), h2.style2 span.p:nth-child(n + 2), h3.style2 span.p:nth-child(n + 2), p.style2 span.p:nth-child(n + 2) {
+	margin-top: 1rem;
+}
+
+h1.style7, h2.style7, h3.style7, p.style7 {
+	color: #000000;
+	font-family: 'Inter', sans-serif;
+	letter-spacing: 0.025rem;
+	width: calc(100% + 0.025rem);
+	font-size: 1em;
+	line-height: 1.5;
+	font-weight: 200;
+}
+
+h1.style7 mark, h2.style7 mark, h3.style7 mark, p.style7 mark {
+	color: #6EFFBF;
+	background-color: transparent;
+}
+
+h1.style7 a, h2.style7 a, h3.style7 a, p.style7 a {
+	text-decoration: none;
+}
+
+h1.style7 a:hover, h2.style7 a:hover, h3.style7 a:hover, p.style7 a:hover {
+	text-decoration: underline;
+}
+
+h1.style7 span.p:nth-child(n + 2), h2.style7 span.p:nth-child(n + 2), h3.style7 span.p:nth-child(n + 2), p.style7 span.p:nth-child(n + 2) {
 	margin-top: 1rem;
 }
 
@@ -2157,10 +2184,17 @@ hr:before {
 		letter-spacing: 0.35rem;
 		width: calc(100% + 0.35rem);
 		font-size: 2.5em;
-		line-height: 1.25;
+		line-height: 0.75;
 	}
 	
 	h1.style2, h2.style2, h3.style2, p.style2 {
+		letter-spacing: 0.021875rem;
+		width: calc(100% + 0.021875rem);
+		font-size: 1em;
+		line-height: 1.5;
+	}
+	
+	h1.style7, h2.style7, h3.style7, p.style7 {
 		letter-spacing: 0.021875rem;
 		width: calc(100% + 0.021875rem);
 		font-size: 1em;
@@ -3104,6 +3138,10 @@ hr:before {
 	}
 	
 	h1.style2, h2.style2, h3.style2, p.style2 {
+		font-size: 1em;
+	}
+	
+	h1.style7, h2.style7, h3.style7, p.style7 {
 		font-size: 1em;
 	}
 	
