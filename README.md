@@ -715,7 +715,7 @@ when it is constructed.
 <details>
 <summary>
   
-Excerpt From *The Complete Works of the Swami Vivekananda, Volume 1*:What is Religion? By Swami Vivekananda[^40]
+Excerpt From *The Complete Works of the Swami Vivekananda, Volume 1*: What is Religion? By Swami Vivekananda[^40]
 
 </summary>
 
