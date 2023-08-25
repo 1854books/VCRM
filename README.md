@@ -27,7 +27,7 @@ system, stored in a database and / or published in any form or by any
 means, electronic, mechanical, photocopying, recording or otherwise,
 without the prior written permission of the publisher.
 
-Published in  કલા નગરી, *kalā nagarī*: “city of art” by મન, *man*: “mind”
+Published in  કલા નગરી, *kalā nagarī*: “city of art” by મન, *man*: “mind”[^1]
 
 Cataloging in Publication Data
 
@@ -1284,7 +1284,13 @@ Galpin, 1867.
 
 ![img](flagOfIndia.jpg)
 
-[^1]: 
+[^1]: તન-મન-ધન a. n. [See તન + મન + ધન] Lit. The body, the mind, and
+    one’s wealth. Hence, 2. All that one loves; the highest object of
+    one’s ambition (Belsare, 577).
+
+    Belsare, Malhar Bhikaji. *ગુજરાતી-અંગ્રેજી ડિકશનરી [Etymological
+    Gujarati-English Dictionary].* 2nd Edition, Asian Educational
+    Services, 2002.
 
 [^2]: Shakespeare, William. *Romeo and Juliet, Quarto 2.* Thomas Creede,
     1599.
