@@ -5,7 +5,7 @@
 ## मानवधर्मशास्त्र
 
 The Vedic
-context of religions of man[^*]
+context of religions of man
 
 (*f* : X → Y)
 by
@@ -27,8 +27,7 @@ system, stored in a database and / or published in any form or by any
 means, electronic, mechanical, photocopying, recording or otherwise,
 without the prior written permission of the publisher.
 
-Published in Φιλαδέλφεια, *Philadelpheia*: "brotherly love" by σοφός,
-*sophós*: "wise"[^1]
+Published in  કલા નગરી, *kalā nagarī*: “city of art” by મન, *man*: “mind.”
 
 Cataloging in Publication Data
 
@@ -1285,22 +1284,7 @@ Galpin, 1867.
 
 ![img](flagOfIndia.jpg)
 
-[^*]: મન, *man*:  "mind"
-
-[^1]: Philadelphia (Φιλαδέλφεια) is the word employed by the Apostle
-    Paul in his Epistle to the Romans (xii, 10). Philadelphia, as
-    employed by the Apostle to the Gentiles, is rendered in our English
-    version by "brotherly love." A word of the same origin is used by
-    the Apostle at Peter, where (1 Pet. Ill. 8) he gives the injunction
-    "love as brethren.” Sophos (σοφός) is the Greek term found in that
-    text: "Professing themselves to be *wise* they became fools."
-    (Bom. 1. 22.). The words just cited accurately describe the
-    character of a sophist. A word derived from sophos is the word
-    employed in this question: “Whence hath this man this *wisdom*?”
-    (Matt. xiii, 54.) (Wallace 263).
-
-    Wallace, Robert. *The Popular Educator.* vol. 1, Cassell, Petter,
-    And Galpin, 1867.
+[^1]: 
 
 [^2]: Shakespeare, William. *Romeo and Juliet, Quarto 2.* Thomas Creede,
     1599.
