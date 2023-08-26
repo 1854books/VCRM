@@ -1276,11 +1276,11 @@ Wallace, Robert. *The Popular Educator.* vol. 1, Cassell, Petter, And
 Galpin, 1867.
 
 
-## Positively Not The End
+## Positively Not The End[^48]
 
 ![img](positivelyNotTheEnd.jpg)
 
-## तिरंगा, tiraṅgā: "tricolour"[^48]
+## तिरंगा, tiraṅgā: "tricolour"[^49]
 
 ![img](flagOfIndia.jpg)
 
@@ -1451,7 +1451,23 @@ Galpin, 1867.
 
 [^47]: Kapoor, Raj. "Mera Naam Joker." R. K. Films, 1970.
 
-[^48]: Dr. S. Radhakrishnan explained—"Bhagwa or the Saffron denotes
+
+[^48]: The whole problem of speaking about the end (particularly the end
+    of history) is that you have to speak of what lies beyond the end
+    and also, at the same time, of the impossibility of ending. This
+    paradox is produced by the fact that in a non-linear, non-Euclidean
+    space of history the end cannot be located. The end is, in fact,
+    only conceivable in a logical order of causality and continuity.
+    Now, it is events themselves which, by their artificial production,
+    their programmed occurrence or the anticipation of their effects -
+    not to mention their transfiguration in the media - are suppressing
+    the cause effect relation and hence all historical continuity
+    (Baudrillard, 110).
+
+    Baudrillard, J. *The Illusion of the End.* Stanford University
+    Press, 1994.
+
+[^49]: Dr. S. Radhakrishnan explained—"Bhagwa or the Saffron denotes
     renunciation or disinterestedness. Our leaders must be indifferent
     to material gains and dedicate themselves to their work. The white
     in the centre is light, the path of truth to guide our conduct. The
