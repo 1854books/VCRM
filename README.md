@@ -27,7 +27,7 @@ system, stored in a database and / or published in any form or by any
 means, electronic, mechanical, photocopying, recording or otherwise,
 without the prior written permission of the publisher.
 
-Published in  કલા નગરી, *kalā nagarī*: “city of art” by મન, *man*: “mind”[^1]
+Published in  કલા નગરી, *kalā nagarī*: "city of art" by મન, *man*: "mind"[^1]
 
 Cataloging in Publication Data
 
