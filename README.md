@@ -93,21 +93,21 @@ To गणराज्य, *gaṇarājya*: "a great multitude"[^4]
 
 This is a treatise on religions of man. It proposes to show certain ones
 of the texts of the religions of man suggest—whether by accident or in
-essence,[^11] a metaphysics defined in the वेद, *veda*: “knowledge”[^12]
-in the generic sense and सांख्यकारिका, *sāṅkhyakārikā*: “enumeration in
-verse”[^13] in the specific differentia.
+essence,[^11] a metaphysics defined in the वेद, *veda*: "knowledge"[^12]
+in the generic sense and सांख्यकारिका, *sāṅkhyakārikā*: "enumeration in
+verse"[^13] in the specific differentia.
 
 ## Table of Contents
 
 1. <span dir="ltr"> בְּרֵאשִׁית‎, *B'reshith*: "In the beginning"
 2. ဓမ္မပဒ, *dhammapada*: "words of the doctrine"
 3. श्रीमद्भगवद्गीता, *śrīmadbhagavadgītā*: "the song of god"
-4. Εὐαγγέλιον κατὰ Ἰωάννην, *Euangélion katà Iōánnēn*: “God's Good News According to John”
+4. Εὐαγγέλιον κατὰ Ἰωάννην, *Euangélion katà Iōánnēn*: "God's Good News According to John"
 5. <span dir="ltr"> ٱلۡقُرۡءَانُ‎, *al-qurʾān*: "the recitation"
 6. *Declaration of Independence*: "A Declaration By The Representatives
     Of The United States of America, In General Congress Assembled"<br>
 	1788 *The Federalist*: "A Collection of Essays, Written in Favour of the New Constitution, as Agreed upon by the Federal Convention, September 17, 1787"<br>
-   	1789 *Qu'est-ce que le Tiers-État?*: “What Is the Third Estate?”<br>
+   	1789 *Qu'est-ce que le Tiers-État?*: "What Is the Third Estate?"<br>
 	1848 *Manifest der Kommunistischen Partei*: "Manifesto of the Communist Party"<br>
 	1932 *La Dottrina del Fascismo*: "The Doctrine of Fascism"<br>
 7. સર્વોદય, *sarvōdaya*: "the welfare of all"[^14]
@@ -646,7 +646,7 @@ when it is constructed.
 > The Fascist conception of life is a religious one, in which man is
 > viewed in his immanent relation to a higher law, endowed with an
 > objective will transcending the individual and raising him to
-> conscious membership of a spiritual society. “Those who perceive
+> conscious membership of a spiritual society. "Those who perceive
 > nothing beyond opportunistic considerations in the religious policy of
 > the Fascist regime fail to realize that Fascism is not only a system
 > of government but also and above all a system of thought (Mussolini
@@ -1295,13 +1295,13 @@ Galpin, 1867.
 [^2]: Shakespeare, William. *Romeo and Juliet, Quarto 2.* Thomas Creede,
     1599.
 
-[^3]: भा, bhā: “light or a beam of l°, lustre, splendour” + रत, rata:
-    “delighting in, intent upon, fond or enamoured of, devoted or
-    attached or addicted or disposed to” Sir Monier Monier-Williams.
+[^3]: भा, bhā: "light or a beam of l°, lustre, splendour" + रत, rata:
+    "delighting in, intent upon, fond or enamoured of, devoted or
+    attached or addicted or disposed to" Sir Monier Monier-Williams.
     *Dictionary, Sanskrit-English*, Universität zu Köln, 1899,
     https://www.sanskrit-lexicon.uni-koeln.de.
 
-[^4]: गण, gaṇa: “many” + राज्य, rājya: “state” ibid.
+[^4]: गण, gaṇa: "many" + राज्य, rājya: "state" ibid.
 
 [^5]: National Emblem of India
 
@@ -1344,8 +1344,8 @@ Galpin, 1867.
     Universität zu Köln, 1899,
     https://www.sanskrit-lexicon.uni-koeln.de.
 
-[^13]: सांख्य, sāṃkhya: “relating to number“+ कारिका, kārikā: “concise
-    statement in verse of (esp. philos. and gramm.) doctrines,” ibid.
+[^13]: सांख्य, sāṃkhya: "relating to number"+ कारिका, kārikā: "concise
+    statement in verse of (esp. philos. and gramm.) doctrines," ibid.
 
 [^14]: Gandhi, Mohandas K. "The Magic Spell of a Book." *An
     Autobiography, or, the Story of My Experiments with Truth*,
@@ -1478,7 +1478,7 @@ Galpin, 1867.
     those who work under this flag. Again, the wheel denotes motion.
     There is death in stagnation. There is life in movement. India
     should no more resist change, it must move and go forward. The wheel
-    represents the dynamism of a peaceful change (Government of India).”
+    represents the dynamism of a peaceful change (Government of India)."
 
     Government of India. "The Flag Code of India." Ministry of Home
     Affairs, 2002.
