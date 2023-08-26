@@ -1286,7 +1286,7 @@ Galpin, 1867.
 
 [^1]: તન-મન-ધન a. n. [See તન + મન + ધન] Lit. The body, the mind, and
     one’s wealth. Hence, 2. All that one loves; the highest object of
-    one’s ambition (Belsare, 577).
+    one’s ambition (Belsare 577).
 
     Belsare, Malhar Bhikaji. *ગુજરાતી-અંગ્રેજી ડિકશનરી [Etymological
     Gujarati-English Dictionary].* 2nd Edition, Asian Educational
@@ -1462,7 +1462,7 @@ Galpin, 1867.
     their programmed occurrence or the anticipation of their effects -
     not to mention their transfiguration in the media - are suppressing
     the cause effect relation and hence all historical continuity
-    (Baudrillard, 110).
+    (Baudrillard 110).
 
     Baudrillard, J. *The Illusion of the End.* Stanford University
     Press, 1994.
