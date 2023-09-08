@@ -7,7 +7,7 @@
 The Vedic
 context of religions of man
 
-The Memory of Manu<br>
+(The Memory of Manu)<br>
 by<br>
 Kardama Devahuti<br>
 <br>
