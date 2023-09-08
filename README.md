@@ -2,15 +2,15 @@
 
 ![img](VCRM.jpg)
 
-## मानवधर्मशास्त्र
+## मनुस्मृति 
 
 The Vedic
 context of religions of man
 
-(*f* : X → Y)
-by
-Kardama Devahuti
-
+The Memory of Manu<br>
+by<br>
+Kardama Devahuti<br>
+<br>
 ॐ असतो मा सद्गमय ।<br>
 तमसो मा ज्योतिर्गमय ।<br>
 मृत्योर्माऽमृतं गमय ॥<br>
