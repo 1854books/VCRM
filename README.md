@@ -7,7 +7,7 @@
 The Vedic
 context of religions of man
 
-(memory of manu)<br>
+a rewriting of wor(l)d history<br>
 by<br>
 Kardama Devahuti<br>
 <br>
