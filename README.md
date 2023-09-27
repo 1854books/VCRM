@@ -2,7 +2,7 @@
 
 ![img](VCRM.jpg)
 
-## मनुस्मृति 
+## मनुस्मृति[^*] 
 
 The Vedic
 context of religions of man
@@ -1283,6 +1283,11 @@ Galpin, 1867.
 ## तिरंगा, tiraṅgā: "tricolour"[^49]
 
 ![img](flagOfIndia.jpg)
+
+[^*]: मनु, *manu*: "mankind" + स्मृति, *smṛti*: "that which is remembered"
+
+    Sir Monier Monier-Williams. *Dictionary, Sanskrit-English*, 
+    Universität zu Köln, 1899, https://www.sanskrit-lexicon.uni-koeln.de.
 
 [^1]: તન-મન-ધન a. n. [See તન + મન + ધન] Lit. The body, the mind, and
     one’s wealth. Hence, 2. All that one loves; the highest object of
