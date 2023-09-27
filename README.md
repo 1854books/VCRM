@@ -1297,17 +1297,17 @@ Galpin, 1867.
 
 [^3]: भा, bhā: "light or a beam of l°, lustre, splendour" + रत, rata:
     "delighting in, intent upon, fond or enamoured of, devoted or
-    attached or addicted or disposed to" Sir Monier Monier-Williams.
-    *Dictionary, Sanskrit-English*, Universität zu Köln, 1899,
-    https://www.sanskrit-lexicon.uni-koeln.de.
+    attached or addicted or disposed to" 
+    
+    Sir Monier Monier-Williams. *Dictionary, Sanskrit-English*, 
+    Universität zu Köln, 1899, https://www.sanskrit-lexicon.uni-koeln.de.
 
 [^4]: गण, gaṇa: "many" + राज्य, rājya: "state" ibid.
 
 [^5]: National Emblem of India
 
 [^6]: Sir Monier Monier-Williams. *Dictionary, Sanskrit-English*,
-    Universität zu Köln, 1899,
-    https://www.sanskrit-lexicon.uni-koeln.de.
+    Universität zu Köln, 1899, https://www.sanskrit-lexicon.uni-koeln.de.
 
 [^7]: "Mundaka Upanishad." Sanskrit Documents, 2023,
     sanskritdocuments.org/doc_upanishhat/mundaka.html. Accessed 1
@@ -1341,8 +1341,7 @@ Galpin, 1867.
     Society, 1901.
 
 [^12]: Sir Monier Monier-Williams. *Dictionary, Sanskrit-English*,
-    Universität zu Köln, 1899,
-    https://www.sanskrit-lexicon.uni-koeln.de.
+    Universität zu Köln, 1899, https://www.sanskrit-lexicon.uni-koeln.de.
 
 [^13]: सांख्य, sāṃkhya: "relating to number"+ कारिका, kārikā: "concise
     statement in verse of (esp. philos. and gramm.) doctrines," ibid.
