@@ -2,7 +2,7 @@
 
 ![img](VCRM.jpg)
 
-## मनुस्मृति[^*] 
+## मनुस्मृति[^1] 
 
 The Vedic
 context of religions of man
@@ -27,7 +27,7 @@ system, stored in a database and / or published in any form or by any
 means, electronic, mechanical, photocopying, recording or otherwise,
 without the prior written permission of the publisher.
 
-Published in  કલા નગરી, *kalā nagarī*: "city of art" by મન, *man*: "mind"[^1]
+Published in  કલા નગરી, *kalā nagarī*: "city of art" by મન, *man*: "mind"[^2]
 
 Cataloging in Publication Data
 
@@ -48,24 +48,24 @@ Subjects: 1. Religion 2. History<br>
 >
 > Ro. I take thee at thy word: Call me but loue, and Ile be new
 > baptizde, Henceforth I neuer will be Romeo (*Romeo and
-> Juliet* Act 2 Scene 2).[^2]
+> Juliet* Act 2 Scene 2).[^3]
 
 ## Acknowledgement 
 
-To भरत, *bharata*: "intent upon (Knowledge) Light"[^3]
+To भरत, *bharata*: "intent upon (Knowledge) Light"[^4]
 
 ## Dedication 
 
-To गणराज्य, *gaṇarājya*: "a great multitude"[^4]
+To गणराज्य, *gaṇarājya*: "a great multitude"[^5]
 
 ## Epigraph
 
-**Text**: सत्यमेव जयते, *satyameva jayate*: "Truth alone triumphs"[^5]
+**Text**: सत्यमेव जयते, *satyameva jayate*: "Truth alone triumphs"[^6]
 
-**Context**: मुण्डक उपनिषद्, *muṇḍaka upaniṣad*: "shaved (as in shaved head) to sit down near to"[^6]:
+**Context**: मुण्डक उपनिषद्, *muṇḍaka upaniṣad*: "shaved (as in shaved head) to sit down near to"[^7]:
 >
 > सत्यमेव जयते नानृतं सत्येन पन्था विततो देवयानः । <br>
-> येनाक्रमन्त्यृषयो ह्याप्तकामा यत्र तत् सत्यस्य परमं निधानम् ॥[^7]
+> येनाक्रमन्त्यृषयो ह्याप्तकामा यत्र तत् सत्यस्य परमं निधानम् ॥[^8]
 >
 > *satyam evajayate ndnrtam, satyena panthd vitato deva-yanah
 > yenakramanty<br>
@@ -74,9 +74,9 @@ To गणराज्य, *gaṇarājya*: "a great multitude"[^4]
 > Truth alone conquers, not untruth. By truth is laid out the path
 > leading to the gods by which the sages who have their desires
 > fulfilled travel to where is that supreme abode of truth.
-> (*The Principal Upaniṣads*, Muṇḍaka Upaniṣad 3.1.6).[^8]
+> (*The Principal Upaniṣads*, Muṇḍaka Upaniṣad 3.1.6).[^9]
 
-**Meaning**: the pursuit of *Transcendence.*[^9]
+**Meaning**: the pursuit of *Transcendence.*[^10]
 
 ## Preface
 
@@ -89,13 +89,13 @@ To गणराज्य, *gaṇarājya*: "a great multitude"[^4]
 > create differences. Let each man follow his own path. If he sincerely
 > and ardently wishes to know God, peace be unto him! He will surely
 > realize Him (*The Gospel of Sri Ramakrishna,* Introduction
-> 25.10-19).[^10]
+> 25.10-19).[^11]
 
 This is a treatise on religions of man. It proposes to show certain ones
 of the texts of the religions of man suggest—whether by accident or in
-essence,[^11] a metaphysics defined in the वेद, *veda*: "knowledge"[^12]
+essence,[^12] a metaphysics defined in the वेद, *veda*: "knowledge"[^13]
 in the generic sense and सांख्यकारिका, *sāṅkhyakārikā*: "enumeration in
-verse"[^13] in the specific differentia.
+verse"[^14] in the specific differentia.
 
 ## Table of Contents
 
@@ -110,16 +110,16 @@ verse"[^13] in the specific differentia.
    	1789 *Qu'est-ce que le Tiers-État?*: "What Is the Third Estate?"<br>
 	1848 *Manifest der Kommunistischen Partei*: "Manifesto of the Communist Party"<br>
 	1932 *La Dottrina del Fascismo*: "The Doctrine of Fascism"<br>
-7. સર્વોદય, *sarvōdaya*: "the welfare of all"[^14]
-8. *Atlas Shrugged*: "the role of man's mind in existence"[^15]
-9. *The Matrix*: "the desire for transformation"[^16]
+7. સર્વોદય, *sarvōdaya*: "the welfare of all"[^15]
+8. *Atlas Shrugged*: "the role of man's mind in existence"[^16]
+9. *The Matrix*: "the desire for transformation"[^17]
 
 ## Introduction or What is *sāṅkhya*?
 
 <details>
 <summary>
   
-Excerpt From *The Complete Works of the Swami Vivekananda, Part 2*: A Study of the Sāṅkhya Philosophy By Swami Vivekananda[^17]
+Excerpt From *The Complete Works of the Swami Vivekananda, Part 2*: A Study of the Sāṅkhya Philosophy By Swami Vivekananda[^18]
 
 </summary>
   
@@ -454,7 +454,7 @@ when it is constructed.
 ## *B'reshith*
 
 > <span dir="ltr"> א בראשית ברא אלהים את השמים ואת הארץ<br>
-> <span dir="ltr">ב והארץ, היתה תהו ובהו, וחשך, על-פני תהום; ורוח אלהים, מרחפת על-פני המים.[^18]
+> <span dir="ltr">ב והארץ, היתה תהו ובהו, וחשך, על-פני תהום; ורוח אלהים, מרחפת על-פני המים.[^19]
 >
 > *Bə·rê·šîṯ bā·rā ’ĕ·lō·hîm; ’êṯ haš·šā·ma·yim wə·’êṯ hā·’ā·reṣ.*<br>
 > *wə·hā·’ā·reṣ, hā·yə·ṯāh ṯō·hū wā·ḇō·hū, wə·ḥō·šeḵ ‘al- pə·nê
@@ -463,7 +463,7 @@ when it is constructed.
 > In the beginning God created the heaven and the earth.<br>Now the earth
 > was unformed and void, and darkness was upon the face of the deep; and
 > the spirit of God hovered over the face of the waters (*Holy Scriptures*, Genesis
-> 1.1).[^19]
+> 1.1).[^20]
 
 ## *dhammapada*
 
@@ -473,7 +473,7 @@ when it is constructed.
 >
 > မနောပုဗ္ဗင်္ဂမာ ဓမ္မာ၊ မနောသေဋ္ဌာ မနောမယာ။<br>
 > မနသာ စေ ပသန္နေန၊ ဘာသတိ ဝါ ကရောတိ ဝါ။<br>
-> တတော နံ သုခမနွေတိ၊ ဆာယာဝ အနပါယိနီ \[အနုပါယိနီ (က.)\]။[^20]<br>
+> တတော နံ သုခမနွေတိ၊ ဆာယာဝ အနပါယိနီ \[အနုပါယိနီ (က.)\]။[^21]<br>
 >
 > *manopubbaṅgamā dhammā, manoseṭṭhā manomayā*<br>
 > *manasā ce paduṭṭhena, bhāsati cā karoti vā*<br>
@@ -491,7 +491,7 @@ when it is constructed.
 > All mental phenomena have mind as their forerunner; they have mind as
 > their chief; they are mind-made. If one speaks or acts with a pure
 > mind, happiness (sukha) follows him like a shadow that never leaves
-> him (*Dhammapada* 1.1-2).[^21]
+> him (*Dhammapada* 1.1-2).[^22]
 
 ## *śrīmadbhagavadgītā*
 
@@ -499,7 +499,7 @@ when it is constructed.
 > रात्र्यागमे प्रलीयन्ते तत्रैवाव्यक्तसञ्ज्ञके || 18||<br>
 >
 >  भूतग्राम: स एवायं भूत्वा भूत्वा प्रलीयते |<br>
-> रात्र्यागमेऽवश: पार्थ प्रभवत्यहरागमे || 19||[^22]<br>
+> रात्र्यागमेऽवश: पार्थ प्रभवत्यहरागमे || 19||[^23]<br>
 >
 > *avyaktād vyaktayaḥ sarvāḥ prabhavantyahar-āgame*<br>
 > *rātryāgame pralīyante tatraivāvyakta-sanjñake*<br>
@@ -514,19 +514,19 @@ when it is constructed.
 > This same multitude of beings having come into being again and again,
 > is dissolved at the coming on of night, not of their will, O son of
 > Pritha, and comes forth at the coming on of day (*Bhagavad Gita*
-> 8.18-19).[^23]
+> 8.18-19).[^24]
 
 ## *Euangélion katà Iōánnēn*
 
 > ἐν ἀρχῇ ἦν ὁ λόγος, καὶ ὁ λόγος ἦν πρὸς τὸν θεόν, καὶ θεὸς ἦν ὁ λόγος.<br>
-> οὖτος ἦν ἐν ἀρχῇ πρὸς τὸν θεόν.[^24]
+> οὖτος ἦν ἐν ἀρχῇ πρὸς τὸν θεόν.[^25]
 >
 > *en archê an ho logos, cae ho logos an pros ton theon, cae theos an ho
 > logos.<br>outos an en archê pros ton theon.*
 >
 > In the beginning was the Word, & the Word was with God, and the Word
 > was God.<br>The same was in the beginning with God (*Holy Bible,*
-> Goſpel according to S. Iohn. 1.1-2).[^25]
+> Goſpel according to S. Iohn. 1.1-2).[^26]
 
 
 ## *al-qurʾān*
@@ -537,7 +537,7 @@ when it is constructed.
 > <span dir="rtl">مَٰلِكِ يَوۡمِ ٱلدِّينِ<br>
 > <span dir="rtl">إِيَّاكَ نَعۡبُدُ وَإِيَّاكَ نَسۡتَعِينُ<br>
 > <span dir="rtl">ٱهۡدِنَا ٱلصِّرَٰطَ ٱلۡمُسۡتَقِيمَ<br>
-> <span dir="ltr">[^26]صِرَٰطَ ٱلَّذِينَ أَنۡعَمۡتَ عَلَيۡهِمۡ غَيۡرِ ٱلۡمَغۡضُوبِ عَلَيۡهِمۡ وَلَا ٱلضَّآلِّينَ<br>
+> <span dir="ltr">[^27]صِرَٰطَ ٱلَّذِينَ أَنۡعَمۡتَ عَلَيۡهِمۡ غَيۡرِ ٱلۡمَغۡضُوبِ عَلَيۡهِمۡ وَلَا ٱلضَّآلِّينَ<br>
 >
 > *bismillah hir rahman nir raheem*<br>
 > *alhamdu lillaahi rabbil ‘aalameen*<br>
@@ -556,7 +556,7 @@ when it is constructed.
 > Guide us the straight way –<br>
 > the way of those upon whom Thou hast bestowed Thy blessings, not of<br>
 > those who have been condemned<br>
-> \[by Thee,\] nor of those who go astray (*Message of the Qurʼan* 1.1-7)[^27]
+> \[by Thee,\] nor of those who go astray (*Message of the Qurʼan* 1.1-7)[^28]
 
 ## *Declaration of Independence*
 
@@ -566,7 +566,7 @@ when it is constructed.
 > ſeparate and equal Station to which the Laws of Nature and of
 > Nature's God entitle them, a decent Reſpect to the Opinions of
 > Mankind requires that they ſhould declare the cauſes which impel
-> them to the Separation (*Declaration of Independence* Preamble).[^28]
+> them to the Separation (*Declaration of Independence* Preamble).[^29]
 
 ### *The Federalist*
 
@@ -592,7 +592,7 @@ when it is constructed.
 > each may be a check on the other; that the private intereſt of every
 > individual, may be a centinel over the public rights. Theſe inventions
 > of prudence cannot be leſs requiſite in the diſtribution of the
-> ſupreme powers of the ſtate (Publius *Federalist* 365).[^29]
+> ſupreme powers of the ſtate (Publius *Federalist* 365).[^30]
 
 ### *Qu'est-ce que le Tiers-État?*
 
@@ -600,14 +600,14 @@ when it is constructed.
 > individuelles, comme la nation est l’assemblage des individus. Il est
 > impossible de concevoir une association légitime qui n’ait pas pour
 > objet la sécurité commune, la liberté commune, enfin la chose
-> publique.[^30]
+> publique.[^31]
 >
 > What is the will of a nation? It is the resultant of the individual
 > wills, just as the nation is the aggregate of the individuals that
 > compose it. It is impossible to imagine a legitimate association whose
 > object would not be the common security, the common liberty and,
 > finally, the common welfare (Sieyès *What Is the Third Estate?* Page
-> 108).[^31]
+> 108).[^32]
 
 ### *Manifest der Kommunistischen Partei*
 
@@ -619,7 +619,7 @@ when it is constructed.
 > stetem Gegensatz zueinander, führten einen ununterbrochenen, bald
 > versteckten, bald offenen Kampf, einen Kampf, der jedesmal mit einer
 > revolutionären Umgestaltung der ganzen Gesellschaft endete oder mit
-> dem gemeinsamen Untergang der kämpfenden Klassen.*[^32]
+> dem gemeinsamen Untergang der kämpfenden Klassen.*[^33]
 >
 > The history of all hitherto existing society is the history of class
 > struggles.
@@ -630,7 +630,7 @@ when it is constructed.
 > now hidden, now open fight, a fight that each time ended, either in a
 > revolutionary reconstitution of society at large, or in the common
 > ruin of the contending classes (Marx and Engels *Manifesto of the
-> Communist Party* 12).[^33]
+> Communist Party* 12).[^34]
 
 
 ### *La dottrina del fascismo*
@@ -641,7 +641,7 @@ when it is constructed.
 > consapevole di una società spirituale. Chi nella politica religiosa
 > del regime fascista si è fermato a considerazioni di mera opportunità,
 > non ha inteso che il fascismo, oltre a essere un sistema di governo, è
-> anche, e prima di tutto, un sistema di pensiero.*[^34]
+> anche, e prima di tutto, un sistema di pensiero.*[^35]
 >
 > The Fascist conception of life is a religious one, in which man is
 > viewed in his immanent relation to a higher law, endowed with an
@@ -650,7 +650,7 @@ when it is constructed.
 > nothing beyond opportunistic considerations in the religious policy of
 > the Fascist regime fail to realize that Fascism is not only a system
 > of government but also and above all a system of thought (Mussolini
-> and Gentile *Fascism Doctrine and Institutions* 7).[^35]
+> and Gentile *Fascism Doctrine and Institutions* 7).[^36]
 
 
 ## *sarvōdaya*
@@ -664,7 +664,7 @@ when it is constructed.
 > રસ્કિનના લખાણનો સાર આપ્યો છે. તે પુસ્તકના નામનો પણ અમે અર્થ નથી આપ્યો,
 > કેમકે તે જેણે અંગ્રેજેમાં બાઈબલ વાંચ્યું હોય તે જ સમજી શકે. પણ પુસ્તક
 > લખવાનો હેતુ સર્વનું કલ્યાણ - સર્વનો ઉદય (માત્ર વધારેનો નહિ) - એવો
-> હોવાથી અમે આ લખાણને 'સર્વોદય' એવું નામ આપ્યું છે.[^36]
+> હોવાથી અમે આ લખાણને 'સર્વોદય' એવું નામ આપ્યું છે.[^37]
 >
 > *Sŏkrēṭīsē māṇasanē śuṁ karavuṁ ghaṭē chē tēnuṁ thōḍuṅka darśana
 > karāvyuṁ. Tēṇē jēvuṁ kahyuṁ tēvuṁ ja karyuṁ. Tēnā vicārōnuṁ lambāṇa ē
@@ -687,7 +687,7 @@ when it is constructed.
 > paraphrase, as a translation would not be particularly useful to the
 > readers of Indian Opinion. Even the title has not been translated but
 > paraphrased as Sarvodaya \[the welfare of all\], as that was what
-> Rusking aimed at in writing this book (Ghandi *Sarvodaya* 5).[^37]
+> Rusking aimed at in writing this book (Ghandi *Sarvodaya* 5).[^38]
 
 ## *Atlas Shrugged*
 
@@ -702,19 +702,19 @@ when it is constructed.
 > other, that they are what they are, that they exist. The day when he
 > grasps that matter has no volition is the day when he grasps that he
 > has—and this is his birth as a human being (Rand *Atlas Shrugged*
-> 1040-41). [^38]
+> 1040-41). [^39]
 
 ## *The Matrix* 
 
 > Agent Smith: Everything that has a beginning has an end, Neo (*The Matrix
-> Revolutions* 1:52:03).[^39]
+> Revolutions* 1:52:03).[^40]
 
 ## Conclusion or What is *sanātana dharma*?
 
 <details>
 <summary>
   
-Excerpt From *The Complete Works of the Swami Vivekananda, Volume 1*: What is Religion? By Swami Vivekananda[^40]
+Excerpt From *The Complete Works of the Swami Vivekananda, Volume 1*: What is Religion? By Swami Vivekananda[^41]
 
 </summary>
 
@@ -1057,7 +1057,7 @@ for evermore."
 5. The Vishuddhi Chakra. 6. The Ajna Chakra. 7. The Sahasrara Chakra.
 A. Kundalini. B. Left channel (Ida nadi). C. Central channel (Sushumna
 nadi). D. Right channel (Pingala nadi). E. Spirit. F. Ego.
-G. Superego.[^41]
+G. Superego.[^42]
 
 
 ## Postface
@@ -1075,7 +1075,7 @@ G. Superego.[^41]
 > other jewels in the net, infinite in number. Not only that, but each
 > of the jewels reflected in this one jewel is also reflecting all the
 > other jewels, so that there is an infinite reflecting process
-> occurring (Cook 2).[^42]
+> occurring (Cook 2).[^43]
 
 ## Epliogue
 
@@ -1089,7 +1089,7 @@ G. Superego.[^41]
 >
 > Thou art the ruler of the minds of all people, dispenser of India's
 > destiny.<br>
-> Victory, Victory, Victory to thee.[^43]
+> Victory, Victory, Victory to thee.[^44]
 
 **Context**: ভারত ভাগ্য বিধাতা, *bharoto bhagyo bidhata*: "Dispenser of India's destiny" 
 >
@@ -1098,7 +1098,7 @@ G. Superego.[^41]
 > তব করুণারুণরাগে নিদ্রিত ভারত জাগে<br>
 > তব চরণে নত মাথা।<br>
 > জয় জয় জয় হে জয় রাজেশ্বর ভারতভাগ্যবিধাতা!<br>
-> জয় হে, জয় হে, জয় হে, জয় জয় জয় জয় হে॥[^44]
+> জয় হে, জয় হে, জয় হে, জয় জয় জয় জয় হে॥[^45]
 >
 > *ratri probhatilo, udilo robichchhobi purbo udōyo giri bhale*<br>
 > *gahe bihōngōmo, punyo šomirōno nōbo jibōnorōšo dhale.*<br>
@@ -1112,7 +1112,7 @@ G. Superego.[^41]
 > new life. The rays of thy mercy have touched the waking land with<br>
 > their blessings. Victory to the King of Kings, Victory to thee,<br>
 > dispenser of India's destiny.<br>
-> ⁠Victory, Victory, victory to thee.[^45]
+> ⁠Victory, Victory, victory to thee.[^46]
 
 **Meaning**: Arise Mother India
 
@@ -1138,7 +1138,7 @@ G. Superego.[^41]
 > She sends 'em abroad on her own affairs,  
 > From the second she opens her eyes—  
 > One million Hows, two million Wheres,  
-> And seven million Whys (Kipling 83)![^46]
+> And seven million Whys (Kipling 83)![^47]
 
 ## Postscirpt
 
@@ -1150,7 +1150,7 @@ G. Superego.[^41]
 >
 > Raju: Hey brother, take a small look before walking / Not only ahead
 > but behind as well / Not only right but left as well/ Not only up but
-> down as well…(Mera Naam Joker 1:49:01-1:52:44).[^47]
+> down as well…(Mera Naam Joker 1:49:01-1:52:44).[^48]
 
 ## Bibliography 
 
@@ -1276,20 +1276,22 @@ Wallace, Robert. *The Popular Educator.* vol. 1, Cassell, Petter, And
 Galpin, 1867.
 
 
-## Positively Not The End[^48]
+## Positively Not The End[^49]
 
 ![img](positivelyNotTheEnd.jpg)
 
-## तिरंगा, tiraṅgā: "tricolour"[^49]
+## तिरंगा, tiraṅgā: "tricolour"^[50]
 
 ![img](flagOfIndia.jpg)
 
-[^*]: मनु, *manu*: "mankind" + स्मृति, *smṛti*: "that which is remembered"
+The National Flag of India[^51]
+
+[^1]: मनु, *manu*: "mankind" + स्मृति, *smṛti*: "that which is remembered"
 
     Sir Monier Monier-Williams. *Dictionary, Sanskrit-English*, 
     Universität zu Köln, 1899, https://www.sanskrit-lexicon.uni-koeln.de.
 
-[^1]: તન-મન-ધન a. n. [See તન + મન + ધન] Lit. The body, the mind, and
+[^2]: તન-મન-ધન a. n. [See તન + મન + ધન] Lit. The body, the mind, and
     one’s wealth. Hence, 2. All that one loves; the highest object of
     one’s ambition (Belsare 577).
 
@@ -1297,31 +1299,31 @@ Galpin, 1867.
     Gujarati-English Dictionary].* 2nd Edition, Asian Educational
     Services, 2002.
 
-[^2]: Shakespeare, William. *Romeo and Juliet, Quarto 2.* Thomas Creede,
+[^3]: Shakespeare, William. *Romeo and Juliet, Quarto 2.* Thomas Creede,
     1599.
 
-[^3]: भा, bhā: "light or a beam of l°, lustre, splendour" + रत, rata:
+[^4]: भा, bhā: "light or a beam of l°, lustre, splendour" + रत, rata:
     "delighting in, intent upon, fond or enamoured of, devoted or
     attached or addicted or disposed to" 
     
     Sir Monier Monier-Williams. *Dictionary, Sanskrit-English*, 
     Universität zu Köln, 1899, https://www.sanskrit-lexicon.uni-koeln.de.
 
-[^4]: गण, gaṇa: "many" + राज्य, rājya: "state" ibid.
+[^5]: गण, gaṇa: "many" + राज्य, rājya: "state" ibid.
 
-[^5]: National Emblem of India
+[^6]: National Emblem of India
 
-[^6]: Sir Monier Monier-Williams. *Dictionary, Sanskrit-English*,
+[^7]: Sir Monier Monier-Williams. *Dictionary, Sanskrit-English*,
     Universität zu Köln, 1899, https://www.sanskrit-lexicon.uni-koeln.de.
 
-[^7]: "Mundaka Upanishad." Sanskrit Documents, 2023,
+[^8]: "Mundaka Upanishad." Sanskrit Documents, 2023,
     sanskritdocuments.org/doc_upanishhat/mundaka.html. Accessed 1
     January 2023.
 
-[^8]: *The Principal Upaniṣads.* Translated by Sarvepalli Radhakrishnan,
+[^9]: *The Principal Upaniṣads.* Translated by Sarvepalli Radhakrishnan,
     HarperCollins Publishers, 2020.
 
-[^9]: "Transcendence" is a word one is reluctant to use freely, for it
+[^10]: "Transcendence" is a word one is reluctant to use freely, for it
     has the tone, the imprint of the special, the holy. According to the
     dictionary, "to transcend" simply means "to rise above or go beyond
     a limit, exceed, excel"; also "to go beyond the universe and time."
@@ -1334,129 +1336,129 @@ Galpin, 1867.
     Erikson, E.H. and J.M. Erikson. *Life Cycle Completed.* W. W.
     Norton, 1998.
 
-[^10]: Gupta, Mahendranath. *The Gospel of Sri Ramakrishna.* Translated
+[^11]: Gupta, Mahendranath. *The Gospel of Sri Ramakrishna.* Translated
     by Swami Nikhilananda, Ramakrishna-Vivekananda Center of New York,
     1942.
 
-[^11]: Every religion can be divided into two parts, one of which may be
+[^12]: Every religion can be divided into two parts, one of which may be
     called the non-essential and the other the essential (Swami
     Abhedānanda 1).
 
     Swami Abhedānanda. *Vedanta Philosophy Three Lectures.* The Vedanta
     Society, 1901.
 
-[^12]: Sir Monier Monier-Williams. *Dictionary, Sanskrit-English*,
+[^13]: Sir Monier Monier-Williams. *Dictionary, Sanskrit-English*,
     Universität zu Köln, 1899, https://www.sanskrit-lexicon.uni-koeln.de.
 
-[^13]: सांख्य, sāṃkhya: "relating to number"+ कारिका, kārikā: "concise
+[^14]: सांख्य, sāṃkhya: "relating to number"+ कारिका, kārikā: "concise
     statement in verse of (esp. philos. and gramm.) doctrines," ibid.
 
-[^14]: Gandhi, Mohandas K. "The Magic Spell of a Book." *An
+[^15]: Gandhi, Mohandas K. "The Magic Spell of a Book." *An
     Autobiography, or, the Story of My Experiments with Truth*,
     translated by Mahadev Desai, Navajivan Publishing House, 1945, pp.
     334-36.
 
-[^15]: Rand, Ayn. *For the New Intellectual.* Penguin Publishing Group,
+[^16]: Rand, Ayn. *For the New Intellectual.* Penguin Publishing Group,
     1963.
 
-[^16]: "Why the Matrix Is a Trans Story According to Lilly Wachowski."
+[^17]: "Why the Matrix Is a Trans Story According to Lilly Wachowski."
     *Netflix: Behind the Streams*. reported by Lilly Wachowski, 4
     August, 2020 2020, Netflix.
 
-[^17]: Swami Vivekananda. "A Study of the Sāṅkhya Philosophy." *The
+[^18]: Swami Vivekananda. "A Study of the Sāṅkhya Philosophy." *The
     Complete Works of the Swami Vivekananda, Part 2*, edited by Swami
     Prajnananda, Mayavati Memorial Edition ed., Prabuddha Bharat Office,
     1915, pp. 439-49.
 
-[^18]: *Tanakh.* Aleppo Codex, Shlomo ben Buya, circa 920, Aaron ben
+[^19]: *Tanakh.* Aleppo Codex, Shlomo ben Buya, circa 920, Aaron ben
     Moses ben Asher.
 
-[^19]: *The Holy Scriptures.* Translated by M.L. Margolis, Jewish
+[^20]: *The Holy Scriptures.* Translated by M.L. Margolis, Jewish
     Publication Society of America, 1917.
 
-[^20]: *Pali Tipiṭaka.* Sixth Council Edition, Vipassana Research
+[^21]: *Pali Tipiṭaka.* Sixth Council Edition, Vipassana Research
     Institute, 1956, The Sixth Buddhist Council.
 
-[^21]: *The Dhammapada.* Translated by Daw Mya Tin, Department for the
+[^22]: *The Dhammapada.* Translated by Daw Mya Tin, Department for the
     Promotion and Propagation of the Sasana, 1993.
 
-[^22]: Vyāsaḥ. *Mahābhāratam.* BORI Critical Edition, The Bhandarkar
+[^23]: Vyāsaḥ. *Mahābhāratam.* BORI Critical Edition, The Bhandarkar
     Oriental Research Institute, 1966, Vishnu S. Sukhtankar.
 
-[^23]: ---. *The Bhagavad Gita with the Commentary of Sri
+[^24]: ---. *The Bhagavad Gita with the Commentary of Sri
     Sankaracharya.* Translated by Alladi Mahadeva Sastri, Samata Books,
     1897.
 
-[^24]: *The Christian Bible.* Novum Testamentum Graece, Wurttembergische
+[^25]: *The Christian Bible.* Novum Testamentum Graece, Wurttembergische
     Bibelanstalt, 1898, Eberhard Nestle.
 
-[^25]: *The Holy Bible, King James Version.* Oxford University Press,
+[^26]: *The Holy Bible, King James Version.* Oxford University Press,
     1769.
 
-[^26]: *Al-Qurʾān.* The Cairo Edition, Amiri Press, 1924, Al-Azhar
+[^27]: *Al-Qurʾān.* The Cairo Edition, Amiri Press, 1924, Al-Azhar
     University.
 
-[^27]: *The Message of the Qurʼan.* Translated by Muhammad Asad, Book
+[^28]: *The Message of the Qurʼan.* Translated by Muhammad Asad, Book
     Foundation, 2004.
 
-[^28]: Jefferson, Thomas. *Declaration of Independence.* Edited by
+[^29]: Jefferson, Thomas. *Declaration of Independence.* Edited by
     Second Continental Congress, Stone Engraving, William J. Stone,
     1776.
 
-[^29]: Publius. *The Federalist.* John and Andrew M'Lean, 1788.
+[^30]: Publius. *The Federalist.* John and Andrew M'Lean, 1788.
 
-[^30]: Sieyès, Emmanuel Joseph. *Qu'est-Ce Que Le Tiers-État?* 1789.
+[^31]: Sieyès, Emmanuel Joseph. *Qu'est-Ce Que Le Tiers-État?* 1789.
 
-[^31]: ---. "What Is the Third Estate?" *Emmanuel Joseph Sieyès: The
+[^32]: ---. "What Is the Third Estate?" *Emmanuel Joseph Sieyès: The
     Essential Political Writings*, Brill, 2014, Oliver W. Lembcke and
     Florian Weber.
 
-[^32]: Marx, Karl and Friedrich Engels. *Manifest Der Kommunistischen
+[^33]: Marx, Karl and Friedrich Engels. *Manifest Der Kommunistischen
     Partei: Veröffentlicht Im Februar 1848.* Gedruckt in der Office der
     "Bildungs-Gesellschaft für Arbeiter" von J.E. Burghard, 1848.
 
-[^33]: ---. *Manifesto of the Communist Party.* Translated by Friedrich
+[^34]: ---. *Manifesto of the Communist Party.* Translated by Friedrich
     Engels, Charles H. Kerr & Company, 1906.
 
-[^34]: Gentile, Benito Mussolini and Giovanni. *La Dottrina Del
+[^35]: Gentile, Benito Mussolini and Giovanni. *La Dottrina Del
     Fascismo.* Treccani, 1932, *Enciclopedia Italiana*.
 
-[^35]: ---. *Fascism Doctrine and Institutions.* Ardita Publishers,
+[^36]: ---. *Fascism Doctrine and Institutions.* Ardita Publishers,
     1935.
 
-[^36]: Gandhi, Mohandas K. *સર્વોદય \[Sarvodaya\].* 1908.
+[^37]: Gandhi, Mohandas K. *સર્વોદય \[Sarvodaya\].* 1908.
 
-[^37]: ---. *Sarvodaya.* Translated by Vinoba Bhave, Jitendra T. Desai,
+[^38]: ---. *Sarvodaya.* Translated by Vinoba Bhave, Jitendra T. Desai,
     1956.
 
-[^38]: Rand, Ayn. *Atlas Shrugged.* Random House, 1957.
+[^39]: Rand, Ayn. *Atlas Shrugged.* Random House, 1957.
 
-[^39]: Wachowski, Lana and Lilly Wachowski. "The Matrix." Warner
+[^40]: Wachowski, Lana and Lilly Wachowski. "The Matrix." Warner
     Brothers, 1999.
 
-[^40]: Swami Vivekananda. "What Is Religion?" *The Complete Works of the
+[^41]: Swami Vivekananda. "What Is Religion?" *The Complete Works of the
     Swami Vivekananda, Part 1*, edited by Swami Prajnananda, Mayavati
     Memorial Edition ed., Prabuddha Bharat Office, 1915, pp. 333-43.
 
-[^41]: Alex-engraver. "Sahaja Subtle System." Wikimedia Foundation,
+[^42]: Alex-engraver. "Sahaja Subtle System." Wikimedia Foundation,
     2011. commons.wikimedia.org/wiki/File:SahajaSubtleSystem.svg.
 
-[^42]: Cook, Francis H. *Hua-Yen Buddhism: The Jewel Net of Indra.* Penn
+[^43]: Cook, Francis H. *Hua-Yen Buddhism: The Jewel Net of Indra.* Penn
     State Press, 2010.
 
-[^43]: National Anthem of India, Abridged Version.
+[^44]: National Anthem of India, Abridged Version.
 
-[^44]: Tagore, Rabindranath. "Bharoto Bhagyo Bidhata." 1911.
+[^45]: Tagore, Rabindranath. "Bharoto Bhagyo Bidhata." 1911.
 
-[^45]: ---. "The Morning Song of India." 1919.
+[^46]: ---. "The Morning Song of India." 1919.
 
-[^46]: Kipling, Rudyard. "The Elephant’s Child." *Just So Stories*,
+[^47]: Kipling, Rudyard. "The Elephant’s Child." *Just So Stories*,
     Doubleday, Page & Company, 1902, pp. 63-83.
 
-[^47]: Kapoor, Raj. "Mera Naam Joker." R. K. Films, 1970.
+[^48]: Kapoor, Raj. "Mera Naam Joker." R. K. Films, 1970.
 
 
-[^48]: The whole problem of speaking about the end (particularly the end
+[^49]: The whole problem of speaking about the end (particularly the end
     of history) is that you have to speak of what lies beyond the end
     and also, at the same time, of the impossibility of ending. This
     paradox is produced by the fact that in a non-linear, non-Euclidean
@@ -1471,7 +1473,12 @@ Galpin, 1867.
     Baudrillard, J. *The Illusion of the End.* Stanford University
     Press, 1994.
 
-[^49]: Dr. S. Radhakrishnan explained—"Bhagwa or the Saffron denotes
+[^50]: त्रि, *tri* “three” +‎ रङ्ग, *raṅga*: “colour”
+
+    Sir Monier Monier-Williams. *Dictionary, Sanskrit-English*, 
+    Universität zu Köln, 1899, https://www.sanskrit-lexicon.uni-koeln.de.
+
+[^51]: Dr. S. Radhakrishnan explained—"Bhagwa or the Saffron denotes
     renunciation or disinterestedness. Our leaders must be indifferent
     to material gains and dedicate themselves to their work. The white
     in the centre is light, the path of truth to guide our conduct. The
