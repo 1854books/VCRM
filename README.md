@@ -1280,7 +1280,7 @@ Galpin, 1867.
 
 ![img](positivelyNotTheEnd.jpg)
 
-## तिरंगा, tiraṅgā: "tricolour"^[50]
+## तिरंगा, tiraṅgā: "tricolour"[^50]
 
 ![img](flagOfIndia.jpg)
 
