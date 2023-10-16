@@ -1289,9 +1289,9 @@ Wachowski, Lana and Lilly Wachowski. "The Matrix." Warner Brothers,
 
 ## तिरंगा, tiraṅgā: "tricolour"[^50]
 
-![img](flagOfIndia.jpg)[^51]
+![img](flagOfIndia.jpg)
 
-The National Flag of India[^52]
+Flag of India — Construction Sheet[^51][^52]
 
 [^1]: मनु, *manu*: " thinking creature" + स्मृति, *smṛti*: "remembrance"
 
