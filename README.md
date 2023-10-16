@@ -1149,10 +1149,18 @@ Sahaja Subtle System[^42]
 
 ## Bibliography 
 
+*Al-Qurʾān.* The Cairo Edition, Amiri Press, 1924, Al-Azhar University.
+
+*The Bhagavad Gita with the Commentary of Sri Sankaracharya.* Translated
+by Alladi Mahadeva Sastri, Samata Books, 1897.
+
 *The Christian Bible.* Novum Testamentum Graece, Wurttembergische
 Bibelanstalt, 1898, Eberhard Nestle.
 
-"The Flag Code of India." Ministry of Home Affairs, Government of India,
+*The Dhammapada.* Translated by Daw Mya Tin, Department for the
+Promotion and Propagation of the Sasana, 1993.
+
+*The Flag Code of India.* Ministry of Home Affairs, Government of India,
 2002.
 
 *The Holy Bible, Containing the Old Teſtament, and the New: Tranſlated
@@ -1165,11 +1173,19 @@ with the Aid of Previous Versions and with Constant Consultation of
 Jewish Authorities.* Jewish Publication Society of America, 1917, Max L.
 Margolis.
 
-"Mundakopanishad." Ministry of Culture, Government of India, 2023,
-vedicheritage.gov.in/upanishads/mundakopanishad/.
+*Mahābhāratam.* BORI Critical Edition, The Bhandarkar Oriental Research
+Institute, 1966, Vishnu S. Sukhtankar.
+
+*The Message of the Qurʼan.* Translated by Muhammad Asad, Book
+Foundation, 2004.
+
+*Mundakopanishad.* Ministry of Culture, Government of India, 2023.
 
 *Pali Tipiṭaka.* Sixth Council Edition, Vipassana Research Institute,
 1956, The Sixth Buddhist Council.
+
+*The Torah.* Aleppo Codex, Shlomo ben Buya, 920, Aaron ben Moses ben
+Asher.
 
 Abbas, Khwaja Ahmad. *Mera Naam Joker.* HarperCollins, 2014.
 
@@ -1203,8 +1219,9 @@ Gupta, Mahendranath. *The Gospel of Sri Ramakrishna.* Edited by
 Mahendranath Gupta, Translated by Swami Nikhilananda,
 Ramakrishna-Vivekananda Center of New York, 1942.
 
-Jefferson, Thomas. *Declaration of Independence.* Edited by Second
-Continental Congress, Stone Engraving, William J. Stone, 1776.
+Jefferson, Thomas. "Declaration of Independence." Stone Engraving ed.,
+William J. Stone, 1820 1776. general editor, Second Continental
+Congress.
 
 Kapoor, Raj. "Mera Naam Joker." R. K. Films, 1970.
 
@@ -1220,15 +1237,6 @@ Veröffentlicht Im Februar 1848.* Gedruckt in der Office der
 
 ---. *Manifesto of the Communist Party.* Translated by Friedrich Engels,
 Charles H. Kerr & Company, 1906.
-
-Moses. *The Torah.* Aleppo Codex, Shlomo ben Buya, 920, Aaron ben Moses
-ben Asher.
-
-Muhammad. *Al-Qurʾān.* The Cairo Edition, Amiri Press, 1924, Al-Azhar
-University.
-
----. *The Message of the Qurʼan.* Translated by Muhammad Asad, Book
-Foundation, 2004.
 
 Publius. *The Federalist.* John and Andrew M'Lean, 1788.
 
@@ -1266,15 +1274,6 @@ Prabuddha Bharat Office, 1915, pp. 333-43.
 Tagore, Rabindranath. "Bharoto Bhagyo Bidhata." 1911.
 
 ---. "The Morning Song of India." 1919.
-
-The Buddha. *The Dhammapada.* Translated by Daw Mya Tin, Department for
-the Promotion and Propagation of the Sasana, 1993.
-
-Vyāsaḥ. *The Bhagavad Gita with the Commentary of Sri Sankaracharya.*
-Translated by Alladi Mahadeva Sastri, Samata Books, 1897.
-
----. *Mahābhāratam.* BORI Critical Edition, The Bhandarkar Oriental
-Research Institute, 1966, Vishnu S. Sukhtankar.
 
 Wachowski, Lana and Lilly Wachowski. "The Matrix." Warner Brothers,
 1999.
@@ -1330,8 +1329,7 @@ The National Flag of India[^52]
     Greek, Latin, Gothic, German, Anglo-Saxon, and other cognate
     Indo-European languages*, The Clarendon Press, 1872.
 
-[^8]: "Mundakopanishad." Ministry of Culture, Government of India, 2023,
-    vedicheritage.gov.in/upanishads/mundakopanishad/.
+[^8]: *Mundakopanishad.* Ministry of Culture, Government of India, 2023.
 
 [^9]: Radhakrishnan, Sarvepalli. *The Principal Upaniṣads.*
     HarperCollins Publishers, 2020.
@@ -1384,8 +1382,8 @@ The National Flag of India[^52]
     Prajnananda, Mayavati Memorial Edition ed., Prabuddha Bharat Office,
     1915, pp. 439-49.
 
-[^19]: Moses. *The Torah.* Aleppo Codex, Shlomo ben Buya, 920, Aaron ben
-    Moses ben Asher.
+[^19]: *The Torah.* Aleppo Codex, Shlomo ben Buya, 920, Aaron ben Moses
+    ben Asher.
 
 [^20]: *The Holy Scriptures According to the Masoretic Text a New
     Translation with the Aid of Previous Versions and with Constant
@@ -1395,15 +1393,14 @@ The National Flag of India[^52]
 [^21]: *Pali Tipiṭaka.* Sixth Council Edition, Vipassana Research
     Institute, 1956, The Sixth Buddhist Council.
 
-[^22]: The Buddha. *The Dhammapada.* Translated by Daw Mya Tin,
-    Department for the Promotion and Propagation of the Sasana, 1993.
+[^22]: *The Dhammapada.* Translated by Daw Mya Tin, Department for the
+    Promotion and Propagation of the Sasana, 1993.
 
-[^23]: Vyāsaḥ. *Mahābhāratam.* BORI Critical Edition, The Bhandarkar
-    Oriental Research Institute, 1966, Vishnu S. Sukhtankar.
+[^23]: *Mahābhāratam.* BORI Critical Edition, The Bhandarkar Oriental
+    Research Institute, 1966, Vishnu S. Sukhtankar.
 
-[^24]: ---. *The Bhagavad Gita with the Commentary of Sri
-    Sankaracharya.* Translated by Alladi Mahadeva Sastri, Samata Books,
-    1897.
+[^24]: *The Bhagavad Gita with the Commentary of Sri Sankaracharya.*
+    Translated by Alladi Mahadeva Sastri, Samata Books, 1897.
 
 [^25]: *The Christian Bible.* Novum Testamentum Graece, Wurttembergische
     Bibelanstalt, 1898, Eberhard Nestle.
@@ -1414,15 +1411,15 @@ The National Flag of India[^52]
     Speciall Comand.* Oxford University Press, 1769, The Church of
     England.
 
-[^27]: Muhammad. *Al-Qurʾān.* The Cairo Edition, Amiri Press, 1924,
-    Al-Azhar University.
+[^27]: *Al-Qurʾān.* The Cairo Edition, Amiri Press, 1924, Al-Azhar
+    University.
 
-[^28]: ---. *The Message of the Qurʼan.* Translated by Muhammad Asad,
-    Book Foundation, 2004.
+[^28]: *The Message of the Qurʼan.* Translated by Muhammad Asad, Book
+    Foundation, 2004.
 
-[^29]: Jefferson, Thomas. *Declaration of Independence.* Edited by
-    Second Continental Congress, Stone Engraving, William J. Stone,
-    1776.
+[^29]: Jefferson, Thomas. "Declaration of Independence." Stone Engraving
+    ed., William J. Stone, 1820 1776. general editor, Second Continental
+    Congress.
 
 [^30]: Publius. *The Federalist.* John and Andrew M'Lean, 1788.
 
@@ -1532,5 +1529,5 @@ The National Flag of India[^52]
     should no more resist change, it must move and go forward. The wheel
     represents the dynamism of a peaceful change (Government of India).”
 
-    "The Flag Code of India." Ministry of Home Affairs, Government of
+    *The Flag Code of India.* Ministry of Home Affairs, Government of
     India, 2002.
