@@ -1052,12 +1052,7 @@ for evermore."
 
 ![img](sahajaSubtleSystem.jpg)
 
-1\. The Muladhara Chakra. 1a. The Muladhara. 2. The Svadishthana Chakra.
-3. The Nabhi Chakra. 3a. The Void. 4. The Anahata Chakra.
-5. The Vishuddhi Chakra. 6. The Ajna Chakra. 7. The Sahasrara Chakra.
-A. Kundalini. B. Left channel (Ida nadi). C. Central channel (Sushumna
-nadi). D. Right channel (Pingala nadi). E. Spirit. F. Ego.
-G. Superego.[^42]
+Sahaja Subtle System[^42]
 
 
 ## Postface
@@ -1439,7 +1434,14 @@ The National Flag of India[^51]
     Swami Vivekananda, Part 1*, edited by Swami Prajnananda, Mayavati
     Memorial Edition ed., Prabuddha Bharat Office, 1915, pp. 333-43.
 
-[^42]: Alex-engraver. "Sahaja Subtle System." Wikimedia Foundation,
+[^42]: 1. The Muladhara Chakra. 1a. The Muladhara. 2. The Svadishthana Chakra.
+3. The Nabhi Chakra. 3a. The Void. 4. The Anahata Chakra.
+5. The Vishuddhi Chakra. 6. The Ajna Chakra. 7. The Sahasrara Chakra.
+A. Kundalini. B. Left channel (Ida nadi). C. Central channel (Sushumna
+nadi). D. Right channel (Pingala nadi). E. Spirit. F. Ego.
+G. Superego.
+
+Alex-engraver. "Sahaja Subtle System." Wikimedia Foundation,
     2011. commons.wikimedia.org/wiki/File:SahajaSubtleSystem.svg.
 
 [^43]: Cook, Francis H. *Hua-Yen Buddhism: The Jewel Net of Indra.* Penn
