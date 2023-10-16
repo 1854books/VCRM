@@ -1183,6 +1183,8 @@ HarperCollins Publishers, 2020.
 *Tanakh.* Aleppo Codex, Shlomo ben Buya, circa 920, Aaron ben Moses ben
 Asher.
 
+Abbas, Khwaja Ahmad. *Mera Naam Joker.* HarperCollins, 2014.
+
 Alex-engraver. "Sahaja Subtle System." Wikimedia Foundation, 2011.
 commons.wikimedia.org/wiki/File:SahajaSubtleSystem.svg.
 
@@ -1458,20 +1460,32 @@ The National Flag of India[^51]
 [^48]: Kapoor, Raj. "Mera Naam Joker." R. K. Films, 1970.
 
 
-[^49]: The whole problem of speaking about the end (particularly the end
-    of history) is that you have to speak of what lies beyond the end
-    and also, at the same time, of the impossibility of ending. This
-    paradox is produced by the fact that in a non-linear, non-Euclidean
-    space of history the end cannot be located. The end is, in fact,
-    only conceivable in a logical order of causality and continuity.
-    Now, it is events themselves which, by their artificial production,
-    their programmed occurrence or the anticipation of their effects -
-    not to mention their transfiguration in the media - are suppressing
-    the cause effect relation and hence all historical continuity
-    (Baudrillard 110).
+[^49]: Rajoo was now going up—and up—till he was high above the heads of
+    all the other jokers and performers. Then, at a signal from him, the
+    music and the singing was stilled, the circus arena was hushed into
+    expectant silence, as he made an unusual announcement: ‘Ladies and
+    gentlemen. There will be an interval.’ Then, looking at Marina, with
+    a smile— ’Eto Entrakt … This may be of fifteen minutes, as is usual,
+    or fifteen hours, or fifteen months, but please don’t go away. It is
+    not yet the end of my story. The Joker’s show is not yet over. Not
+    yet …
 
-    Baudrillard, J. *The Illusion of the End.* Stanford University
-    Press, 1994.
+    The circus resounded with thunderous applause. In the ring, hundreds
+    of performers were singing, dancing, and Rajoo was singing with
+    them, and the spectators were singing with Rajoo—for that moment,
+    the performers and the spectators had become one, singing in unison,
+    out of the unity of their hearts, of their emotions. In the centre,
+    and high above the audience, stood Rajoo, the old joker, singing,
+    urging people to sing louder, waving to his friends—and all were his
+    friends. He was laughing and making the world laugh with him …
+
+    But, in the midst of this festival of gaiety and laughter, this
+    colourful spectacle of song and dance, every now and then Rajoo’s
+    hand would go to his heart as his face contorted with unbearable
+    pain—because his heart was too big, and the world too small (Abbas,
+    202-03)!’
+
+    Abbas, Khwaja Ahmad. *Mera Naam Joker.* HarperCollins, 2014.
 
 [^50]: त्रि, *tri* “three” +‎ रङ्ग, *raṅga*: “colour”
 
