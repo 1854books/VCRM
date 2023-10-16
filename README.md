@@ -1154,99 +1154,45 @@ G. Superego.[^42]
 
 ## Bibliography 
 
-*Al-Qurʾān.* The Cairo Edition, Amiri Press, 1924, Al-Azhar University.
 
-*The Christian Bible.* Novum Testamentum Graece, Wurttembergische
-Bibelanstalt, 1898, Eberhard Nestle.
+*Tanakh.* Aleppo Codex, Shlomo ben Buya, 920, Aaron ben Moses ben Asher.
 
-*The Dhammapada.* Translated by Daw Mya Tin, Department for the
-Promotion and Propagation of the Sasana, 1993.
+Shakespeare, William. *Romeo and Juliet, Quarto 2.* Thomas Creede, 1599.
 
 *The Holy Bible, King James Version.* Oxford University Press, 1769.
-
-*The Holy Scriptures.* Translated by M.L. Margolis, Jewish Publication
-Society of America, 1917.
-
-*The Message of the Qurʼan.* Translated by Muhammad Asad, Book
-Foundation, 2004.
-
-"Mundaka Upanishad." Sanskrit Documents, 2023,
-sanskritdocuments.org/doc_upanishhat/mundaka.html. Accessed 1 January
-2023.
-
-*Pali Tipiṭaka.* Sixth Council Edition, Vipassana Research Institute,
-1956, The Sixth Buddhist Council.
-
-*The Principal Upaniṣads.* Translated by Sarvepalli Radhakrishnan,
-HarperCollins Publishers, 2020.
-
-*Tanakh.* Aleppo Codex, Shlomo ben Buya, circa 920, Aaron ben Moses ben
-Asher.
-
-Abbas, Khwaja Ahmad. *Mera Naam Joker.* HarperCollins, 2014.
-
-Alex-engraver. "Sahaja Subtle System." Wikimedia Foundation, 2011.
-commons.wikimedia.org/wiki/File:SahajaSubtleSystem.svg.
-
-Cook, Francis H. *Hua-Yen Buddhism: The Jewel Net of Indra.* Penn State
-Press, 2010.
-
-Erikson, E.H. and J.M. Erikson. *Life Cycle Completed.* W. W. Norton,
-1998.
-
-Gandhi, Mohandas K. "The Magic Spell of a Book." *An Autobiography, or,
-the Story of My Experiments with Truth*, translated by Mahadev Desai,
-Navajivan Publishing House, 1945, pp. 334-36.
-
----. *Sarvodaya.* Translated by Vinoba Bhave, Jitendra T. Desai, 1956.
-
----. *સર્વોદય \[Sarvodaya\].* 1908.
-
-Gentile, Benito Mussolini and Giovanni. *Fascism Doctrine and
-Institutions.* Ardita Publishers, 1935.
-
----. *La Dottrina Del Fascismo.* Treccani, 1932, *Enciclopedia
-Italiana*.
-
-Government of India. "The Flag Code of India." Ministry of Home Affairs,
-2002.
-
-Gupta, Mahendranath. *The Gospel of Sri Ramakrishna.* Translated by
-Swami Nikhilananda, Ramakrishna-Vivekananda Center of New York, 1942.
 
 Jefferson, Thomas. *Declaration of Independence.* Edited by Second
 Continental Congress, Stone Engraving, William J. Stone, 1776.
 
-Kapoor, Raj. "Mera Naam Joker." R. K. Films, 1970.
+Publius. *The Federalist.* John and Andrew M'Lean, 1788.
 
-Kipling, Rudyard. "The Elephant’s Child." *Just So Stories*, Doubleday,
-Page & Company, 1902, pp. 63-83.
+Sieyès, Emmanuel Joseph. *Qu'est-Ce Que Le Tiers-État?* 1789.
 
 Marx, Karl and Friedrich Engels. *Manifest Der Kommunistischen Partei:
 Veröffentlicht Im Februar 1848.* Gedruckt in der Office der
 "Bildungs-Gesellschaft für Arbeiter" von J.E. Burghard, 1848.
 
----. *Manifesto of the Communist Party.* Translated by Friedrich Engels,
-Charles H. Kerr & Company, 1906.
+Vyāsaḥ. *The Bhagavad Gita with the Commentary of Sri Sankaracharya.*
+Translated by Alladi Mahadeva Sastri, Samata Books, 1897.
 
-Publius. *The Federalist.* John and Andrew M'Lean, 1788.
-
-Rand, Ayn. *Atlas Shrugged.* Random House, 1957.
-
----. *For the New Intellectual.* Penguin Publishing Group, 1963.
-
-Shakespeare, William. *Romeo and Juliet, Quarto 2.* Thomas Creede, 1599.
-
-Sieyès, Emmanuel Joseph. *Qu'est-Ce Que Le Tiers-État?* 1789.
-
----. "What Is the Third Estate?" *Emmanuel Joseph Sieyès: The Essential
-Political Writings*, Brill, 2014, Oliver W. Lembcke and Florian Weber.
+*The Christian Bible.* Novum Testamentum Graece, Wurttembergische
+Bibelanstalt, 1898, Eberhard Nestle.
 
 Sir Monier Monier-Williams. *Dictionary, Sanskrit-English*, Universität
 zu Köln, 1899, <https://www.sanskrit-lexicon.uni-koeln.de>.
 
 Swami Abhedānanda. *Vedanta Philosophy Three Lectures.* The Vedanta
 Society, 1901.
+
+Kipling, Rudyard. "The Elephant’s Child." *Just So Stories*, Doubleday,
+Page & Company, 1902, pp. 63-83.
+
+Marx, Karl and Friedrich Engels. *Manifesto of the Communist Party.*
+Translated by Friedrich Engels, Charles H. Kerr & Company, 1906.
+
+Gandhi, Mohandas K. *સર્વોદય \[Sarvodaya\].* 1908.
+
+Tagore, Rabindranath. "Bharoto Bhagyo Bidhata." 1911.
 
 Swami Vivekananda. "A Study of the Sāṅkhya Philosophy." *The Complete
 Works of the Swami Vivekananda, Part 2*, edited by Swami Prajnananda,
@@ -1257,26 +1203,81 @@ Mayavati Memorial Edition ed., Prabuddha Bharat Office, 1915, pp.
 Part 1*, edited by Swami Prajnananda, Mayavati Memorial Edition ed.,
 Prabuddha Bharat Office, 1915, pp. 333-43.
 
-Tagore, Rabindranath. "Bharoto Bhagyo Bidhata." 1911.
+*The Holy Scriptures.* Translated by M.L. Margolis, Jewish Publication
+Society of America, 1917.
 
----. "The Morning Song of India." 1919.
+Tagore, Rabindranath. "The Morning Song of India." 1919.
 
-Vyāsaḥ. *The Bhagavad Gita with the Commentary of Sri Sankaracharya.*
-Translated by Alladi Mahadeva Sastri, Samata Books, 1897.
+*Al-Qurʾān.* The Cairo Edition, Amiri Press, 1924, Al-Azhar University.
 
----. *Mahābhāratam.* BORI Critical Edition, The Bhandarkar Oriental
+Gentile, Benito Mussolini and Giovanni. *La Dottrina Del Fascismo.*
+Treccani, 1932, *Enciclopedia Italiana*.
+
+---. *Fascism Doctrine and Institutions.* Ardita Publishers, 1935.
+
+Gupta, Mahendranath. *The Gospel of Sri Ramakrishna.* Translated by
+Swami Nikhilananda, Ramakrishna-Vivekananda Center of New York, 1942.
+
+Gandhi, Mohandas K. "The Magic Spell of a Book." *An Autobiography, or,
+the Story of My Experiments with Truth*, translated by Mahadev Desai,
+Navajivan Trust, 1945, pp. 334-36.
+
+*Pali Tipiṭaka.* Sixth Council Edition, Vipassana Research Institute,
+1956, The Sixth Buddhist Council.
+
+Gandhi, Mohandas K. *Sarvodaya.* Translated by Vinoba Bhave, Jitendra T.
+Desai, 1956.
+
+Rand, Ayn. *Atlas Shrugged.* Random House, 1957.
+
+---. *For the New Intellectual.* Penguin Publishing Group, 1963.
+
+Vyāsaḥ. *Mahābhāratam.* BORI Critical Edition, The Bhandarkar Oriental
 Research Institute, 1966, Vishnu S. Sukhtankar.
+
+Kapoor, Raj. "Mera Naam Joker." R. K. Films, 1970.
+
+*The Dhammapada.* Translated by Daw Mya Tin, Department for the
+Promotion and Propagation of the Sasana, 1993.
+
+Erikson, E.H. and J.M. Erikson. *Life Cycle Completed.* W. W. Norton,
+1998.
 
 Wachowski, Lana and Lilly Wachowski. "The Matrix." Warner Brothers,
 1999.
 
+Government of India. "The Flag Code of India." Ministry of Home Affairs,
+2002.
+
+Belsare, Malhar Bhikaji. *ગુજરાતી-અંગ્રેજી ડિકશનરી \[Etymological
+Gujarati-English Dictionary\].* 2nd Edition, Asian Educational Services,
+2002.
+
+*The Message of the Qurʼan.* Translated by Muhammad Asad, Book
+Foundation, 2004.
+
+Cook, Francis H. *Hua-Yen Buddhism: The Jewel Net of Indra.* Penn State
+Press, 2010.
+
+Alex-engraver. "Sahaja Subtle System." Wikimedia Foundation, 2011.
+commons.wikimedia.org/wiki/File:SahajaSubtleSystem.svg.
+
+Abbas, Khwaja Ahmad. *Mera Naam Joker.* HarperCollins, 2014.
+
+Sieyès, Emmanuel Joseph. "What Is the Third Estate?" *Emmanuel Joseph
+Sieyès: The Essential Political Writings*, Brill, 2014, Oliver W.
+Lembcke and Florian Weber.
+
+*The Principal Upaniṣads.* Translated by Sarvepalli Radhakrishnan,
+HarperCollins Publishers, 2020.
+
 "Why the Matrix Is a Trans Story According to Lilly Wachowski."
-*Netflix: Behind the Streams*. reported by Lilly Wachowski, 4 August,
-2020 2020, Netflix.
+*Netflix: Behind the Streams*. reported by Lilly Wachowski, 4 August
+2020, Netflix.
 
-Wallace, Robert. *The Popular Educator.* vol. 1, Cassell, Petter, And
-Galpin, 1867.
-
+"Mundaka Upanishad." Sanskrit Documents, 2023,
+sanskritdocuments.org/doc_upanishhat/mundaka.html. Accessed 1 January
+2023.
 
 ## Positively Not The End[^49]
 
