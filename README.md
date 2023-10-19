@@ -709,7 +709,7 @@ when it is constructed.
 > Agent Smith: Everything that has a beginning has an end, Neo (*The Matrix
 > Revolutions* 1:52:03).[^40]
 
-## Conclusion or What is *sanātana dharma*?
+## Conclusion or What is *dharma*?
 
 <details>
 <summary>
