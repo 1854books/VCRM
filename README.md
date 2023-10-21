@@ -1140,10 +1140,10 @@ Sahaja Subtle System[^42]
 > राजू: ए भाई, ज़रा देख के चलो / आगे ही नहीं, पीछे भी / दायें ही नहीं,
 > बायें भी / ऊपर ही नहीं नीचे भी
 >
-> Raju: E bhaai, zara dekh ke chalo / Age hi nahin, pichhe bhi / Daayen
+> Rajoo: E bhaai, zara dekh ke chalo / Age hi nahin, pichhe bhi / Daayen
 > hi nahin, baayen bhi /Upar hi nahin, niche bhi
 >
-> Raju: Hey brother, take a small look before walking / Not only ahead
+> Rajoo: Hey brother, take a small look before walking / Not only ahead
 > but behind as well / Not only right but left as well/ Not only up but
 > down as well…(Mera Naam Joker 1:49:01-1:52:44).[^48]
 
