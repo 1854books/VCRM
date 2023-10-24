@@ -116,11 +116,11 @@ verse"[^14] in the specific differentia.
 
 ## Introduction or What is *sāṅkhya*?
 
+Excerpt From *The Complete Works of the Swami Vivekananda, Part 2*: A Study of the Sāṅkhya Philosophy[^18]
+
 <details>
 <summary>
-  
-Excerpt From *The Complete Works of the Swami Vivekananda, Part 2*: A Study of the Sāṅkhya Philosophy By Swami Vivekananda[^18]
-
+By Swami Vivekananda
 </summary>
   
 Prakriti is called by the Sāṅkhya philosophers indiscrete, and defined
@@ -711,12 +711,14 @@ when it is constructed.
 
 ## Conclusion or What is *Religion*?
 
+Excerpt From *The Complete Works of the Swami Vivekananda, Volume 1*: What is Religion?[^41]
+
 <details>
 <summary>
-  
-Excerpt From *The Complete Works of the Swami Vivekananda, Volume 1*: What is Religion? By Swami Vivekananda[^41]
-
+	By Swami Vivekananda
 </summary>
+
+
 
 A huge locomotive has rushed on over the line and a small worm that was
 creeping upon one of the rails saved its life by crawling out of the
