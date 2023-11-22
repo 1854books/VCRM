@@ -1141,7 +1141,7 @@ Sahaja Subtle System[^42]
 >
 > Rajoo: Hey brother, take a small look before walking / Not only ahead
 > but behind as well / Not only right but left as well/ Not only up but
-> down as well…(Mera Naam Joker 1:49:01-1:52:44).[^48]
+> down as well…(Mera Naam Joker 1:49:01-1:52:44).[^49]
 
 ## Bibliography 
 
@@ -1259,15 +1259,15 @@ Indo-European languages*, The Clarendon Press, 1872.
 Sloan, Michael 
 
 
-## Positively Not The End[^49]
+## Positively Not The End[^50]
 
 ![img](positivelyNotTheEnd.jpg)
 
-## तिरंगा, tiraṅgā: "tricolour"[^50]
+## तिरंगा, tiraṅgā: "tricolour"[^51]
 
 ![img](flagOfIndia.jpg)
 
-Flag of India — Construction Sheet[^51][^52]
+Flag of India — Construction Sheet[^52][^53]
 
 [^1]: मनु, *manu*: " thinking creature" + स्मृति, *smṛti*: "remembrance"
 
