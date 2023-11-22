@@ -1115,27 +1115,21 @@ Sahaja Subtle System[^42]
 
 ## About the Author
 
-> I keep six honest serving-men;  
-> (They taught me all I knew)  
-> Their names are What and Where and When  
-> And How and Where and Who.  
-> I send them over land and sea,  
-> I send them east and west;  
-> But after they have worked for me,  
-> *I* give them all a rest.  
->   
-> *I* let them rest from nine till five.  
-> For I am busy then,  
-> As well as breakfast, lunch, and tea,  
-> For they are hungry men:  
-> But different folk have different views;  
-> I know a person small—  
-> She keeps ten million serving-men,  
-> Who get no rest at all!  
-> She sends 'em abroad on her own affairs,  
-> From the second she opens her eyes—  
-> One million Hows, two million Wheres,  
-> And seven million Whys (Kipling 83)![^47]
+> ἴσως οὖν οὐ χεῖρον διορίσαι αὐτά, τίνα καὶ πόσα ἐστί, τίς τε δὴ καὶ τί
+> καὶ περὶ τί ἢ ἐν τίνι πράττει, ἐνίοτε δὲ καὶ τίνι, οἷον ὀργάνῳ, καὶ
+> ἕνεκα τίνος, οἷον σωτηρίας, καὶ πῶς, οἷον ἠρέμα ἢ σφόδρα.[^47]
+>
+> *ísos oún ou cheíron diorísai aftá, tína kaí pósa estí, tís te dí kaí
+> tí kaí perí tí í en tíni práttei, eníote dé kaí tíni, oíon orgáno, kaí
+> éneka tínos, oíon sotirías, kaí pós, oíon iréma í sfódra.*
+>
+> Therefore it is not a pointless endeavor to divide these circumstances
+> by kind and number:(1) the who, (2) the what, (3) around what place or
+> (4) in which time something happens,and sometimes (5) with what, such
+> as an instrument, (6) for the sake of what, such assaving a life, and
+> (7) the how, such as gently or violently (Nicomachean Ethics
+> 1111a3–8).[^48]
+
 
 ## Postscirpt
 
@@ -1193,6 +1187,10 @@ Abbas, Khwaja Ahmad. *Mera Naam Joker.* HarperCollins, 2014.
 
 Alex-engraver. "Sahaja Subtle System." Wikimedia Foundation, 2011.
 
+Aristotle. *Aristotelis Opera Edidit Academia Regia Borussica Ex
+Recognitione Immanuelis Bekkeri.* Edited by Immanuel Bekker, Academia
+regia borussica, 1831.
+
 Belsare, Malhar Bhikaji. *ગુજરાતી-અંગ્રેજી ડિકશનરી \[Etymological
 Gujarati-English Dictionary\].* 2nd Edition, Asian Educational Services,
 2002.
@@ -1204,7 +1202,7 @@ Erikson, E.H. and J.M. Erikson. *Life Cycle Completed.* W. W. Norton,
 1998.
 
 Gandhi, Mohandas K. "The Magic Spell of a Book." *An Autobiography, or,
-the Story of My Experiments with Truth*, translated by Mahadev Desai,
+the Story of My Experiments with Truth*, Translated by Mahadev Desai,
 Navajivan Trust, 1945, pp. 334-36.
 
 ---. *Sarvodaya.* Translated by Vinoba Bhave, Jitendra T. Desai, 1956.
@@ -1226,9 +1224,6 @@ William J. Stone, 1820 1776. general editor, Second Continental
 Congress.
 
 Kapoor, Raj. "Mera Naam Joker." R. K. Films, 1970.
-
-Kipling, Rudyard. "The Elephant’s Child." *Just So Stories*, Doubleday,
-Page & Company, 1902, pp. 63-83.
 
 MapGrid. "Flag of India — Construction Sheet." Wikimedia Foundation,
 2023.
@@ -1261,28 +1256,7 @@ etymologically and philologically arranged with special reference to
 Greek, Latin, Gothic, German, Anglo-Saxon, and other cognate
 Indo-European languages*, The Clarendon Press, 1872.
 
-Swami Abhedānanda. *Vedanta Philosophy Three Lectures.* The Vedanta
-Society, 1901.
-
-Swami Vivekananda. "A Study of the Sāṅkhya Philosophy." *The Complete
-Works of the Swami Vivekananda, Part 2*, edited by Swami Prajnananda,
-Mayavati Memorial Edition ed., Prabuddha Bharat Office, 1915, pp.
-439-49.
-
----. "What Is Religion?" *The Complete Works of the Swami Vivekananda,
-Part 1*, edited by Swami Prajnananda, Mayavati Memorial Edition ed.,
-Prabuddha Bharat Office, 1915, pp. 333-43.
-
-Tagore, Rabindranath. "Bharoto Bhagyo Bidhata." 1911.
-
----. "The Morning Song of India." 1919.
-
-Wachowski, Lana and Lilly Wachowski. "The Matrix." Warner Brothers,
-1999.
-
-"Why the Matrix Is a Trans Story According to Lilly Wachowski."
-*Netflix: Behind the Streams*. reported by Lilly Wachowski, 4 August
-2020, Netflix.
+Sloan, Michael 
 
 
 ## Positively Not The End[^49]
@@ -1476,12 +1450,17 @@ Flag of India — Construction Sheet[^51][^52]
 
 [^46]: ---. "The Morning Song of India." 1919.
 
-[^47]: Kipling, Rudyard. "The Elephant’s Child." *Just So Stories*,
-    Doubleday, Page & Company, 1902, pp. 63-83.
+[^47]: Aristotle. *Aristotelis Opera Edidit Academia Regia Borussica Ex
+    Recognitione Immanuelis Bekkeri.* Edited by Immanuel Bekker,
+    Academia regia borussica, 1831.
 
-[^48]: Kapoor, Raj. "Mera Naam Joker." R. K. Films, 1970.
+[^48]: Sloan, Michael C. "Aristotle’s Nicomachean Ethics as the Original
+    Locus for the Septem Circumstantiae." *Classical Philology*, vol.
+    105, no. 3, 2010, pp. 236-51.
 
-[^49]: Rajoo was now going up—and up—till he was high above the heads of
+[^49]: Kapoor, Raj. "Mera Naam Joker." R. K. Films, 1970.
+
+[^50]: Rajoo was now going up—and up—till he was high above the heads of
     all the other jokers and performers. Then, at a signal from him, the
     music and the singing was stilled, the circus arena was hushed into
     expectant silence, as he made an unusual announcement: ‘Ladies and
@@ -1508,17 +1487,17 @@ Flag of India — Construction Sheet[^51][^52]
 
     Abbas, Khwaja Ahmad. *Mera Naam Joker.* HarperCollins, 2014.
 
-[^50]: त्रि, tri “three” +‎ रङ्ग, raṅga: “colour”
+[^51]: त्रि, tri “three” +‎ रङ्ग, raṅga: “colour”
 
     Sir Monier Monier-Williams. *A Sanskṛit-English dictionary
     etymologically and philologically arranged with special reference to
     Greek, Latin, Gothic, German, Anglo-Saxon, and other cognate
     Indo-European languages*, The Clarendon Press, 1872.
 
-[^51]: MapGrid. "Flag of India — Construction Sheet." Wikimedia
+[^52]: MapGrid. "Flag of India — Construction Sheet." Wikimedia
     Foundation, 2023.
 
-[^52]: Dr. S. Radhakrishnan explained—"Bhagwa or the Saffron denotes
+[^53]: Dr. S. Radhakrishnan explained—"Bhagwa or the Saffron denotes
     renunciation or disinterestedness. Our leaders must be indifferent
     to material gains and dedicate themselves to their work. The white
     in the centre is light, the path of truth to guide our conduct. The
