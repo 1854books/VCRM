@@ -1126,7 +1126,7 @@ Sahaja Subtle System[^42]
 > Therefore it is not a pointless endeavor to divide these circumstances
 > by kind and number:(1) the who, (2) the what, (3) around what place or
 > (4) in which time something happens,and sometimes (5) with what, such
-> as an instrument, (6) for the sake of what, such assaving a life, and
+> as an instrument, (6) for the sake of what, such as saving a life, and
 > (7) the how, such as gently or violently (Nicomachean Ethics
 > 1111a3–8).[^48]
 
