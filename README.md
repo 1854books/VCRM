@@ -516,7 +516,7 @@ when it is constructed.
 > Pritha, and comes forth at the coming on of day (*Bhagavad Gita*
 > 8.18-19).[^24]
 
-## *Euangélion katà Iōánnēn*
+## *euangélion katà Iōánnēn*
 
 > ἐν ἀρχῇ ἦν ὁ λόγος, καὶ ὁ λόγος ἦν πρὸς τὸν θεόν, καὶ θεὸς ἦν ὁ λόγος.<br>
 > οὖτος ἦν ἐν ἀρχῇ πρὸς τὸν θεόν.[^25]
