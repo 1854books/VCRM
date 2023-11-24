@@ -1115,33 +1115,18 @@ Sahaja Subtle System[^42]
 
 ## About the Author
 
-> ἴσως οὖν οὐ χεῖρον διορίσαι αὐτά, τίνα καὶ πόσα ἐστί, τίς τε δὴ καὶ τί
-> καὶ περὶ τί ἢ ἐν τίνι πράττει, ἐνίοτε δὲ καὶ τίνι, οἷον ὀργάνῳ, καὶ
-> ἕνεκα τίνος, οἷον σωτηρίας, καὶ πῶς, οἷον ἠρέμα ἢ σφόδρα.[^47]
+> राजू: कहता है जोकर सारा ज़माना / आधी हक़ीकत आधा फ़साना / चश्मा उतारो फिर यारों देखो /
+> दुनिया नयी है चेहरा पुराना / कहता है जोकर सारा ज़माना / आधी हक़ीकत आधा फ़साना / कहता है जोकर सारा ज़माना…
 >
-> *ísos oún ou cheíron diorísai aftá, tína kaí pósa estí, tís te dí kaí
-> tí kaí perí tí í en tíni práttei, eníote dé kaí tíni, oíon orgáno, kaí
-> éneka tínos, oíon sotirías, kaí pós, oíon iréma í sfódra.*
+> rajoo: kehta hai joker saara jamaana / aadhi haqikat aadha fasana /
+> chashma utaaro phir yaaro dekho / duniya nahi hai chehra purana /
+> kehta hai joker saara jamaana / aadhi haqikat aadha fasana /
+> kehta hai joker…
 >
-> Therefore it is not a pointless endeavor to divide these circumstances
-> by kind and number:(1) the who, (2) the what, (3) around what place or
-> (4) in which time something happens,and sometimes (5) with what, such
-> as an instrument, (6) for the sake of what, such as saving a life, and
-> (7) the how, such as gently or violently (Nicomachean Ethics
-> 1111a3–8).[^48]
-
-
-## Postscirpt
-
-> राजू: ए भाई, ज़रा देख के चलो / आगे ही नहीं, पीछे भी / दायें ही नहीं,
-> बायें भी / ऊपर ही नहीं नीचे भी
->
-> Rajoo: E bhaai, zara dekh ke chalo / Age hi nahin, pichhe bhi / Daayen
-> hi nahin, baayen bhi /Upar hi nahin, niche bhi
->
-> Rajoo: Hey brother, take a small look before walking / Not only ahead
-> but behind as well / Not only right but left as well/ Not only up but
-> down as well…(Mera Naam Joker 1:49:01-1:52:44).[^49]
+> Rajoo: Everyone calls me a joker / [It is] half true and half false /
+> Friends take off your glasses and see / The world is new but the face is old /
+> Everyone calls me a joker / [It is] half true and half false /
+> [They] call me a joker…(Mera Naam Joker 1:02:19-1:02:39).[^47]
 
 ## Bibliography 
 
@@ -1183,13 +1168,9 @@ Foundation, 2004.
 *The Torah.* Aleppo Codex, Shlomo ben Buya, 920, Aaron ben Moses ben
 Asher.
 
-Abbas, Khwaja Ahmad. *Mera Naam Joker.* HarperCollins, 2014.
-
 Alex-engraver. "Sahaja Subtle System." Wikimedia Foundation, 2011.
 
-Aristotle. *Aristotelis Opera Edidit Academia Regia Borussica Ex
-Recognitione Immanuelis Bekkeri.* Edited by Immanuel Bekker, Academia
-regia borussica, 1831.
+Baudrillard, J. *The Illusion of the End*. Stanford University Press, 1994.
 
 Belsare, Malhar Bhikaji. *ગુજરાતી-અંગ્રેજી ડિકશનરી \[Etymological
 Gujarati-English Dictionary\].* 2nd Edition, Asian Educational Services,
@@ -1256,18 +1237,15 @@ etymologically and philologically arranged with special reference to
 Greek, Latin, Gothic, German, Anglo-Saxon, and other cognate
 Indo-European languages*, The Clarendon Press, 1872.
 
-Sloan, Michael 
-
-
-## Positively Not The End[^50]
+## Positively Not The End[^48]
 
 ![img](positivelyNotTheEnd.jpg)
 
-## तिरंगा, tiraṅgā: "tricolour"[^51]
+## तिरंगा, tiraṅgā: "tricolour"[^49]
 
 ![img](flagOfIndia.jpg)
 
-Flag of India — Construction Sheet[^52][^53]
+Flag of India — Construction Sheet[^50][^51]
 
 [^1]: मनु, *manu*: " thinking creature" + स्मृति, *smṛti*: "remembrance"
 
@@ -1450,54 +1428,34 @@ Flag of India — Construction Sheet[^52][^53]
 
 [^46]: ---. "The Morning Song of India." 1919.
 
-[^47]: Aristotle. *Aristotelis Opera Edidit Academia Regia Borussica Ex
-    Recognitione Immanuelis Bekkeri.* Edited by Immanuel Bekker,
-    Academia regia borussica, 1831.
+[^47]: Kapoor, Raj. "Mera Naam Joker." R. K. Films, 1970.
 
-[^48]: Sloan, Michael C. "Aristotle’s Nicomachean Ethics as the Original
-    Locus for the Septem Circumstantiae." *Classical Philology*, vol.
-    105, no. 3, 2010, pp. 236-51.
+[^48]: The whole problem of speaking about the end (particularly the end
+     of history) is that you have to speak of what lies beyond the end
+     and also, at the same time, of the impossibility of ending. This
+     paradox is produced by the fact that in a non-linear, non-Euclidean
+     space of history the end cannot be located. The end is, in fact,
+     only conceivable in a logical order of causality and continuity.
+     Now, it is events themselves which, by their artificial production,
+     their programmed occurrence or the anticipation of their effects -
+     not to mention their transfiguration in the media - are suppressing
+     the cause effect relation and hence all historical continuity
+     (Baudrillard 110).
 
-[^49]: Kapoor, Raj. "Mera Naam Joker." R. K. Films, 1970.
-
-[^50]: Rajoo was now going up—and up—till he was high above the heads of
-    all the other jokers and performers. Then, at a signal from him, the
-    music and the singing was stilled, the circus arena was hushed into
-    expectant silence, as he made an unusual announcement: ‘Ladies and
-    gentlemen. There will be an interval.’ Then, looking at Marina, with
-    a smile— ’Eto Entrakt … This may be of fifteen minutes, as is usual,
-    or fifteen hours, or fifteen months, but please don’t go away. It is
-    not yet the end of my story. The Joker’s show is not yet over. Not
-    yet …
-
-    The circus resounded with thunderous applause. In the ring, hundreds
-    of performers were singing, dancing, and Rajoo was singing with
-    them, and the spectators were singing with Rajoo—for that moment,
-    the performers and the spectators had become one, singing in unison,
-    out of the unity of their hearts, of their emotions. In the centre,
-    and high above the audience, stood Rajoo, the old joker, singing,
-    urging people to sing louder, waving to his friends—and all were his
-    friends. He was laughing and making the world laugh with him …
-
-    But, in the midst of this festival of gaiety and laughter, this
-    colourful spectacle of song and dance, every now and then Rajoo’s
-    hand would go to his heart as his face contorted with unbearable
-    pain—because his heart was too big, and the world too small (Abbas,
-    202-03)!’
-
-    Abbas, Khwaja Ahmad. *Mera Naam Joker.* HarperCollins, 2014.
-
-[^51]: त्रि, tri “three” +‎ रङ्ग, raṅga: “colour”
+     Baudrillard, J. *The Illusion of the End.* Stanford University
+     Press, 1994.
+     
+[^49]: त्रि, tri “three” +‎ रङ्ग, raṅga: “colour”
 
     Sir Monier Monier-Williams. *A Sanskṛit-English dictionary
     etymologically and philologically arranged with special reference to
     Greek, Latin, Gothic, German, Anglo-Saxon, and other cognate
     Indo-European languages*, The Clarendon Press, 1872.
 
-[^52]: MapGrid. "Flag of India — Construction Sheet." Wikimedia
+[^50]: MapGrid. "Flag of India — Construction Sheet." Wikimedia
     Foundation, 2023.
 
-[^53]: Dr. S. Radhakrishnan explained—"Bhagwa or the Saffron denotes
+[^51]: Dr. S. Radhakrishnan explained—"Bhagwa or the Saffron denotes
     renunciation or disinterestedness. Our leaders must be indifferent
     to material gains and dedicate themselves to their work. The white
     in the centre is light, the path of truth to guide our conduct. The
