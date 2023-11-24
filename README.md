@@ -1123,9 +1123,9 @@ Sahaja Subtle System[^42]
 > kehta hai joker saara jamaana / aadhi haqikat aadha fasana /
 > kehta hai joker…
 >
-> Rajoo: Everyone calls me a joker / [It is] half true and half false /
+> Rajoo: Everybody calls me a joker / [It is] half true and half false /
 > Friends take off your glasses and see / The world is new but the face is old /
-> Everyone calls me a joker / [It is] half true and half false /
+> Everybody calls me a joker / [It is] half true and half false /
 > [They] call me a joker…(Mera Naam Joker 1:02:19-1:02:39).[^47]
 
 ## Bibliography 
