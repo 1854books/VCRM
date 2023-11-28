@@ -99,11 +99,11 @@ verse"[^14] in the specific differentia.
 
 ## Table of Contents
 
-1. <span dir="ltr"> בְּרֵאשִׁית‎, *B'reshith*: "In the beginning"
-2. ဓမ္မပဒ, *dhammapada*: "words of the doctrine"
-3. श्रीमद्भगवद्गीता, *śrīmadbhagavadgītā*: "the song of god"
-4. eὐαγγέλιον κατὰ Ἰωάννην, *euangélion katà iōánnēn*: "god's good news according to john"
-5. <span dir="ltr"> ٱلۡقُرۡءَانُ‎, *al-qurʾān*: "the recitation"
+1. <span dir="ltr"> בְּרֵאשִׁית‎, *B'reshith*: "In The Beginning"
+2. ဓမ္မပဒ, *dhammapada*: "Words Of The Doctrine"
+3. श्रीमद्भगवद्गीता, *śrīmadbhagavadgītā*: "The Song Of God"
+4. eὐαγγέλιον κατὰ Ἰωάννην, *euangélion katà iōánnēn*: "God's Good News According To John"
+5. <span dir="ltr"> ٱلۡقُرۡءَانُ‎, *al-qurʾān*: "The Recitation"
 6. *Declaration of Independence*: "A Declaration By The Representatives
     Of The United States of America, In General Congress Assembled"<br>
 	1788 *The Federalist*: "A Collection of Essays, Written in Favour of the New Constitution, as Agreed upon by the Federal Convention, September 17, 1787"<br>
@@ -111,7 +111,7 @@ verse"[^14] in the specific differentia.
 	1848 *Manifest der Kommunistischen Partei*: "Manifesto of the Communist Party"<br>
 	1932 *La Dottrina del Fascismo*: "The Doctrine of Fascism"<br>
 7. સર્વોદય, *sarvōdaya*: "the welfare of all"[^15]
-8. *Atlas Shrugged*: "the role of man's mind in existence"[^16]
+8. *Atlas Shrugged*: "the role of the mind in man's existence"[^16]
 9. *The Matrix*: "the desire for transformation"[^17]
 
 ## Introduction or What is *sāṅkhya*?
