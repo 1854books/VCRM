@@ -9,7 +9,7 @@ context of religions of man
 
 a rewriting of wor(l)d history<br>
 by<br>
-Kardama Devahuti<br>
+The Joker<br>
 <br>
 ॐ असतो मा सद्गमय ।<br>
 तमसो मा ज्योतिर्गमय ।<br>
@@ -18,7 +18,7 @@ Kardama Devahuti<br>
 
 ## Copyright
 
-Copyright © 2023 Kardama Devahuti
+Copyright © 2023 The Joker
 
 All rights reserved.
 
@@ -31,8 +31,8 @@ Published in  કલા નગરી, *kalā nagarī*: "city of art" by મન, 
 
 Cataloging in Publication Data
 
-Name: Kardama Devahuti, 2023— author<br>
-Title: The Vedic context of religions of man/ Kardama Devahuti<br>
+Name: The Joker, 2023— author<br>
+Title: The Vedic context of religions of man/ The Joker<br>
 ASIN:<br>
 Subjects: 1. Religion 2. History<br>
 
