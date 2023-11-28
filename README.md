@@ -102,7 +102,7 @@ verse"[^14] in the specific differentia.
 1. <span dir="ltr"> בְּרֵאשִׁית‎, *B'reshith*: "In the beginning"
 2. ဓမ္မပဒ, *dhammapada*: "words of the doctrine"
 3. श्रीमद्भगवद्गीता, *śrīmadbhagavadgītā*: "the song of god"
-4. Εὐαγγέλιον κατὰ Ἰωάννην, *Euangélion katà Iōánnēn*: "God's Good News According to John"
+4. eὐαγγέλιον κατὰ Ἰωάννην, *euangélion katà iōánnēn*: "god's good news according to john"
 5. <span dir="ltr"> ٱلۡقُرۡءَانُ‎, *al-qurʾān*: "the recitation"
 6. *Declaration of Independence*: "A Declaration By The Representatives
     Of The United States of America, In General Congress Assembled"<br>
