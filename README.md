@@ -1252,10 +1252,6 @@ Flag of India — Construction Sheet[^47][^48]
     one’s wealth. Hence, 2. All that one loves; the highest object of
     one’s ambition (Belsare, 577).
 
-    Belsare, Malhar Bhikaji. *ગુજરાતી-અંગ્રેજી ડિકશનરી \[Etymological
-    Gujarati-English Dictionary\].* 2nd Edition, Asian Educational
-    Services, 2002.
-
 [^3]: Shakespeare, William. *Romeo and Juliet, Quarto 2.* Thomas Creede,
     1599.
 
