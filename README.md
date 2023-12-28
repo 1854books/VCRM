@@ -1250,7 +1250,7 @@ Flag of India — Construction Sheet[^47][^48]
 
 [^2]: તન-મન-ધન a. n. \[See તન + મન + ધન\] Lit. The body, the mind, and
     one’s wealth. Hence, 2. All that one loves; the highest object of
-    one’s ambition (Belsare, 577).
+    one’s ambition (Belsare 577).
 
 [^3]: Shakespeare, William. *Romeo and Juliet, Quarto 2.* Thomas Creede,
     1599.
