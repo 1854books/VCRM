@@ -1162,9 +1162,9 @@ Foundation, 2004.
 *The Torah.* Aleppo Codex, Shlomo ben Buya, 920, Aaron ben Moses ben
 Asher.
 
-Alex-engraver. "Sahaja Subtle System." Wikimedia Foundation, 2011.
+Abbas, Khwaja Ahmad. Mera Naam Joker. HarperCollins, 2014.
 
-Baudrillard, J. *The Illusion of the End*. Stanford University Press, 1994.
+Alex-engraver. "Sahaja Subtle System." Wikimedia Foundation, 2011.
 
 Belsare, Malhar Bhikaji. *ગુજરાતી-અંગ્રેજી ડિકશનરી \[Etymological
 Gujarati-English Dictionary\].* 2nd Edition, Asian Educational Services,
@@ -1288,9 +1288,6 @@ Flag of India — Construction Sheet[^47][^48]
     passing human knowledge, while expressing the hopes and expectations
     of all true believers (Erikson, 124).
 
-    Erikson, E.H. and J.M. Erikson. *Life Cycle Completed.* W. W.
-    Norton, 1998.
-
 [^11]: Gupta, Mahendranath. *The Gospel of Sri Ramakrishna.* Edited by
     Mahendranath Gupta, Translated by Swami Nikhilananda,
     Ramakrishna-Vivekananda Center of New York, 1942.
@@ -1405,20 +1402,15 @@ Flag of India — Construction Sheet[^47][^48]
 
 [^44]: Kapoor, Raj. "Mera Naam Joker." R. K. Films, 1970.
 
-[^45]: The whole problem of speaking about the end (particularly the end
-     of history) is that you have to speak of what lies beyond the end
-     and also, at the same time, of the impossibility of ending. This
-     paradox is produced by the fact that in a non-linear, non-Euclidean
-     space of history the end cannot be located. The end is, in fact,
-     only conceivable in a logical order of causality and continuity.
-     Now, it is events themselves which, by their artificial production,
-     their programmed occurrence or the anticipation of their effects -
-     not to mention their transfiguration in the media - are suppressing
-     the cause effect relation and hence all historical continuity
-     (Baudrillard 110).
-
-     Baudrillard, J. *The Illusion of the End.* Stanford University
-     Press, 1994.
+[^45]: Rajoo was now going up—and up—till he was high above the heads of 
+   all the other jokers and performers. Then, at a signal from him, 
+   the music and the singing was stilled, the circus arena was hushed 
+   into expectant silence, as he made an unusual announcement: 
+   ‘Ladies and gentlemen. There will be an interval.’ Then, looking 
+   at Marina, with a smile— ’Eto Entrakt … This may be of fifteen 
+   minutes, as is usual, or fifteen hours, or fifteen months, 
+   but please don’t go away. It is not yet the end of my story. 
+   The Joker’s show is not yet over. Not yet …(Abbas 202)’
      
 [^46]: त्रि, tri “three” +‎ रङ्ग, raṅga: “colour”
 
