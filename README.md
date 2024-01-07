@@ -1162,8 +1162,6 @@ Foundation, 2004.
 *The Torah.* Aleppo Codex, Shlomo ben Buya, 920, Aaron ben Moses ben
 Asher.
 
-Abbas, Khwaja Ahmad. Mera Naam Joker. HarperCollins, 2014.
-
 Alex-engraver. "Sahaja Subtle System." Wikimedia Foundation, 2011.
 
 Belsare, Malhar Bhikaji. *ગુજરાતી-અંગ્રેજી ડિકશનરી \[Etymological
@@ -1231,15 +1229,11 @@ etymologically and philologically arranged with special reference to
 Greek, Latin, Gothic, German, Anglo-Saxon, and other cognate
 Indo-European languages*, The Clarendon Press, 1872.
 
-## Positively Not The End[^45]
-
-![img](positivelyNotTheEnd.jpg)
-
-## तिरंगा, tiraṅgā: "tricolour"[^46]
+## तिरंगा, tiraṅgā: "tricolour"[^45]
 
 ![img](flagOfIndia.jpg)
 
-Flag of India — Construction Sheet[^47][^48]
+Flag of India — Construction Sheet[^46][^47]
 
 [^1]: मनु, *manu*: " thinking creature" + स्मृति, *smṛti*: "remembrance"
 
@@ -1401,28 +1395,18 @@ Flag of India — Construction Sheet[^47][^48]
 [^43]: ---. "The Morning Song of India." 1919.
 
 [^44]: Kapoor, Raj. "Mera Naam Joker." R. K. Films, 1970.
-
-[^45]: Rajoo was now going up—and up—till he was high above the heads of 
-   all the other jokers and performers. Then, at a signal from him, 
-   the music and the singing was stilled, the circus arena was hushed 
-   into expectant silence, as he made an unusual announcement: 
-   ‘Ladies and gentlemen. There will be an interval.’ Then, looking 
-   at Marina, with a smile— ’Eto Entrakt … This may be of fifteen 
-   minutes, as is usual, or fifteen hours, or fifteen months, 
-   but please don’t go away. It is not yet the end of my story. 
-   The Joker’s show is not yet over. Not yet …(Abbas 202)’
      
-[^46]: त्रि, tri “three” +‎ रङ्ग, raṅga: “colour”
+[^45]: त्रि, tri “three” +‎ रङ्ग, raṅga: “colour”
 
     Sir Monier Monier-Williams. *A Sanskṛit-English dictionary
     etymologically and philologically arranged with special reference to
     Greek, Latin, Gothic, German, Anglo-Saxon, and other cognate
     Indo-European languages*, The Clarendon Press, 1872.
 
-[^47]: MapGrid. "Flag of India — Construction Sheet." Wikimedia
+[^46]: MapGrid. "Flag of India — Construction Sheet." Wikimedia
     Foundation, 2023.
 
-[^48]: Dr. S. Radhakrishnan explained—"Bhagwa or the Saffron denotes
+[^47]: Dr. S. Radhakrishnan explained—"Bhagwa or the Saffron denotes
     renunciation or disinterestedness. Our leaders must be indifferent
     to material gains and dedicate themselves to their work. The white
     in the centre is light, the path of truth to guide our conduct. The
