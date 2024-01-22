@@ -1,5 +1,3 @@
-# The Vedic context of religions of man
-
 ![img](VCRM.jpg)
 
 ## मनुस्मृति[^1] 
