@@ -1699,12 +1699,6 @@ body.is-touch #container05 {
 	width: 100%;
 }
 
-#container05 > .wrapper {
-	background-color: white;
-	opacity: 0.65;
-	max-width: 40%;
-}
-
 #container04 {
 	--alignment: center;
 	--flex-alignment: center;
