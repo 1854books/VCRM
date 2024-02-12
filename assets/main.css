@@ -24,10 +24,10 @@ body:before {
 	transform: scale(1);
 	width: 100vw;
 	z-index: 0;
-	background-image: url('data:image/svg+xml;charset=utf8,%3Csvg%20viewBox%3D%220%200%20512%20512%22%20width%3D%22512%22%20height%3D%22512%22%20version%3D%221.1%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%20%3Cfilter%20id%3D%22noise%22%3E%20%3CfeTurbulence%20type%3D%22fractalNoise%22%20baseFrequency%3D%220.875%22%20result%3D%22noise%22%20%2F%3E%20%3CfeColorMatrix%20type%3D%22matrix%22%20values%3D%220%200%200%200%200%200%200%200%200%200%200%200%200%200%200%200%200%200%200.12890625%200%22%20%2F%3E%20%3C%2Ffilter%3E%20%3Crect%20filter%3D%22url%28%23noise%29%22%20x%3D%220%22%20y%3D%220%22%20width%3D%22512%22%20height%3D%22512%22%20fill%3D%22transparent%22%20opacity%3D%221%22%20%2F%3E%3C%2Fsvg%3E'), linear-gradient(to top, rgba(255,255,255,0.678), rgba(255,255,255,0.678)), url('images/bg.jpg');
-	background-size: 512px, auto, cover;
-	background-position: center, 0% 0%, center;
-	background-repeat: repeat, repeat, no-repeat;
+	background-image: linear-gradient(to top, rgba(255,255,255,0.678), rgba(255,255,255,0.678)), url('images/bg.jpg');
+	background-position: 0% 0%, center;
+	background-repeat: repeat, no-repeat;
+	background-size: auto, cover;
 	background-color: #FFFFFF;
 }
 
@@ -308,7 +308,7 @@ h1.style7, h2.style7, h3.style7, p.style7 {
 	font-size: 3.5em;
 	line-height: 0.75;
 	font-weight: 500;
-	background-image: linear-gradient(45deg, #FFFFFF 100%, #000000 100%);
+	background-image: linear-gradient(45deg, #000000 100%, #000000 100%);
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 }
@@ -331,7 +331,7 @@ h1.style7 span.p:nth-child(n + 2), h2.style7 span.p:nth-child(n + 2), h3.style7 
 }
 
 h1.style7 span.p, h2.style7 span.p, h3.style7 span.p, p.style7 span.p {
-	background-image: linear-gradient(45deg, #FFFFFF 100%, #000000 100%);
+	background-image: linear-gradient(45deg, #000000 100%, #000000 100%);
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent !important;
 }
@@ -643,15 +643,15 @@ h1.style1 span.p, h2.style1 span.p, h3.style1 span.p, p.style1 span.p {
 
 #buttons07 li a {
 	display: inline-flex;
-	width: 12.5rem;
+	width: auto;
 	height: 3.5rem;
 	line-height: 3.5rem;
-	padding: 0 0.5rem;
+	padding: 0 1.75rem;
 	vertical-align: middle;
 	text-transform: uppercase;
 	font-family: 'Inter', sans-serif;
 	letter-spacing: 0.35rem;
-	padding-left: calc(0.35rem + 0.5rem);
+	padding-left: calc(0.35rem + 1.75rem);
 	font-size: 0.75em;
 	font-weight: 400;
 	border-radius: 0rem;
@@ -661,7 +661,7 @@ h1.style1 span.p, h2.style1 span.p, h3.style1 span.p, p.style1 span.p {
 
 #buttons07 li a svg {
 	display: block;
-	fill: #9DACB5;
+	fill: #FFFFFF;
 	flex-grow: 0;
 	flex-shrink: 0;
 	height: 100%;
@@ -678,12 +678,12 @@ h1.style1 span.p, h2.style1 span.p, h3.style1 span.p, p.style1 span.p {
 }
 
 #buttons07 .button {
-	background-color: #FFFFFF;
-	color: #9DACB5;
+	background-color: #000000;
+	color: #FFFFFF;
 }
 
 #buttons07 .button:hover {
-	background-color: rgba(255,255,255,0.678) !important;
+	background-color: rgba(0,0,0,0.678) !important;
 }
 
 #buttons07 li a:hover {
@@ -691,11 +691,11 @@ h1.style1 span.p, h2.style1 span.p, h3.style1 span.p, p.style1 span.p {
 }
 
 #buttons07 .n01 svg {
-	fill: #000000;
+	fill: #FFFFFF;
 }
 
 #buttons07 .n01 {
-	color: #000000;
+	color: #FFFFFF;
 }
 
 .container {
@@ -2126,7 +2126,7 @@ hr:before {
 	
 	#buttons07 li a {
 		letter-spacing: 0.35rem;
-		padding-left: calc(0.35rem + 0.5rem);
+		padding-left: calc(0.35rem + 1.75rem);
 		font-size: 0.75em;
 	}
 	
@@ -2996,6 +2996,7 @@ hr:before {
 		gap: 0.5625rem;
 	}
 }
+
 
 /* The side navigation menu */
 .sidenav {
