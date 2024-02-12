@@ -1607,7 +1607,7 @@ h1.style1 span.p, h2.style1 span.p, h3.style1 span.p, p.style1 span.p {
 	width: 100%;
 	align-items: center;
 	justify-content: center;
-	background-color: #191919;
+	background-color: #000000;
 }
 
 #container04 > .wrapper > .inner {
