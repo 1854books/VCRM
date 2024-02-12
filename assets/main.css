@@ -24,8 +24,8 @@ body:before {
 	transform: scale(1);
 	width: 100vw;
 	z-index: 0;
-	background-image: linear-gradient(to top, rgba(255,255,255,0.588), rgba(255,255,255,0.588)), url('images/bg.jpg');
-	background-position: 0% 0%, top;
+	background-image: linear-gradient(to top, rgba(255,255,255,0.69), rgba(255,255,255,0.69)), url('images/bg.jpg');
+	background-position: 0% 0%, center;
 	background-repeat: repeat, no-repeat;
 	background-size: auto, cover;
 	background-color: #FFFFFF;
@@ -1316,7 +1316,7 @@ h1.style1 span.p, h2.style1 span.p, h3.style1 span.p, p.style1 span.p {
 	min-height: var(--viewport-height);
 	align-items: center;
 	justify-content: center;
-	background-color: transparent;
+	background-color: #FFFFFF;
 }
 
 #container01 > .wrapper > .inner {
@@ -1898,16 +1898,24 @@ hr:before {
 	content: '';
 }
 
-#divider01:before {
+#divider03:before {
 	width: 100%;
 	border-top: dashed 1px #000000;
 	height: 1px;
+}
+
+#divider03 {
+	background: white;
 }
 
 #divider04:before {
 	width: 100%;
 	border-top: dashed 1px #000000;
 	height: 1px;
+}
+
+#divider04 {
+	background: white;
 }
 
 #divider02 {
@@ -2814,7 +2822,7 @@ hr:before {
 		background-color: white;
 	}
 	
-	#divider01 {
+	#divider03 {
 		background-color: white;
 	}
 	
