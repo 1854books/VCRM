@@ -2014,6 +2014,7 @@
 		onvisible.add('#buttons07', { style: 'zoom-out', speed: 1000, intensity: 5, threshold: 3, delay: 0, stagger: 375, staggerSelector: ':scope > li', replay: false });
 
 })();
+
 /* Set the width of the side navigation to 250px and the left margin of the page content to 250px */
 function openNav() {
 	document.getElementById("mySidenav").style.width = "350px";
