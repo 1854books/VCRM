@@ -476,34 +476,6 @@
 			// Expose scrollToElement.
 				window._scrollToTop = scrollToTop;
 	
-	// "On Load" animation.
-		// Create load handler.
-			var loadHandler = function() {
-				setTimeout(function() {
-		
-					// Unmark as loading.
-						$body.classList.remove('is-loading');
-		
-					// Mark as playing.
-						$body.classList.add('is-playing');
-		
-					// Wait for animation complete.
-						setTimeout(function() {
-		
-							// Unmark as playing.
-								$body.classList.remove('is-playing');
-		
-							// Mark as ready.
-								$body.classList.add('is-ready');
-		
-						}, 1000);
-		
-				}, 100);
-			};
-		
-		// Load event.
-			on('load', loadHandler);
-	
 	// Load elements.
 		// Load elements (if needed).
 			loadElements(document.body);
@@ -556,10 +528,6 @@
 		
 					var e, target, id;
 		
-					// Prevent default.
-						event.preventDefault();
-						event.stopPropagation();
-		
 					// Determine parent element.
 						e = scrollPointParent(event.target);
 		
@@ -595,10 +563,6 @@
 				doPreviousScrollPoint = function(e) {
 		
 					var e, target, id;
-		
-					// Prevent default.
-						event.preventDefault();
-						event.stopPropagation();
 		
 					// Determine parent element.
 						e = scrollPointParent(event.target);
@@ -636,10 +600,6 @@
 		
 					var e, target, id;
 		
-					// Prevent default.
-						event.preventDefault();
-						event.stopPropagation();
-		
 					// Determine parent element.
 						e = scrollPointParent(event.target);
 		
@@ -674,10 +634,6 @@
 				doLastScrollPoint = function(e) {
 		
 					var e, target, id;
-		
-					// Prevent default.
-						event.preventDefault();
-						event.stopPropagation();
 		
 					// Determine parent element.
 						e = scrollPointParent(event.target);
@@ -829,6 +785,7 @@
 		
 						// Target is an anchor *and* its href is a hash?
 							if (t.tagName == 'A'
+							&&	t.getAttribute('href') !== null
 							&&	t.getAttribute('href').substr(0, 1) == '#') {
 		
 								// Hash matches an invisible scroll point?
@@ -1196,7 +1153,8 @@
 					triggerElement: (('triggerElement' in o && o.triggerElement) ? o.triggerElement : o.element),
 					enter: ('enter' in o ? o.enter : null),
 					leave: ('leave' in o ? o.leave : null),
-					mode: ('mode' in o ? o.mode : 3),
+					mode: ('mode' in o ? o.mode : 4),
+					threshold: ('threshold' in o ? o.threshold : 0.25),
 					offset: ('offset' in o ? o.offset : 0),
 					initialState: ('initialState' in o ? o.initialState : null),
 					state: false,
@@ -1232,7 +1190,8 @@
 				// Step through items.
 					scrollEvents.items.forEach(function(item) {
 		
-						var bcr, elementTop, elementBottom, state, a, b;
+						var	elementTop, elementBottom, viewportTop, viewportBottom,
+							bcr, pad, state, a, b;
 		
 						// No enter/leave handlers? Bail.
 							if (!item.enter
@@ -1314,19 +1273,55 @@
 											case 3:
 		
 												// Upper limit (25%-).
-													a = top + (height * 0.25);
+													a = top + (height * (item.threshold));
 		
 													if (a - (height * 0.375) <= 0)
 														a = 0;
 		
 												// Lower limit (-75%).
-													b = top + (height * 0.75);
+													b = top + (height * (1 - item.threshold));
 		
 													if (b + (height * 0.375) >= document.body.scrollHeight - scrollPad)
 														b = document.body.scrollHeight + scrollPad;
 		
 												// State.
 													state = (b > (elementTop - item.offset) && a < (elementBottom + item.offset));
+		
+												break;
+		
+										// Viewport intersects with element.
+											case 4:
+		
+												// Calculate pad, viewport top, viewport bottom.
+													pad = height * item.threshold;
+													viewportTop = (top + pad);
+													viewportBottom = (bottom - pad);
+		
+												// Compensate for elements at the very top or bottom of the page.
+													if (Math.floor(top) <= pad)
+														viewportTop = top;
+		
+													if (Math.ceil(bottom) >= (document.body.scrollHeight - pad))
+														viewportBottom = bottom;
+		
+												// Element is smaller than viewport?
+													if ((viewportBottom - viewportTop) >= (elementBottom - elementTop)) {
+		
+														state =	(
+																(elementTop >= viewportTop && elementBottom <= viewportBottom)
+															||	(elementTop >= viewportTop && elementTop <= viewportBottom)
+															||	(elementBottom >= viewportTop && elementBottom <= viewportBottom)
+														);
+		
+													}
+		
+												// Otherwise, viewport is smaller than element.
+													else
+														state =	(
+																(viewportTop >= elementTop && viewportBottom <= elementBottom)
+															||	(elementTop >= viewportTop && elementTop <= viewportBottom)
+															||	(elementBottom >= viewportTop && elementBottom <= viewportBottom)
+														);
 		
 												break;
 		
@@ -1704,8 +1699,36 @@
 					stagger = 'stagger' in settings ? (parseInt(settings.stagger) >= 0 ? (parseInt(settings.stagger) / 1000) : false) : false,
 					staggerOrder = 'staggerOrder' in settings ? settings.staggerOrder : 'default',
 					staggerSelector = 'staggerSelector' in settings ? settings.staggerSelector : null,
+					threshold = parseInt('threshold' in settings ? settings.threshold : 3),
 					state = 'state' in settings ? settings.state : null,
-					effect = this.effects[style];
+					effect = this.effects[style],
+					scrollEventThreshold;
+		
+				// Determine scroll event threshold.
+					switch (threshold) {
+		
+						case 1:
+							scrollEventThreshold = 0;
+							break;
+		
+						case 2:
+							scrollEventThreshold = 0.125;
+							break;
+		
+						default:
+						case 3:
+							scrollEventThreshold = 0.25;
+							break;
+		
+						case 4:
+							scrollEventThreshold = 0.375;
+							break;
+		
+						case 5:
+							scrollEventThreshold = 0.475;
+							break;
+		
+					}
 		
 				// Step through selected elements.
 					$$(selector).forEach(function(e) {
@@ -1853,6 +1876,7 @@
 								element: e,
 								triggerElement: triggerElement,
 								initialState: state,
+								threshold: scrollEventThreshold,
 								enter: children ? function() {
 		
 									var staggerDelay = 0,
@@ -1987,12 +2011,9 @@
 		};
 	
 	// Initialize "On Visible" animations.
-		onvisible.add('.buttons.style1', { style: 'zoom-out', speed: 1000, intensity: 5, delay: 0, stagger: 375, staggerSelector: ':scope > li', replay: false });
-
-
+		onvisible.add('#buttons07', { style: 'zoom-out', speed: 1000, intensity: 5, threshold: 3, delay: 0, stagger: 375, staggerSelector: ':scope > li', replay: false });
 
 })();
-
 /* Set the width of the side navigation to 250px and the left margin of the page content to 250px */
 function openNav() {
 	document.getElementById("mySidenav").style.width = "350px";
