@@ -24,7 +24,7 @@ body:before {
 	transform: scale(1);
 	width: 100vw;
 	z-index: 0;
-	background-image: linear-gradient(to top, rgba(255,255,255,0.678), rgba(255,255,255,0.678)), url('images/bg.jpg');
+	background-image: linear-gradient(to top, rgba(255,255,255,0.588), rgba(255,255,255,0.588)), url('images/bg.jpg');
 	background-position: 0% 0%, center;
 	background-repeat: repeat, no-repeat;
 	background-size: auto, cover;
@@ -2964,7 +2964,6 @@ hr:before {
 		gap: 0.5625rem;
 	}
 }
-
 
 /* The side navigation menu */
 .sidenav {
