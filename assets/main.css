@@ -363,6 +363,14 @@ h1.style8 span.p:nth-child(n + 2), h2.style8 span.p:nth-child(n + 2), h3.style8 
 	margin-top: 1rem;
 }
 
+#text19:not(:first-child) {
+	margin-top: 0.875rem !important;
+}
+
+#text19:not(:last-child) {
+	margin-bottom: 0.875rem !important;
+}
+
 #text19 {
 	text-align: right;
 	color: #000000;
@@ -547,43 +555,6 @@ h1.style2 span.p:nth-child(n + 2), h2.style2 span.p:nth-child(n + 2), h3.style2 
 
 #text18 span.p:nth-child(n + 2) {
 	margin-top: 1rem;
-}
-
-h1.style1, h2.style1, h3.style1, p.style1 {
-	text-transform: uppercase;
-	color: #FFFFFF;
-	font-family: 'EB Garamond', serif;
-	letter-spacing: 0.4rem;
-	width: calc(100% + 0.4rem);
-	font-size: 2em;
-	line-height: 0.75;
-	font-weight: 500;
-	background-image: linear-gradient(45deg, #FFFFFF 100%, #FFFFFF 100%);
-	-webkit-background-clip: text;
-	-webkit-text-fill-color: transparent;
-}
-
-h1.style1 mark, h2.style1 mark, h3.style1 mark, p.style1 mark {
-	background-color: transparent;
-}
-
-h1.style1 a, h2.style1 a, h3.style1 a, p.style1 a {
-	text-decoration: none;
-}
-
-h1.style1 a:hover, h2.style1 a:hover, h3.style1 a:hover, p.style1 a:hover {
-	text-decoration: underline;
-}
-
-h1.style1 span.p:nth-child(n + 2), h2.style1 span.p:nth-child(n + 2), h3.style1 span.p:nth-child(n + 2), p.style1 span.p:nth-child(n + 2) {
-	margin-top: 1rem;
-	-webkit-text-fill-color: currentcolor;
-}
-
-h1.style1 span.p, h2.style1 span.p, h3.style1 span.p, p.style1 span.p {
-	background-image: linear-gradient(45deg, #FFFFFF 100%, #FFFFFF 100%);
-	-webkit-background-clip: text;
-	-webkit-text-fill-color: transparent !important;
 }
 
 #text22 {
@@ -2057,6 +2028,14 @@ hr:before {
 		line-height: 1.5;
 	}
 	
+	#text19:not(:first-child) {
+		margin-top: 0.65625rem !important;
+	}
+	
+	#text19:not(:last-child) {
+		margin-bottom: 0.65625rem !important;
+	}
+	
 	#text19 {
 		letter-spacing: 0.021875rem;
 		width: calc(100% + 0.021875rem);
@@ -2104,13 +2083,6 @@ hr:before {
 		width: calc(100% + 0.021875rem);
 		font-size: 0.625em;
 		line-height: 1.5;
-	}
-	
-	h1.style1, h2.style1, h3.style1, p.style1 {
-		letter-spacing: 0.35rem;
-		width: calc(100% + 0.35rem);
-		font-size: 2.5em;
-		line-height: 0.75;
 	}
 	
 	#text22 {
@@ -2929,10 +2901,6 @@ hr:before {
 		font-size: 0.625em;
 	}
 	
-	h1.style1, h2.style1, h3.style1, p.style1 {
-		font-size: 2.5em;
-	}
-	
 	#text22 {
 		font-size: 0.625em;
 	}
@@ -3006,7 +2974,7 @@ hr:before {
 	z-index: 2; /* Stay on top */
 	top: 0; /* Stay at the top */
 	left: 0;
-	background-color: #000000; /* Black*/
+	background-color: #111; /* Black*/
 	overflow-x: hidden; /* Disable horizontal scroll */
 	padding-top: 60px; /* Place content 60px from the top */
 	transition: 0.20s; /* 0.20 second transition effect to slide in the sidenav */
