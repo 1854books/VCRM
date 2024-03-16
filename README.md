@@ -487,26 +487,31 @@ when it is constructed.
 
 ## *śrīmadbhagavadgītā*
 
-> अव्यक्ताद्व्यक्तय: सर्वा: प्रभवन्त्यहरागमे |<br>
-> रात्र्यागमे प्रलीयन्ते तत्रैवाव्यक्तसञ्ज्ञके || 18||<br>
+> धृतराष्ट्र उवाच |<br>
+> धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः |<br>
+> मामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ||1||<br>
 >
->  भूतग्राम: स एवायं भूत्वा भूत्वा प्रलीयते |<br>
-> रात्र्यागमेऽवश: पार्थ प्रभवत्यहरागमे || 19||[^20]<br>
+> सञ्जय उवाच ।<br>
+> दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा ।<br>
+> आचार्यमुपसङ्गम्य राजा वचनमब्रवीत् ।। 2।।[^20]<br>
 >
-> *avyaktād vyaktayaḥ sarvāḥ prabhavantyahar-āgame*<br>
-> *rātryāgame pralīyante tatraivāvyakta-sanjñake*<br>
 >
-> *bhūta-grāmaḥ sa evāyaṁ bhūtvā bhūtvā pralīyate*<br>
-> *rātryāgame ’vaśhaḥ pārtha prabhavatyahar-āgame*<br>
+> *dhṛitarāśhtra uvācha*<br>
+> *dharma-kṣhetre kuru-kṣhetre samavetā yuyutsavaḥ*<br>
+> *māmakāḥ pāṇḍavāśhchaiva kimakurvata sañjaya*<br>
 >
-> From the Unmainfested all the mainfestations proceed at the coming of
-> day; at the coming of night they dissolve there only, in what is
-> called the Unmainfested.
+> *sañjaya uvācha*<br>
+> *dṛiṣhṭvā tu pāṇḍavānīkaṁ vyūḍhaṁ duryodhanastadā*<br>
+> *āchāryamupasaṅgamya rājā vachanamabravīt*<br>
 >
-> This same multitude of beings having come into being again and again,
-> is dissolved at the coming on of night, not of their will, O son of
-> Pritha, and comes forth at the coming on of day (*Bhagavad Gita*
-> 8.18-19).[^21]
+> Dhritarashāra said:<br>
+> What did Pându's sons and mine do when they assembled together<br>
+> on the sacred plain of Kurukshetra, eager for battle, O Samjaya ?
+>
+> Samjaya said:<br>
+> Having seen the army of the Pândavas drawn up in battle-array,<br>
+> prince Duryodhana then approached his teacher and spoke (these) words (*Bhagavad Gita*
+> 1.1-2):[^21]
 
 ## *euangélion katà Iōánnēn*
 
