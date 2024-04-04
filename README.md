@@ -443,7 +443,7 @@ the Sāṅkhya. It is very easy to give a finishing touch to a building
 when it is constructed.
 </details>
 
-## *B'reshith*
+### *B'reshith*
 
 > <span dir="ltr"> א בראשית ברא אלהים את השמים ואת הארץ<br>
 > <span dir="ltr">ב והארץ, היתה תהו ובהו, וחשך, על-פני תהום; ורוח אלהים, מרחפת על-פני המים.[^16]
@@ -457,7 +457,7 @@ when it is constructed.
 > the spirit of God hovered over the face of the waters (*Holy Scriptures*, Genesis
 > 1.1).[^17]
 
-## *dhammapada*
+### *dhammapada*
 
 > မနောပုဗ္ဗင်္ဂမာ ဓမ္မာ၊ မနောသေဋ္ဌာ မနောမယာ။<br> 
 > မနသာ စေ ပဒုဋ္ဌေန၊ ဘာသတိ ဝါ ကရောတိ ဝါ။<br>
@@ -485,7 +485,7 @@ when it is constructed.
 > mind, happiness (sukha) follows him like a shadow that never leaves
 > him (*Dhammapada* 1.1-2).[^19]
 
-## *śrīmadbhagavadgītā*
+### *śrīmadbhagavadgītā*
 
 > धृतराष्ट्र उवाच \|<br>
 > धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः \|<br>
@@ -513,7 +513,7 @@ when it is constructed.
 > prince Duryodhana then approached his teacher and spoke (these) words (*Bhagavad Gita*
 > 1.1-2):[^21]
 
-## *euangélion katà Iōánnēn*
+### *euangélion katà Iōánnēn*
 
 > ἐν ἀρχῇ ἦν ὁ λόγος, καὶ ὁ λόγος ἦν πρὸς τὸν θεόν, καὶ θεὸς ἦν ὁ λόγος.<br>
 > οὖτος ἦν ἐν ἀρχῇ πρὸς τὸν θεόν.[^22]
@@ -526,7 +526,7 @@ when it is constructed.
 > Goſpel according to S. Iohn. 1.1-2).[^23]
 
 
-## *al-qurʾān*
+### *al-qurʾān*
 
 > <span dir="rtl">بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ <br>
 > <span dir="rtl">ٱلۡحَمۡدُ لِلَّهِ رَبِّ ٱلۡعَٰلَمِينَ<br>
@@ -555,7 +555,7 @@ when it is constructed.
 > those who have been condemned<br>
 > \[by Thee,\] nor of those who go astray (*Message of the Qurʼan* 1.1-7)[^25]
 
-## *Declaration of Independence*
+### *Declaration of Independence*
 
 > WHEN in the Courſe of human Events, it becomes neceſſary for one
 > People to diſſolve the Political Bands which have connected them
@@ -565,7 +565,7 @@ when it is constructed.
 > Mankind requires that they ſhould declare the cauſes which impel
 > them to the Separation (*Declaration of Independence* Preamble).[^26]
 
-### *The Federalist*
+#### *The Federalist*
 
 > Ambition muſt be made to counteract ambition. The intereſt of the man
 > muſt be connected with the conſtitutional rights of the place. It may
@@ -591,7 +591,7 @@ when it is constructed.
 > of prudence cannot be leſs requiſite in the diſtribution of the
 > ſupreme powers of the ſtate (Publius *Federalist* 365).[^27]
 
-### *Qu'est-ce que le Tiers-État?*
+#### *Qu'est-ce que le Tiers-État?*
 
 > Qu’est-ce que la volonté d’une nation? C’est le résultat des volontés
 > individuelles, comme la nation est l’assemblage des individus. Il est
@@ -606,7 +606,7 @@ when it is constructed.
 > finally, the common welfare (Sieyès *What Is the Third Estate?* Page
 > 108).[^29]
 
-### *Manifest der Kommunistischen Partei*
+#### *Manifest der Kommunistischen Partei*
 
 > *Die Geschichte aller bisherigen Gesellschaft ist die Geschichte von
 > Klassenkämpfen.*
@@ -630,7 +630,7 @@ when it is constructed.
 > Communist Party* 12).[^31]
 
 
-### *La dottrina del fascismo*
+#### *La dottrina del fascismo*
 
 > *Il fascismo è una concezione religiosa, in cui l'uomo è veduto nel
 > suo immanente rapporto con una legge superiore, con una Volontà
@@ -650,7 +650,7 @@ when it is constructed.
 > and Gentile *Fascism Doctrine and Institutions* 7).[^33]
 
 
-## *sarvōdaya*
+### *sarvōdaya*
 
 > સૉક્રેટીસે માણસને શું કરવું ઘટે છે તેનું થોડુંક દર્શન કરાવ્યું. તેણે
 > જેવું કહ્યું તેવું જ કર્યું. તેના વિચારોનું લંબાણ એ રસ્કિનના વિચારો છે
@@ -686,7 +686,7 @@ when it is constructed.
 > paraphrased as Sarvodaya \[the welfare of all\], as that was what
 > Rusking aimed at in writing this book (Ghandi *Sarvodaya* 5).[^35]
 
-## *Atlas Shrugged*
+### *Atlas Shrugged*
 
 > A savage is a being who has not grasped that A is A and that reality
 > is real. He has arrested his mind at the level of a baby’s, at the
@@ -701,7 +701,7 @@ when it is constructed.
 > has—and this is his birth as a human being (Rand *Atlas Shrugged*
 > 1040-41). [^36]
 
-## *The Matrix* 
+### *The Matrix* 
 
 > Agent Smith: Everything that has a beginning has an end, Neo (*The Matrix
 > Revolutions* 1:52:03).[^37]
