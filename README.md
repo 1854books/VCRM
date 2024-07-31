@@ -567,7 +567,7 @@ when it is constructed.
 
 #### *The Federalist*
 
-> AFTER an unequivocal experience of the inefficacy of the ſubſtlting
+> AFTER an unequivocal experience of the inefficacy of the ſubſiſting
 > federal government, you are called upon to deliberate on a new
 > conſlitution for the United States of America. The ſubject ſpeaks
 > its own importance ; comprehending in it’s conſequences, nothing
