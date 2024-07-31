@@ -577,14 +577,14 @@ when it is constructed.
 
 #### *Qu'est-ce que le Tiers-État?*
 
-> Le plan de cet écrit est assez simple. Nous avons trois questions à nous faire.
-> 1) Qu’est-ce que le Tiers état? — TOUT.
-> 2) Qu’a-t-il été jusqu’à présent dans l’ordre politique? — RIEN.
-> 3) Que demande-t-il? — À ÊTRE QUELQUE CHOSE [^28]
+> Le plan de cet écrit est assez simple. Nous avons trois questions à nous faire.<br>
+> 1º Qu’est-ce que le Tiers état? — TOUT.<br>
+> 2º Qu’a-t-il été jusqu’à présent dans l’ordre politique? — RIEN.<br>
+> 3º Que demande-t-il? — À ÊTRE QUELQUE CHOSE [^28]
 >
 > The plan of this book is fairly simple. We must ask ourselves three questions.
-> 1) What is the Third Estate? Everything.
-> 2) What has it been until now in the political order? Nothing.
+> 1) What is the Third Estate? Everything.<br>
+> 2) What has it been until now in the political order? Nothing.<br>
 > 3) What does it want to be? Something (Sieyès *What Is the Third Estate?* Page
 > 43).[^29]
 
