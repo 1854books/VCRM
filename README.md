@@ -582,7 +582,7 @@ when it is constructed.
 > 2º Qu’a-t-il été jusqu’à présent dans l’ordre politique? — RIEN.<br>
 > 3º Que demande-t-il? — À ÊTRE QUELQUE CHOSE [^28]
 >
-> The plan of this book is fairly simple. We must ask ourselves three questions.
+> The plan of this book is fairly simple. We must ask ourselves three questions.<br>
 > 1) What is the Third Estate? Everything.<br>
 > 2) What has it been until now in the political order? Nothing.<br>
 > 3) What does it want to be? Something (Sieyès *What Is the Third Estate?* Page
