@@ -567,44 +567,26 @@ when it is constructed.
 
 #### *The Federalist*
 
-> Ambition muſt be made to counteract ambition. The intereſt of the man
-> muſt be connected with the conſtitutional rights of the place. It may
-> be a reflection on human nature, that ſuch devices ſhould be neceſſary
-> to control the abuſes of government. But what is government itſelf but
-> the greateſt of all reflections on human nature? If men were angels,
-> no government would be neceſſary. If angels were to govern men,
-> neither external nor internal controls on government would be
-> neceſſary. In framing a government which is to be adminiſtered by men
-> over men, the great difficulty lies in this: You muſt firſt enable
-> the government to control the governed; and in the next place, oblige
-> it to control itſelf. A dependence on the people is no doubt the
-> primary control on the government; but experience has taught mankind
-> the neceſſity of auxiliary precautions.
->
-> This policy of ſupplying by oppoſite and rival intereſts, the defect
-> of better motives, might be traced through the whole ſyſtem of human
-> affairs, private as well as public. We ſee it particularly diſplayed
-> in all the ſubordinate diſtributions of power; where the conſtant aim
-> is to divide and arrange the ſeveral offices in ſuch a manner as that
-> each may be a check on the other; that the private intereſt of every
-> individual, may be a centinel over the public rights. Theſe inventions
-> of prudence cannot be leſs requiſite in the diſtribution of the
-> ſupreme powers of the ſtate (Publius *Federalist* 365).[^27]
+> AFTER an unequivocal experience of the inefficacy of the ſubſtlting
+> federal government, you are called upon to deliberate on a new
+> conſlitution for the United States of America. The ſubject ſpeaks
+> its own importance ; comprehending in it’s conſequences, nothing
+> leſs than the exigence of the UNION, the ſafety and welfare of the
+> parts of which it is compoſed, the fate of an empire, in many reſpects,
+> the moſt intereſting in the world (Publius *Federalist* A).[^27]
 
 #### *Qu'est-ce que le Tiers-État?*
 
-> Qu’est-ce que la volonté d’une nation? C’est le résultat des volontés
-> individuelles, comme la nation est l’assemblage des individus. Il est
-> impossible de concevoir une association légitime qui n’ait pas pour
-> objet la sécurité commune, la liberté commune, enfin la chose
-> publique.[^28]
+> Le plan de cet écrit est assez simple. Nous avons trois questions à nous faire.
+> 1) Qu’est-ce que le Tiers état? — TOUT.
+> 2) Qu’a-t-il été jusqu’à présent dans l’ordre politique? — RIEN.
+> 3) Que demande-t-il? — À ÊTRE QUELQUE CHOSE [^28]
 >
-> What is the will of a nation? It is the resultant of the individual
-> wills, just as the nation is the aggregate of the individuals that
-> compose it. It is impossible to imagine a legitimate association whose
-> object would not be the common security, the common liberty and,
-> finally, the common welfare (Sieyès *What Is the Third Estate?* Page
-> 108).[^29]
+> The plan of this book is fairly simple. We must ask ourselves three questions.
+> 1) What is the Third Estate? Everything.
+> 2) What has it been until now in the political order? Nothing.
+> 3) What does it want to be? Something (Sieyès *What Is the Third Estate?* Page
+> 43).[^29]
 
 #### *Manifest der Kommunistischen Partei*
 
@@ -632,22 +614,16 @@ when it is constructed.
 
 #### *La dottrina del fascismo*
 
-> *Il fascismo è una concezione religiosa, in cui l'uomo è veduto nel
-> suo immanente rapporto con una legge superiore, con una Volontà
-> obiettiva che trascende l'individuo particolare e lo eleva a membro
-> consapevole di una società spirituale. Chi nella politica religiosa
-> del regime fascista si è fermato a considerazioni di mera opportunità,
-> non ha inteso che il fascismo, oltre a essere un sistema di governo, è
-> anche, e prima di tutto, un sistema di pensiero.*[^32]
+> *Come ogni salda concezione politica, il fascismo è prassi ed è
+> pensiero, azione a cui è immanente una dottrina, e dottrina che,
+> sorgendo da un dato sistema di forze storiche, vi resta inserita
+> e vi opera dal di dentro.*[^32]
 >
-> The Fascist conception of life is a religious one, in which man is
-> viewed in his immanent relation to a higher law, endowed with an
-> objective will transcending the individual and raising him to
-> conscious membership of a spiritual society. "Those who perceive
-> nothing beyond opportunistic considerations in the religious policy of
-> the Fascist regime fail to realize that Fascism is not only a system
-> of government but also and above all a system of thought (Mussolini
-> and Gentile *Fascism Doctrine and Institutions* 7).[^33]
+> Like all sound political conceptions, Fascism is action and it is
+> thought; action in which doctrine is immanent, and doctrine arising
+> from a given system of historical forces in which it is inserted,
+> and working on them from within (Mussolini and Gentile *Fascism
+> Doctrine and Institutions* 1).[^33]
 
 
 ### *sarvōdaya*
