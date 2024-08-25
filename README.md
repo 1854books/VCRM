@@ -7,7 +7,7 @@ context of religions of man
 
 a rewriting of wor(l)d history<br>
 by<br>
-Joker<br>
+Sri Purushottam Nagesh Oak<br>
 <br>
 ॐ असतो मा सद्गमय ।<br>
 तमसो मा ज्योतिर्गमय ।<br>
@@ -16,7 +16,7 @@ Joker<br>
 
 ## Copyright
 
-Copyright © 2023 Joker
+Copyright © 2023 Sri Purushottam Nagesh Oak
 
 All rights reserved.
 
@@ -29,8 +29,8 @@ Published in  કલા નગરી, *kalā nagarī*: "city of art" by મન, 
 
 Cataloging in Publication Data
 
-Name: Joker, 2023— author<br>
-Title: The Vedic context of religions of man/ Joker<br>
+Name: Sri Purushottam Nagesh Oak, 2023— author<br>
+Title: The Vedic context of religions of man/ Sri Purushottam Nagesh Oak<br>
 ASIN:<br>
 Subjects: 1. Religion 2. History<br>
 
