@@ -691,8 +691,6 @@ Excerpt From *The Complete Works of the Swami Vivekananda, Volume 1*: What is Re
 	By Swami Vivekananda
 </summary>
 
-
-
 A huge locomotive has rushed on over the line and a small worm that was
 creeping upon one of the rails saved its life by crawling out of the
 path of the locomotive. Yet this little worm, so insignificant that it
@@ -1032,20 +1030,10 @@ Sahaja Subtle System[^39]
 
 ## Postface
 
-> Far away in the heavenly abode of the great god Indra, there is a
-> wonderful net which has been hung by some cunning artificer in such a
-> manner that it stretches out infinitely in all directions. In
-> accordance with the extravagant tastes of deities, the artificer has
-> hung a single glittering jewel in each "eye" of the net, and since the
-> net itself is infinite in dimension, the jewels are infinite in
-> number. There hang the jewels, glittering "like" stars in the first
-> magnitude, a wonderful sight to behold. If we now arbitrarily select
-> one of these jewels for inspection and look closely at it, we will
-> discover that in its polished surface there are reflected all the
-> other jewels in the net, infinite in number. Not only that, but each
-> of the jewels reflected in this one jewel is also reflecting all the
-> other jewels, so that there is an infinite reflecting process
-> occurring (Cook 2).[^40]
+> Long years ago we made a tryst with destiny, and now the time comes when we
+> shall redeem our pledge, not wholly or in full measure, but very substantially. 
+> At the stroke of the midnight hour, when the world sleeps, India will awake
+> to life and freedom (*Tryst With Destiny*).[^40]
 
 ## Epliogue
 
@@ -1147,9 +1135,6 @@ Belsare, Malhar Bhikaji. *ગુજરાતી-અંગ્રેજી ડિ�
 Gujarati-English Dictionary\].* 2nd Edition, Asian Educational Services,
 2002.
 
-Cook, Francis H. *Hua-Yen Buddhism: The Jewel Net of Indra.* Penn State
-Press, 2010.
-
 Erikson, E.H. and J.M. Erikson. *Life Cycle Completed.* W. W. Norton,
 1998.
 
@@ -1186,6 +1171,9 @@ Veröffentlicht Im Februar 1848.* Gedruckt in der Office der
 
 ---. *Manifesto of the Communist Party.* Translated by Friedrich Engels,
 Charles H. Kerr & Company, 1906.
+
+Nehru, Jawaharlal. “A Tryst with Destiny.” Constituent Assembly of India, 
+14 August 1947, The Council House, New Delhi. Keynote Address.
 
 Publius. *The Federalist.* John and Andrew M'Lean, 1788.
 
@@ -1364,8 +1352,8 @@ Flag of India — Construction Sheet[^46][^47]
 
     Alex-engraver. "Sahaja Subtle System." Wikimedia Foundation, 2011.
 
-[^40]: Cook, Francis H. *Hua-Yen Buddhism: The Jewel Net of Indra.* Penn
-    State Press, 2010.
+[^40]: Nehru, Jawaharlal. “Tryst with Destiny.” Constituent Assembly of India, 
+	14 August 1947, The Council House, New Delhi. Keynote Address.
 
 [^41]: National Anthem of India, Abridged Version.
 
