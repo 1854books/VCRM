@@ -1202,7 +1202,7 @@ Indo-European languages*, The Clarendon Press, 1872.
 
 ## Positively Not The End[^45][^46]
 
-![img](PositivelyNotTheEnd.jpeg) 
+![img](PositivelyNotTheEnd.jpg)
 
 ## तिरंगा, tiraṅgā: "tricolour"[^47]
 
