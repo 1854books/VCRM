@@ -1196,7 +1196,9 @@ etymologically and philologically arranged with special reference to
 Greek, Latin, Gothic, German, Anglo-Saxon, and other cognate
 Indo-European languages*, The Clarendon Press, 1872.
 
-## ![img](PositivelyNotTheEnd.jpg)
+## Positively Not The End
+
+![img](PositivelyNotTheEnd.jpg)
 
 ## तिरंगा, tiraṅgā: "tricolour"[^45]
 
