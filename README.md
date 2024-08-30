@@ -1135,6 +1135,8 @@ Belsare, Malhar Bhikaji. *ગુજરાતી-અંગ્રેજી ડિ�
 Gujarati-English Dictionary\].* 2nd Edition, Asian Educational Services,
 2002.
 
+Baudrillard, J. *The Illusion of the End*. Stanford University Press, 1994.
+
 Erikson, E.H. and J.M. Erikson. *Life Cycle Completed.* W. W. Norton,
 1998.
 
@@ -1172,6 +1174,8 @@ Veröffentlicht Im Februar 1848.* Gedruckt in der Office der
 ---. *Manifesto of the Communist Party.* Translated by Friedrich Engels,
 Charles H. Kerr & Company, 1906.
 
+NASA. "Hubble Ultra Deep Field 2014." Space Telescope Science Institute, 2014.
+
 Nehru, Jawaharlal. “A Tryst with Destiny.” Constituent Assembly of India, 
 14 August 1947, The Council House, New Delhi. Keynote Address.
 
@@ -1196,15 +1200,15 @@ etymologically and philologically arranged with special reference to
 Greek, Latin, Gothic, German, Anglo-Saxon, and other cognate
 Indo-European languages*, The Clarendon Press, 1872.
 
-## Positively Not The End
+## Positively Not The End [^45][^46]
 
 ![img](PositivelyNotTheEnd.jpeg) 
 
-## तिरंगा, tiraṅgā: "tricolour"[^45]
+## तिरंगा, tiraṅgā: "tricolour"[^47]
 
 ![img](flagOfIndia.jpg)
 
-Flag of India — Construction Sheet[^46][^47]
+Flag of India — Construction Sheet[^48][^49]
 
 [^1]: मनु, *manu*: " thinking creature" + स्मृति, *smṛti*: "remembrance"
 
@@ -1374,10 +1378,24 @@ Flag of India — Construction Sheet[^46][^47]
     Greek, Latin, Gothic, German, Anglo-Saxon, and other cognate
     Indo-European languages*, The Clarendon Press, 1872.
 
-[^46]: MapGrid. "Flag of India — Construction Sheet." Wikimedia
+[^46]: NASA. "Hubble Ultra Deep Field 2014." Space Telescope Science 
+    Institute, 2014.
+
+[^47]: The whole problem of speaking about the end (particularly the end 
+    of history) is that you have to speak of what lies beyond the end and 
+    also, at the same time, of the impossibility of ending. This paradox is 
+    produced by the fact that in a non-linear, non-Euclidean space of history 
+    the end cannot be located. The end is, in fact, only conceivable in a 
+    logical order of causality and continuity. Now, it is events themselves which, 
+    by their artificial production, their programmed occurrence or the 
+    anticipation of their effects - not to mention their transfiguration in 
+    the media - are suppressing the cause-effect relation and hence all historical 
+    continuity (Baudrillard 110).
+
+[^48]: MapGrid. "Flag of India — Construction Sheet." Wikimedia
     Foundation, 2023.
 
-[^47]: Dr. S. Radhakrishnan explained—"Bhagwa or the Saffron denotes
+[^49]: Dr. S. Radhakrishnan explained—"Bhagwa or the Saffron denotes
     renunciation or disinterestedness. Our leaders must be indifferent
     to material gains and dedicate themselves to their work. The white
     in the centre is light, the path of truth to guide our conduct. The
