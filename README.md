@@ -1200,7 +1200,7 @@ etymologically and philologically arranged with special reference to
 Greek, Latin, Gothic, German, Anglo-Saxon, and other cognate
 Indo-European languages*, The Clarendon Press, 1872.
 
-## Positively Not The End [^45][^46]
+## Positively Not The End[^45][^46]
 
 ![img](PositivelyNotTheEnd.jpeg) 
 
@@ -1370,18 +1370,11 @@ Flag of India — Construction Sheet[^48][^49]
 [^43]: ---. "The Morning Song of India." 1919.
 
 [^44]: Kapoor, Raj. "Mera Naam Joker." R. K. Films, 1970.
-     
-[^45]: त्रि, tri “three” +‎ रङ्ग, raṅga: “colour”
 
-    Sir Monier Monier-Williams. *A Sanskṛit-English dictionary
-    etymologically and philologically arranged with special reference to
-    Greek, Latin, Gothic, German, Anglo-Saxon, and other cognate
-    Indo-European languages*, The Clarendon Press, 1872.
-
-[^46]: NASA. "Hubble Ultra Deep Field 2014." Space Telescope Science 
+[^45]: NASA. "Hubble Ultra Deep Field 2014." Space Telescope Science 
     Institute, 2014.
 
-[^47]: The whole problem of speaking about the end (particularly the end 
+[^46]: The whole problem of speaking about the end (particularly the end 
     of history) is that you have to speak of what lies beyond the end and 
     also, at the same time, of the impossibility of ending. This paradox is 
     produced by the fact that in a non-linear, non-Euclidean space of history 
@@ -1391,6 +1384,13 @@ Flag of India — Construction Sheet[^48][^49]
     anticipation of their effects - not to mention their transfiguration in 
     the media - are suppressing the cause-effect relation and hence all historical 
     continuity (Baudrillard 110).
+     
+[^47]: त्रि, tri “three” +‎ रङ्ग, raṅga: “colour”
+
+    Sir Monier Monier-Williams. *A Sanskṛit-English dictionary
+    etymologically and philologically arranged with special reference to
+    Greek, Latin, Gothic, German, Anglo-Saxon, and other cognate
+    Indo-European languages*, The Clarendon Press, 1872.
 
 [^48]: MapGrid. "Flag of India — Construction Sheet." Wikimedia
     Foundation, 2023.
