@@ -1201,7 +1201,7 @@ Indo-European languages*, The Clarendon Press, 1872.
 
 ## Positively Not The End[^45][^46]
 
-![img](Champaklal_as_an_artist-6.jpg)
+![img](HubbleDeepField2014.jpg)
 
 ## तिरंगा, tiraṅgā: "tricolour"[^47]
 
