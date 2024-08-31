@@ -525,7 +525,6 @@ when it is constructed.
 > was God.<br>The same was in the beginning with God (*Holy Bible,*
 > Goſpel according to S. Iohn. 1.1-2).[^23]
 
-
 ### *al-qurʾān*
 
 > <span dir="rtl">بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ <br>
@@ -611,7 +610,6 @@ when it is constructed.
 > ruin of the contending classes (Marx and Engels *Manifesto of the
 > Communist Party* 12).[^31]
 
-
 #### *La dottrina del fascismo*
 
 > *Come ogni salda concezione politica, il fascismo è prassi ed è
@@ -624,7 +622,6 @@ when it is constructed.
 > from a given system of historical forces in which it is inserted,
 > and working on them from within (Mussolini and Gentile *Fascism
 > Doctrine and Institutions* 1).[^33]
-
 
 ### *sarvōdaya*
 
