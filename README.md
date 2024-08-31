@@ -1027,7 +1027,6 @@ for evermore."
 
 Sahaja Subtle System[^39]
 
-
 ## Postface
 
 > Long years ago we made a tryst with destiny, and now the time comes when we
@@ -1202,7 +1201,7 @@ Indo-European languages*, The Clarendon Press, 1872.
 
 ## Positively Not The End[^45][^46]
 
-![img](TheSunandTheFlower-A Vision.JPG)
+![img](Champaklal_as_an_artist-6.jpg)
 
 ## तिरंगा, tiraṅgā: "tricolour"[^47]
 
