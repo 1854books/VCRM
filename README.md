@@ -1095,8 +1095,6 @@ Bibelanstalt, 1898, Eberhard Nestle.
 *The Dhammapada.* Translated by Daw Mya Tin, Department for the
 Promotion and Propagation of the Sasana, 1993.
 
-*Eight Upaniṣad Volume Two.* Translated By Swami Gambhirananda. Advaita Ashram, 1937. 
-
 *The Flag Code of India.* Ministry of Home Affairs, Government of India,
 2002.
 
@@ -1156,6 +1154,8 @@ Ramakrishna-Vivekananda Center of New York, 1942.
 Jefferson, Thomas. "Declaration of Independence." Stone Engraving ed.,
 William J. Stone, 1820 1776. general editor, Second Continental
 Congress.
+
+Kapoor, Raj. *Mera Naam Joker.* R. K. Films, 1970.
 
 MapGrid. "Flag of India — Construction Sheet." Wikimedia Foundation,
 2023.
@@ -1364,7 +1364,7 @@ Flag of India — Construction Sheet[^48][^49]
 
 [^43]: ---. "The Morning Song of India." 1919.
 
-[^44]: Kapoor, Raj. "Mera Naam Joker." R. K. Films, 1970.
+[^44]: Kapoor, Raj. *Mera Naam Joker.* R. K. Films, 1970.
 
 [^45]: The whole problem of speaking about the end (particularly the end 
     of history) is that you have to speak of what lies beyond the end and 
