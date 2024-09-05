@@ -1072,16 +1072,15 @@ Sahaja Subtle System[^39]
 
 ## About the Author
 
-> यथा नद्यः स्यन्दमानाः समुद्रेऽ स्तं गच्छन्ति नामरूपे विहाय ।
-> तथा विद्वान् नामरूपाद्विमुक्तः परात्परं पुरुषमुपैति दिव्यम् ॥ ८॥
+> यथा नद्यः स्यन्दमानाः समुद्रेऽ स्तं गच्छन्ति नामरूपे विहाय । <br>
+> तथा विद्वान् नामरूपाद्विमुक्तः परात्परं पुरुषमुपैति दिव्यम् ॥ ८॥ [^8]
 >
-> yathā nadyaḥ syandamānāḥ samudre'staṃ gacchanti nāmarūpe vihāya |
-> tathā vidvānnāmarūpādvimuktaḥ parātparaṃ puruṣamupaiti divyam || 8 ||
+> yathā nadyaḥ syandamānāḥ samudre'staṃ gacchanti nāmarūpe vihāya | <br>
+> tathā vidvānnāmarūpādvimuktaḥ parātparaṃ puruṣamupaiti divyam || 8 || <br>
 >
-> As rivers, flowing down, become indistinguishable on reaching
-> the sea by giving up their names and forms, so also the illumined soul,
-> having become freed from name and form, reaches the self-effulgent
-> Purusha that is higher than the higher (Maya)(Muṇḍaka Upaniṣad 3.2.8).[^44].
+> Just as the flowing rivers disappear in the ocean casting off name and shape,
+> even so the knower, freed from name and shape, attains to the divine
+> person, higher than the high (Muṇḍaka Upaniṣad 3.2.8).[^9]
 
 ## Bibliography 
 
@@ -1194,9 +1193,11 @@ etymologically and philologically arranged with special reference to
 Greek, Latin, Gothic, German, Anglo-Saxon, and other cognate
 Indo-European languages*, The Clarendon Press, 1872.
 
-## Positively Not The End[^45][^46]
+## Positively Not The End[^44][^45]
 
 ![img](HUDF2014.jpg)
+
+Hubble Ultra Deep Field 2014 (HUDF 2014).
 
 ## तिरंगा, tiraṅgā: "tricolour"[^47]
 
@@ -1363,12 +1364,9 @@ Flag of India — Construction Sheet[^48][^49]
 
 [^43]: ---. "The Morning Song of India." 1919.
 
-[^44]: Eight Upaniṣad Volume Two. Translated By Swami Gambhirananda. Advaita Ashram, 1937. 
+[^44]: Kapoor, Raj. "Mera Naam Joker." R. K. Films, 1970.
 
-[^45]: NASA. "Hubble Ultra Deep Field 2014 (HUDF 2014)." Space Telescope Science 
-    Institute, 2014.
-
-[^46]: The whole problem of speaking about the end (particularly the end 
+[^45]: The whole problem of speaking about the end (particularly the end 
     of history) is that you have to speak of what lies beyond the end and 
     also, at the same time, of the impossibility of ending. This paradox is 
     produced by the fact that in a non-linear, non-Euclidean space of history 
@@ -1378,6 +1376,9 @@ Flag of India — Construction Sheet[^48][^49]
     anticipation of their effects - not to mention their transfiguration in 
     the media - are suppressing the cause-effect relation and hence all historical 
     continuity (Baudrillard 110).
+
+[^46]: NASA. "Hubble Ultra Deep Field 2014 (HUDF 2014)." Space Telescope Science 
+    Institute, 2014.
      
 [^47]: त्रि, tri “three” +‎ रङ्ग, raṅga: “colour”
 
