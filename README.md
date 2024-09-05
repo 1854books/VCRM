@@ -1155,7 +1155,7 @@ Jefferson, Thomas. "Declaration of Independence." Stone Engraving ed.,
 William J. Stone, 1820 1776. general editor, Second Continental
 Congress.
 
-Kapoor, Raj. *Mera Naam Joker.* R. K. Films, 1970.
+*Mera Naam Joker*. Directed by Raj Kapoor, R.K. FIlms, 1970.
 
 MapGrid. "Flag of India — Construction Sheet." Wikimedia Foundation,
 2023.
@@ -1364,7 +1364,7 @@ Flag of India — Construction Sheet[^48][^49]
 
 [^43]: ---. "The Morning Song of India." 1919.
 
-[^44]: Kapoor, Raj. *Mera Naam Joker.* R. K. Films, 1970.
+[^44]: *Mera Naam Joker.* Directed by Raj Kapoor, R.K. FIlms, 1970.
 
 [^45]: The whole problem of speaking about the end (particularly the end 
     of history) is that you have to speak of what lies beyond the end and 
