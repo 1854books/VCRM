@@ -1111,8 +1111,13 @@ Margolis.
 *Mahābhāratam.* BORI Critical Edition, The Bhandarkar Oriental Research
 Institute, 1966, Vishnu S. Sukhtankar.
 
+*The Matrix.* Directed By Wachowski, Lana and Lilly Wachowski, Warner
+    Brothers, 1999.
+
 *The Message of the Qurʼan.* Translated by Muhammad Asad, Book
 Foundation, 2004.
+
+*Mera Naam Joker*. Directed by Raj Kapoor, R.K. FIlms, 1970.
 
 *Mundakopanishad.* Ministry of Culture, Government of India, 2023.
 
@@ -1154,8 +1159,6 @@ Ramakrishna-Vivekananda Center of New York, 1942.
 Jefferson, Thomas. "Declaration of Independence." Stone Engraving ed.,
 William J. Stone, 1820 1776. general editor, Second Continental
 Congress.
-
-*Mera Naam Joker*. Directed by Raj Kapoor, R.K. FIlms, 1970.
 
 MapGrid. "Flag of India — Construction Sheet." Wikimedia Foundation,
 2023.
@@ -1339,7 +1342,7 @@ Flag of India — Construction Sheet[^48][^49]
 
 [^36]: Rand, Ayn. *Atlas Shrugged.* Random House, 1957.
 
-[^37]: Wachowski, Lana and Lilly Wachowski. "The Matrix." Warner
+[^37]: *The Matrix.* Directed By Wachowski, Lana and Lilly Wachowski, Warner
     Brothers, 1999.
 
 [^38]: Swami Vivekananda. "What Is Religion?" *The Complete Works of the
