@@ -61,7 +61,7 @@ To गणराज्य, *gaṇarājya*: "a great multitude"[^5]
 **Text**: सत्यमेव जयते, *satyameva jayate*: "Truth alone triumphs"[^6]
 
 **Context**: मुण्डक उपनिषद्, *muṇḍaka upaniṣad*: "shaved (as in shaved head) to sit down near to"[^7]:
->
+
 > सत्यमेव जयते नानृतं सत्येन पन्था विततो देवयानः । <br>
 > येनाक्रमन्त्यृषयो ह्याप्तकामा यत्र तत् सत्यस्य परमं निधानम् ॥[^8]
 >
@@ -1072,24 +1072,16 @@ Sahaja Subtle System[^39]
 
 ## About the Author
 
-> स॒हस्र॑शीर्षा॒ पुरु॑षः सहस्रा॒क्षः स॒हस्र॑पात् । <br>
-> स भूमिं॑ वि॒श्वतो॑ वृ॒त्वात्य॑तिष्ठद्दशाङ्गु॒लम् ॥ <br>
+> यथा नद्यः स्यन्दमानाः समुद्रेऽ स्तं गच्छन्ति नामरूपे विहाय ।
+> तथा विद्वान् नामरूपाद्विमुक्तः परात्परं पुरुषमुपैति दिव्यम् ॥ ८॥
 >
-> पुरु॑ष ए॒वेदं सर्वं॒ यद्भू॒तं यच्च॒ भव्य॑म् । <br>
->  उ॒तामृ॑त॒त्वस्येशा॑नो॒ यदन्ने॑नाति॒रोह॑ति ॥ <br>
+> yathā nadyaḥ syandamānāḥ samudre'staṃ gacchanti nāmarūpe vihāya |
+> tathā vidvānnāmarūpādvimuktaḥ parātparaṃ puruṣamupaiti divyam || 8 ||
 >
-> *sahasraśīrṣā puruṣaḥ sahasrākṣaḥ sahasrapāt* | <br>
-> *sa bhūmiṃ viśvato vṛtvāty atiṣṭhad daśāṅgulam* ||<br>
->
-> *puruṣa evedaṃ sarvaṃ yad bhūtaṃ yac ca bhavyam* |<br>
-> *utāmṛtatvasyeśāno yad annenātirohati* ||<br>
->
-> The Purusha is thousand headed, thousand-eyed, and with thousand feet.
-> He encompassed the universe, and transcended it by ten angulas.<br>
->
-> All this, entire world, whatever has been (bhuta) and whatever will
-> come to be (bhavya), is Purusha alone. Further (uta), this Purusha is
-> the lord (Ishana) of immortality (amrta) (*Rig Veda* 10.90.1-2).[^44].
+> As rivers, flowing down, become indistinguishable on reaching
+> the sea by giving up their names and forms, so also the illumined soul,
+> having become freed from name and form, reaches the self-effulgent
+> Purusha that is higher than the higher (Maya)(Muṇḍaka Upaniṣad 3.2.8).[^44].
 
 ## Bibliography 
 
@@ -1103,6 +1095,8 @@ Bibelanstalt, 1898, Eberhard Nestle.
 
 *The Dhammapada.* Translated by Daw Mya Tin, Department for the
 Promotion and Propagation of the Sasana, 1993.
+
+*Eight Upaniṣad Volume Two.* Translated By Swami Gambhirananda. Advaita Ashram, 1937. 
 
 *The Flag Code of India.* Ministry of Home Affairs, Government of India,
 2002.
@@ -1163,8 +1157,6 @@ Ramakrishna-Vivekananda Center of New York, 1942.
 Jefferson, Thomas. "Declaration of Independence." Stone Engraving ed.,
 William J. Stone, 1820 1776. general editor, Second Continental
 Congress.
-
-Kapoor, Raj. "Mera Naam Joker." R. K. Films, 1970.
 
 MapGrid. "Flag of India — Construction Sheet." Wikimedia Foundation,
 2023.
@@ -1371,8 +1363,7 @@ Flag of India — Construction Sheet[^48][^49]
 
 [^43]: ---. "The Morning Song of India." 1919.
 
-[^44]: *Purusha Sukta*. Translated By. S.K. Ramachandara Rao. Sri Aurbiond 
-    Kapil Sastry Institute of Vedic Culture, 2006. 
+[^44]: Eight Upaniṣad Volume Two. Translated By Swami Gambhirananda. Advaita Ashram, 1937. 
 
 [^45]: NASA. "Hubble Ultra Deep Field 2014 (HUDF 2014)." Space Telescope Science 
     Institute, 2014.
