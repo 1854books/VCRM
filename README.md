@@ -1166,7 +1166,7 @@ Rand, Ayn. *Atlas Shrugged.* Random House, 1957.
 *Mahābhāratam.* BORI Critical Edition, The Bhandarkar Oriental Research 
 Institute, 1966, Vishnu S. Sukhtankar.
 
-Kapoor, Raj. "Mera Naam Joker." R. K. Films, 1970.
+*Mera Naam Joker.* Directed by Raj Kapoor, R. K. Films, 1970.
 
 *The Dhammapada.* Translated by Daw Mya Tin, Department for the Promotion 
 and Propagation of the Sasana, 1993.
@@ -1175,7 +1175,7 @@ Baudrillard, J. *The Illusion of the End.* Stanford University Press, 1994.
 
 Erikson, E.H. and J.M. Erikson. *Life Cycle Completed.* W. W. Norton, 1998.
 
-Wachowski, Lana and Lilly Wachowski. "The Matrix." Warner Brothers, 1999.
+*The Matrix.* Directed By Wachowski, Lana and Lilly Wachowski, Warner Brothers, 1999.
 
 *The Flag Code of India.* Ministry of Home Affairs, Government of India, 2002.
 
