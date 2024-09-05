@@ -1072,18 +1072,24 @@ Sahaja Subtle System[^39]
 
 ## About the Author
 
-> राजू: कहता है जोकर सारा ज़माना / आधी हक़ीकत आधा फ़साना / चश्मा उतारो फिर यारों देखो /
-> दुनिया नयी है चेहरा पुराना / कहता है जोकर सारा ज़माना / आधी हक़ीकत आधा फ़साना / कहता है जोकर सारा ज़माना…
+> स॒हस्र॑शीर्षा॒ पुरु॑षः सहस्रा॒क्षः स॒हस्र॑पात् । <br>
+> स भूमिं॑ वि॒श्वतो॑ वृ॒त्वात्य॑तिष्ठद्दशाङ्गु॒लम् ॥ <br>
 >
-> rajoo: kehta hai joker saara jamaana / aadhi haqikat aadha fasana /
-> chashma utaaro phir yaaro dekho / duniya nahi hai chehra purana /
-> kehta hai joker saara jamaana / aadhi haqikat aadha fasana /
-> kehta hai joker…
+> पुरु॑ष ए॒वेदं सर्वं॒ यद्भू॒तं यच्च॒ भव्य॑म् । <br>
+>  उ॒तामृ॑त॒त्वस्येशा॑नो॒ यदन्ने॑नाति॒रोह॑ति ॥ <br>
 >
-> Rajoo: Everybody calls me a joker / [It is] half true and half false /
-> Friends take off your glasses and see / The world is new but the face is old /
-> Everybody calls me a joker / [It is] half true and half false /
-> [They] call me a joker…(Mera Naam Joker 1:02:19-1:02:39).[^44]
+> *sahasraśīrṣā puruṣaḥ sahasrākṣaḥ sahasrapāt* | <br>
+> *sa bhūmiṃ viśvato vṛtvāty atiṣṭhad daśāṅgulam* ||<br>
+>
+> *puruṣa evedaṃ sarvaṃ yad bhūtaṃ yac ca bhavyam* |<br>
+> *utāmṛtatvasyeśāno yad annenātirohati* ||<br>
+>
+> The Purusha is thousand headed, thousand-eyed, and with thousand feet.
+> He encompassed the universe, and transcended it by ten angulas.<br>
+>
+> All this, entire world, whatever has been (bhuta) and whatever will
+> come to be (bhavya), is Purusha alone. Further (uta), this Purusha is
+> the lord (Ishana) of immortality [amrta) (*Rig Veda* 10.90.1-2).[^44].
 
 ## Bibliography 
 
@@ -1365,7 +1371,8 @@ Flag of India — Construction Sheet[^48][^49]
 
 [^43]: ---. "The Morning Song of India." 1919.
 
-[^44]: Kapoor, Raj. "Mera Naam Joker." R. K. Films, 1970.
+[^44]: *Purusha Sukta*. Translated By. S.K. Ramachandara Rao. Sri Aurbiond 
+    Kapil Sastry Institute of Vedic Culture, 2006. 
 
 [^45]: NASA. "Hubble Ultra Deep Field 2014 (HUDF 2014)." Space Telescope Science 
     Institute, 2014.
