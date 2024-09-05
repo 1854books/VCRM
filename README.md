@@ -1197,7 +1197,7 @@ Indo-European languages*, The Clarendon Press, 1872.
 
 ![img](HUDF2014.jpg)
 
-Hubble Ultra Deep Field 2014 (HUDF 2014).
+Hubble Ultra Deep Field 2014 (HUDF 2014)[^46]
 
 ## तिरंगा, tiraṅgā: "tricolour"[^47]
 
