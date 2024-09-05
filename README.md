@@ -1196,11 +1196,11 @@ etymologically and philologically arranged with special reference to
 Greek, Latin, Gothic, German, Anglo-Saxon, and other cognate
 Indo-European languages*, The Clarendon Press, 1872.
 
-## Positively Not The End[^44][^45]
+## Positively Not The End[^44]
 
 ![img](HUDF2014.jpg)
 
-Hubble Ultra Deep Field 2014 (HUDF 2014)[^46]
+Hubble Ultra Deep Field 2014 (HUDF 2014)[^45][^46]
 
 ## तिरंगा, tiraṅgā: "tricolour"[^47]
 
@@ -1369,7 +1369,10 @@ Flag of India — Construction Sheet[^48][^49]
 
 [^44]: *Mera Naam Joker.* Directed by Raj Kapoor, R.K. FIlms, 1970.
 
-[^45]: The whole problem of speaking about the end (particularly the end 
+[^45]: NASA. "Hubble Ultra Deep Field 2014 (HUDF 2014)." Space Telescope Science 
+    Institute, 2014.
+
+[^46]: The whole problem of speaking about the end (particularly the end 
     of history) is that you have to speak of what lies beyond the end and 
     also, at the same time, of the impossibility of ending. This paradox is 
     produced by the fact that in a non-linear, non-Euclidean space of history 
@@ -1379,9 +1382,6 @@ Flag of India — Construction Sheet[^48][^49]
     anticipation of their effects - not to mention their transfiguration in 
     the media - are suppressing the cause-effect relation and hence all historical 
     continuity (Baudrillard 110).
-
-[^46]: NASA. "Hubble Ultra Deep Field 2014 (HUDF 2014)." Space Telescope Science 
-    Institute, 2014.
      
 [^47]: त्रि, tri “three” +‎ रङ्ग, raṅga: “colour”
 
