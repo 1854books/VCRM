@@ -1089,7 +1089,7 @@ Sahaja Subtle System[^39]
 >
 > All this, entire world, whatever has been (bhuta) and whatever will
 > come to be (bhavya), is Purusha alone. Further (uta), this Purusha is
-> the lord (Ishana) of immortality [amrta) (*Rig Veda* 10.90.1-2).[^44].
+> the lord (Ishana) of immortality (amrta) (*Rig Veda* 10.90.1-2).[^44].
 
 ## Bibliography 
 
