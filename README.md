@@ -1104,13 +1104,12 @@ Marx, Karl and Friedrich Engels. *Manifest Der Kommunistischen Partei:
 Veröffentlicht Im Februar 1848.* Gedruckt in der Office der "Bildungs-
 Gesellschaft für Arbeiter" von J.E. Burghard, 1848.
 
-Sir Monier Monier-Williams. *A Sanskṛit-English dictionary etymologically 
-and philologically arranged with special reference to Greek, Latin, Gothic, 
-German, Anglo-Saxon, and other cognate Indo-European languages*, The Clarendon 
-Press, 1872.
-
 *The Bhagavad Gita with the Commentary of Sri Sankaracharya.* Translated by 
 Alladi Mahadeva Sastri, Samata Books, 1897.
+
+Sir Monier Monier-Williams. *A Sanskrit-English Dictionary Etymologically and 
+Philologically Arranged with Special Reference to Cognate Indo-European 
+Languages*, Oxford University Press, 1899.
 
 *The Christian Bible.* Novum Testamentum Graece, Wurttembergische 
 Bibelanstalt, 1898, Eberhard Nestle.
@@ -1212,12 +1211,7 @@ Hubble Ultra Deep Field 2014 (HUDF 2014)[^45][^46]
 
 Flag of India — Construction Sheet[^48][^49]
 
-[^1]: मनु, *manu*: " thinking creature" + स्मृति, *smṛti*: "remembrance"
-
-    Sir Monier Monier-Williams. *A Sanskṛit-English dictionary
-    etymologically and philologically arranged with special reference to
-    Greek, Latin, Gothic, German, Anglo-Saxon, and other cognate
-    Indo-European languages*, The Clarendon Press, 1872.
+[^1]: मनु, *manu*: " thinking creature (Monier-Williams 784)" + स्मृति, *smṛti*: "remembrance (Monier-Williams 1272)"
 
 [^2]: તન-મન-ધન a. n. \[See તન + મન + ધન\] Lit. The body, the mind, and
     one’s wealth. Hence, 2. All that one loves; the highest object of
@@ -1226,16 +1220,11 @@ Flag of India — Construction Sheet[^48][^49]
 [^3]: Shakespeare, William. *Romeo and Juliet, Quarto 2.* Thomas Creede,
     1599.
 
-[^4]: भा, bhā: “light or a beam of l°, lustre, splendour” + रत, rata:
+[^4]: भा, bhā: “light or a beam of l°, lustre, splendour (Monier-Williams 747)”  + रत, rata:
     “delighting in, intent upon, fond or enamoured of, devoted or
-    attached or addicted or disposed to”
+    attached or addicted or disposed to (Monier-Williams 867)”
 
-    Sir Monier Monier-Williams. *A Sanskṛit-English dictionary
-    etymologically and philologically arranged with special reference to
-    Greek, Latin, Gothic, German, Anglo-Saxon, and other cognate
-    Indo-European languages*, The Clarendon Press, 1872.
-
-[^5]: गण, gaṇa: “many” + राज्य, rājya: “state” ibid.
+[^5]: गण, gaṇa: “many (Monier-Williams 343)” + राज्य, rājya: “realm (Monier-Williams 875)” ibid.
 
 [^6]: National Emblem of India
 
@@ -1387,12 +1376,7 @@ Flag of India — Construction Sheet[^48][^49]
     the media - are suppressing the cause-effect relation and hence all historical 
     continuity (Baudrillard 110).
      
-[^47]: त्रि, tri “three” +‎ रङ्ग, raṅga: “colour”
-
-    Sir Monier Monier-Williams. *A Sanskṛit-English dictionary
-    etymologically and philologically arranged with special reference to
-    Greek, Latin, Gothic, German, Anglo-Saxon, and other cognate
-    Indo-European languages*, The Clarendon Press, 1872.
+[^47]: त्रि, tri “three” +‎ रङ्ग, raṅga: “colour (Monier-Williams 862)”
 
 [^48]: MapGrid. "Flag of India — Construction Sheet." Wikimedia
     Foundation, 2023.
