@@ -1022,14 +1022,14 @@ for evermore."
 
 ![img](sahajaSubtleSystem.jpg)
 
-Sahaja Subtle System[^39]
+Sahaja Subtle System[^39][^40]
 
 ## Postface
 
 > Long years ago we made a tryst with destiny, and now the time comes when we
 > shall redeem our pledge, not wholly or in full measure, but very substantially. 
 > At the stroke of the midnight hour, when the world sleeps, India will awake
-> to life and freedom (*Tryst With Destiny*).[^40]
+> to life and freedom (*Tryst With Destiny*).[^41]
 
 ## Epliogue
 
@@ -1043,7 +1043,7 @@ Sahaja Subtle System[^39]
 >
 > Thou art the ruler of the minds of all people, dispenser of India's
 > destiny.<br>
-> Victory, Victory, Victory to thee.[^41]
+> Victory, Victory, Victory to thee.[^42]
 
 **Context**: ভারত ভাগ্য বিধাতা, *bharoto bhagyo bidhata*: "Dispenser of India's destiny" 
 >
@@ -1052,7 +1052,7 @@ Sahaja Subtle System[^39]
 > তব করুণারুণরাগে নিদ্রিত ভারত জাগে<br>
 > তব চরণে নত মাথা।<br>
 > জয় জয় জয় হে জয় রাজেশ্বর ভারতভাগ্যবিধাতা!<br>
-> জয় হে, জয় হে, জয় হে, জয় জয় জয় জয় হে॥[^42]
+> জয় হে, জয় হে, জয় হে, জয় জয় জয় জয় হে॥[^43]
 >
 > *ratri probhatilo, udilo robichchhobi purbo udōyo giri bhale*<br>
 > *gahe bihōngōmo, punyo šomirōno nōbo jibōnorōšo dhale.*<br>
@@ -1066,7 +1066,7 @@ Sahaja Subtle System[^39]
 > new life. The rays of thy mercy have touched the waking land with<br>
 > their blessings. Victory to the King of Kings, Victory to thee,<br>
 > dispenser of India's destiny.<br>
-> ⁠Victory, Victory, victory to thee.[^43]
+> ⁠Victory, Victory, victory to thee.[^44]
 
 **Meaning**: Arise Mother India
 
@@ -1199,17 +1199,17 @@ the Streams*. reported by Lilly Wachowski, 4 August 2020, Netflix.
 
 MapGrid. "Flag of India — Construction Sheet." Wikimedia Foundation, 2023.
 
-## Positively Not The End[^44]
+## Positively Not The End[^45]
 
 ![img](HUDF2014.jpg)
 
-Hubble Ultra Deep Field 2014 (HUDF 2014)[^45][^46]
+Hubble Ultra Deep Field 2014 (HUDF 2014)[^46][^47]
 
-## तिरंगा, tiraṅgā: "tricolour"[^47]
+## तिरंगा, tiraṅgā: "tricolour"[^48]
 
 ![img](flagOfIndia.jpg)
 
-Flag of India — Construction Sheet[^48][^49]
+Flag of India — Construction Sheet[^49][^50]
 
 [^1]: मनु, *manu*: " thinking creature (Monier-Williams 784)" + स्मृति, *smṛti*: "remembrance (Monier-Williams 1272)"
 
@@ -1350,22 +1350,29 @@ Flag of India — Construction Sheet[^48][^49]
     G. Superego
 
     Alex-engraver. "Sahaja Subtle System." Wikimedia Foundation, 2011.
+    
+[^40]: “True it is, without falsehood, certain and most true. That 
+    which is above is like to that which is below, and that which is 
+    below is like to that which is above, to accomplish the miracles 
+    of one thing (Steel 486).“
 
-[^40]: Nehru, Jawaharlal. “Tryst with Destiny.” Constituent Assembly of India, 
+    Steele, Robert, and Dorothea Waley Singer. "The Emerald Table." (1928): 485-501.
+    
+[^41]: Nehru, Jawaharlal. “Tryst with Destiny.” Constituent Assembly of India, 
 	14 August 1947, The Council House, New Delhi. Keynote Address.
 
-[^41]: National Anthem of India, Abridged Version.
+[^42]: National Anthem of India, Abridged Version.
 
-[^42]: Tagore, Rabindranath. "Bharoto Bhagyo Bidhata." 1911.
+[^43]: Tagore, Rabindranath. "Bharoto Bhagyo Bidhata." 1911.
 
-[^43]: ---. "The Morning Song of India." 1919.
+[^44]: ---. "The Morning Song of India." 1919.
 
-[^44]: *Mera Naam Joker.* Directed by Raj Kapoor, R.K. FIlms, 1970.
+[^45]: *Mera Naam Joker.* Directed by Raj Kapoor, R.K. FIlms, 1970.
 
-[^45]: NASA. "Hubble Ultra Deep Field 2014 (HUDF 2014)." Space Telescope Science 
+[^46]: NASA. "Hubble Ultra Deep Field 2014 (HUDF 2014)." Space Telescope Science 
     Institute, 2014.
 
-[^46]: The whole problem of speaking about the end (particularly the end 
+[^47]: The whole problem of speaking about the end (particularly the end 
     of history) is that you have to speak of what lies beyond the end and 
     also, at the same time, of the impossibility of ending. This paradox is 
     produced by the fact that in a non-linear, non-Euclidean space of history 
@@ -1376,12 +1383,12 @@ Flag of India — Construction Sheet[^48][^49]
     the media - are suppressing the cause-effect relation and hence all historical 
     continuity (Baudrillard 110).
      
-[^47]: त्रि, tri “three” +‎ रङ्ग, raṅga: “colour (Monier-Williams 862)”
+[^48]: त्रि, tri “three” +‎ रङ्ग, raṅga: “colour (Monier-Williams 862)”
 
-[^48]: MapGrid. "Flag of India — Construction Sheet." Wikimedia
+[^49]: MapGrid. "Flag of India — Construction Sheet." Wikimedia
     Foundation, 2023.
 
-[^49]: Dr. S. Radhakrishnan explained—"Bhagwa or the Saffron denotes
+[^50]: Dr. S. Radhakrishnan explained—"Bhagwa or the Saffron denotes
     renunciation or disinterestedness. Our leaders must be indifferent
     to material gains and dedicate themselves to their work. The white
     in the centre is light, the path of truth to guide our conduct. The
