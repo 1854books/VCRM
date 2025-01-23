@@ -1354,7 +1354,7 @@ Flag of India — Construction Sheet[^49][^50]
 [^40]: “True it is, without falsehood, certain and most true. That 
     which is above is like to that which is below, and that which is 
     below is like to that which is above, to accomplish the miracles 
-    of one thing (Steel 486).“
+    of one thing  by a single act of adaptation (Steel 486).“
 
     Steele, Robert, and Dorothea Waley Singer. "The Emerald Table." (1928): 485-501.
     
