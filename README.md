@@ -1211,7 +1211,7 @@ Hubble Ultra Deep Field 2014 (HUDF 2014)[^46][^47]
 
 Flag of India — Construction Sheet[^49][^50]
 
-[^1]: मनु, *manu*: " thinking creature (Monier-Williams 784)" + स्मृति, *smṛti*: "remembrance (Monier-Williams 1272)"
+[^1]: मनु, *manu*: "thinking creature (Monier-Williams 784)" + स्मृति, *smṛti*: "remembrance (Monier-Williams 1272)"
 
 [^2]: તન-મન-ધન a. n. \[See તન + મન + ધન\] Lit. The body, the mind, and
     one’s wealth. Hence, 2. All that one loves; the highest object of
