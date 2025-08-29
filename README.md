@@ -25,7 +25,7 @@ system, stored in a database and / or published in any form or by any
 means, electronic, mechanical, photocopying, recording or otherwise,
 without the prior written permission of the publisher.
 
-Published in  કલા નગરી, *kalā nagarī*: "city of art" by મન, *man*: "mind"[^2]
+Published in  કલા નગરી, *kalā nagarī*: “city of art“ by મન, *man*: “mind“[^2]
 
 Cataloging in Publication Data
 
@@ -50,17 +50,17 @@ Subjects: 1. Religion 2. History<br>
 
 ## Acknowledgement 
 
-To भरत, *bharata*: "intent upon (Knowledge) Light"[^4]
+To भरत, *bharata*: “intent upon (Knowledge) Light“[^4]
 
 ## Dedication 
 
-To गणराज्य, *gaṇarājya*: "a great multitude"[^5]
+To गणराज्य, *gaṇarājya*: “a great multitude“[^5]
 
 ## Epigraph
 
-**Text**: सत्यमेव जयते, *satyameva jayate*: "Truth alone triumphs"[^6]
+**Text**: सत्यमेव जयते, *satyameva jayate*: “Truth alone triumphs“[^6]
 
-**Context**: मुण्डक उपनिषद्, *muṇḍaka upaniṣad*: "shaved (as in shaved head) to sit down near to"[^7]:
+**Context**: मुण्डक उपनिषद्, *muṇḍaka upaniṣad*: “shaved (as in shaved head) to sit down near to“[^7]:
 
 > सत्यमेव जयते नानृतं सत्येन पन्था विततो देवयानः । <br>
 > येनाक्रमन्त्यृषयो ह्याप्तकामा यत्र तत् सत्यस्य परमं निधानम् ॥[^8]
@@ -91,20 +91,20 @@ To गणराज्य, *gaṇarājya*: "a great multitude"[^5]
 
 ## Table of Contents
 
-1. <span dir="ltr"> בְּרֵאשִׁית‎, *B'reshith*: "In the beginning"
-2. ဓမ္မပဒ, *dhammapada*: "words of the doctrine"
-3. श्रीमद्भगवद्गीता, *śrīmadbhagavadgītā*: "the song of god"
-4. eὐαγγέλιον κατὰ Ἰωάννην, *euangélion katà iōánnēn*: "god's good news according to john"
-5. <span dir="ltr"> ٱلۡقُرۡءَانُ‎, *al-qurʾān*: "the recitation"
-6. *Declaration of Independence*: "A Declaration By The Representatives
-    Of The United States of America, In General Congress Assembled"<br>
-	1788 *The Federalist*: "A Collection of Essays, Written in Favour of the New Constitution, as Agreed upon by the Federal Convention, September 17, 1787"<br>
-   	1789 *Qu'est-ce que le Tiers-État?*: "What Is the Third Estate?"<br>
-	1848 *Manifest der Kommunistischen Partei*: "Manifesto of the Communist Party"<br>
-	1932 *La Dottrina del Fascismo*: "The Doctrine of Fascism"<br>
-7. સર્વોદય, *sarvōdaya*: "the welfare of all"[^12]
-8. *Atlas Shrugged*: "the role of the mind in man's existence"[^13]
-9. *The Matrix*: "the desire for transformation"[^14]
+1. <span dir=“ltr“> בְּרֵאשִׁית‎, *B'reshith*: “In the beginning“
+2. ဓမ္မပဒ, *dhammapada*: “words of the doctrine“
+3. श्रीमद्भगवद्गीता, *śrīmadbhagavadgītā*: “the song of god“
+4. eὐαγγέλιον κατὰ Ἰωάννην, *euangélion katà iōánnēn*: “god's good news according to john“
+5. <span dir=“ltr“> ٱلۡقُرۡءَانُ‎, *al-qurʾān*: “the recitation“
+6. *Declaration of Independence*: “A Declaration By The Representatives
+    Of The United States of America, In General Congress Assembled“<br>
+	1788 *The Federalist*: “A Collection of Essays, Written in Favour of the New Constitution, as Agreed upon by the Federal Convention, September 17, 1787“<br>
+   	1789 *Qu'est-ce que le Tiers-État?*: “What Is the Third Estate?“<br>
+	1848 *Manifest der Kommunistischen Partei*: “Manifesto of the Communist Party“<br>
+	1932 *La Dottrina del Fascismo*: “The Doctrine of Fascism“<br>
+7. સર્વોદય, *sarvōdaya*: “the welfare of all“[^12]
+8. *Atlas Shrugged*: “the role of the mind in man's existence“[^13]
+9. *The Matrix*: “the desire for transformation“[^14]
 
 ## Introduction or What is *sāṅkhya*?
 
@@ -134,7 +134,7 @@ between every two atoms of ether. What fills up these? If you suppose
 that there is another ether still finer which does this, there will
 again be other spaces between the atoms of that finer ether which
 require filling up, and so it will be regressus ad infinitum, what the
-Sāṅkhya philosophers call the "cause leading to nothing" So the atomic
+Sāṅkhya philosophers call the “cause leading to nothing“ So the atomic
 theory cannot be final. According to Sāṅkhya, nature is omnipresent, one
 omnipresent mass of nature, in which are the causes of everything that
 exists. What is meant by cause? Cause is the fine state of the
@@ -160,7 +160,7 @@ conclusions, which we, analysing the physical part, must come to, for
 they both must lead to the same centre.
 
 You must remember that the first manifestation of this Prakriti in the
-cosmos is what the Sāṅkhya calls "Mahat". We may call it intelligence —
+cosmos is what the Sāṅkhya calls “Mahat“. We may call it intelligence —
 the great principle, its literal meaning. The first change in Prakriti
 is this intelligence; I would not translate it by self-consciousness,
 because that would be wrong. Consciousness is only a part of this
@@ -219,7 +219,7 @@ rational system that the world ever saw. Every metaphysician in the
 world must pay homage to him. I want to impress on your mind that we are
 bound to listen to him as the great father of philosophy. This wonderful
 man, the most ancient of philosophers, is mentioned even in the Shruti:
-"O Lord, Thou who produced the sage Kapila in the Beginning." How
+“O Lord, Thou who produced the sage Kapila in the Beginning.“ How
 wonderful his perceptions were, and if there is ant proof required of
 the extraordinary power of the perception of Yogis, such men are the
 proof. They had no microscopes or telescopes. Yet how fine their
@@ -230,7 +230,7 @@ philosophy. Schopenhauer says that desire, or will, is the cause of
 everything. It is the will to exist that make us manifest, but we deny
 this. The will is identical with the motor nerves. When I see an object
 there is no will; when its sensations are carried to the brain, there
-comes the reaction, which says "Do this", or "Do not do this", and this
+comes the reaction, which says “Do this“, or “Do not do this“, and this
 state of the ego-substance is what is called will. There cannot be a
 single particle of will which is not a reaction. So many things precede
 will. It is only a manufactured something out of the ego, and the ego is
@@ -329,20 +329,20 @@ knocking of our heads against a wall will never explain the universe,
 because knowledge is the finding of similars, and this conscious plane
 only gives us one single perception of it. So with our idea of God. All
 that we see of God is only a part just as we see only one portion of the
-universe, and all the rest is beyond human cognition. "I, the universal;
-so great am I that even this universe is but a part of Me." That is why
+universe, and all the rest is beyond human cognition. “I, the universal;
+so great am I that even this universe is but a part of Me.“ That is why
 we see God as imperfect, and do not understand Him. The only way to
 understand Him and the universe is to go beyond reason, beyond
-consciousness. "When thou goest beyond the heard and the hearing, the
-thought and the thinking, then alone wilt thou come to Truth." "Go thou
+consciousness. “When thou goest beyond the heard and the hearing, the
+thought and the thinking, then alone wilt thou come to Truth.“ “Go thou
 beyond the scriptures, because they teach only up to nature, up to the
-three qualities." When we go beyond them, we find the harmony, and not
+three qualities.“ When we go beyond them, we find the harmony, and not
 before.
 
 The microcosm and the macrocosm are built on exactly the same plan, and
 in the microcosm we know only one part, the middle part. We know neither
 the sub-conscious, nor the super-conscious. We know the conscious only.
-If a man stands up and says, "I am a sinner", he makes an untrue
+If a man stands up and says, “I am a sinner“, he makes an untrue
 statement because he does not know himself. He is the most ignorant of
 men; of himself he knows only one part, because his knowledge covers
 only a part of the ground he is on. So with this universe, it is
@@ -355,8 +355,8 @@ What makes nature (Prakriti) change? We see so far that everything, all
 Prakriti, is Jada, insentient. It is all compound and insentient.
 Wherever there is law, it is proof that the region of its play is
 insentient. Mind, intelligence, will, and everything else is insentient.
-But they are all reflecting the sentiency, the "Chit" of some being who
-is beyond all this, whom the Sāṅkhya philosophers call "Purusha". The
+But they are all reflecting the sentiency, the “Chit“ of some being who
+is beyond all this, whom the Sāṅkhya philosophers call “Purusha“. The
 Purusha is the unwitting cause of all the changes in the universe. That
 is to say, this Purusha, taking Him in the universal sense, is the God
 of the universe. It is said that the will of the Lord created the
@@ -387,8 +387,8 @@ intelligence itself is a compound. What then is this Purusha? It is
 neither intelligence nor will, but it is the cause of all these. It is
 its presence that sets them all going and combining. It does not mix
 with nature; it is not intelligence, or Mahat; but the Self, the pure,
-is Purusha. "I am the witness, and through my witnessing, nature is
-producing; all that is sentient and all that is insentient."
+is Purusha. “I am the witness, and through my witnessing, nature is
+producing; all that is sentient and all that is insentient.“
 
 What is this sentiency in nature? We find intelligence is this sentiency
 which is called Chit. The basis of sentiency is in the Purusha, it is
@@ -400,16 +400,16 @@ is light in intelligence belongs to Purusha. Sentiency is in the
 Purusha, but the Purusha is not intelligent, not knowing. The Chit in
 the Purusha plus Prakriti is what we see around us. Whatever is pleasure
 and happiness and light in the universe belongs to Purusha; but it is a
-compound, because it is Purusha plus Prakriti. "Wherever there is any
+compound, because it is Purusha plus Prakriti. “Wherever there is any
 happiness, wherever there is any bliss, there is a spark of that
-immortality which is God." "Purusha is the; great attraction of the
+immortality which is God.“ “Purusha is the; great attraction of the
 universe; though untouched by and unconnected with the universe, yet it
-attracts the whole; universe." You see a man going after gold, because
+attracts the whole; universe.“ You see a man going after gold, because
 behind it is a spark of the Purusha though mixed up with a good deal of
 dirt. When a man loves his children or a woman her husband, what is the
 attracting power? A spark of Purusha behind them. It is there, only
-mixed up with "dirt". Nothing else can attract. "In this world of
-insentiency the Purusha alone is sentient." This is the Purusha of the
+mixed up with “dirt“. Nothing else can attract. “In this world of
+insentiency the Purusha alone is sentient.“ This is the Purusha of the
 Sāṅkhya. As such, it necessarily follows that the Purusha must be
 omnipresent. That which is not omnipresent must be limited. All
 limitations are caused; that which is caused must have a beginning and
@@ -430,7 +430,7 @@ senses into organs and instruments that they are not simple, but
 compound; by dividing egoism into sense and matter, we find that this is
 also material and that Mahat is also a state of matter, and finally we
 find the Purusha. So far there is no objection. But if we ask the
-Sāṅkhya the question, "Who created nature?" — the Sāṅkhya says that the
+Sāṅkhya the question, “Who created nature?“ — the Sāṅkhya says that the
 Purusha and the Prakriti are uncreate and omnipresent, and that of this
 Purusha there is an infinite number. We shall have to controvert these
 propositions, and find a better solution, and by so doing we shall come
@@ -445,8 +445,8 @@ when it is constructed.
 
 ### *B'reshith*
 
-> <span dir="ltr"> א בראשית ברא אלהים את השמים ואת הארץ<br>
-> <span dir="ltr">ב והארץ, היתה תהו ובהו, וחשך, על-פני תהום; ורוח אלהים, מרחפת על-פני המים.[^16]
+> <span dir=“ltr“> א בראשית ברא אלהים את השמים ואת הארץ<br>
+> <span dir=“ltr“>ב והארץ, היתה תהו ובהו, וחשך, על-פני תהום; ורוח אלהים, מרחפת על-פני המים.[^16]
 >
 > *Bə·rê·šîṯ bā·rā ’ĕ·lō·hîm; ’êṯ haš·šā·ma·yim wə·’êṯ hā·’ā·reṣ.*<br>
 > *wə·hā·’ā·reṣ, hā·yə·ṯāh ṯō·hū wā·ḇō·hū, wə·ḥō·šeḵ ‘al- pə·nê
@@ -527,13 +527,13 @@ when it is constructed.
 
 ### *al-qurʾān*
 
-> <span dir="rtl">بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ <br>
-> <span dir="rtl">ٱلۡحَمۡدُ لِلَّهِ رَبِّ ٱلۡعَٰلَمِينَ<br>
-> <span dir="rtl">ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ<br>
-> <span dir="rtl">مَٰلِكِ يَوۡمِ ٱلدِّينِ<br>
-> <span dir="rtl">إِيَّاكَ نَعۡبُدُ وَإِيَّاكَ نَسۡتَعِينُ<br>
-> <span dir="rtl">ٱهۡدِنَا ٱلصِّرَٰطَ ٱلۡمُسۡتَقِيمَ<br>
-> <span dir="ltr">[^24]صِرَٰطَ ٱلَّذِينَ أَنۡعَمۡتَ عَلَيۡهِمۡ غَيۡرِ ٱلۡمَغۡضُوبِ عَلَيۡهِمۡ وَلَا ٱلضَّآلِّينَ<br>
+> <span dir=“rtl“>بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ <br>
+> <span dir=“rtl“>ٱلۡحَمۡدُ لِلَّهِ رَبِّ ٱلۡعَٰلَمِينَ<br>
+> <span dir=“rtl“>ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ<br>
+> <span dir=“rtl“>مَٰلِكِ يَوۡمِ ٱلدِّينِ<br>
+> <span dir=“rtl“>إِيَّاكَ نَعۡبُدُ وَإِيَّاكَ نَسۡتَعِينُ<br>
+> <span dir=“rtl“>ٱهۡدِنَا ٱلصِّرَٰطَ ٱلۡمُسۡتَقِيمَ<br>
+> <span dir=“ltr“>[^24]صِرَٰطَ ٱلَّذِينَ أَنۡعَمۡتَ عَلَيۡهِمۡ غَيۡرِ ٱلۡمَغۡضُوبِ عَلَيۡهِمۡ وَلَا ٱلضَّآلِّينَ<br>
 >
 > *bismillah hir rahman nir raheem*<br>
 > *alhamdu lillaahi rabbil ‘aalameen*<br>
@@ -748,15 +748,15 @@ human instinct to rebel against nature's laws. We may not understand
 what the meaning is, but there is that unconscious struggle of the human
 with the spiritual, of the lower with the higher mind, and the struggle
 attempts to preserve one's separate life, what we call our
-"individuality".
+“individuality“.
 
 Even hells stand out with this miraculous fact that we are born rebels;
 and the first fact of life — the inrushing of life itself — against this
-we rebel and cry out, "No law for us." As long as we obey the laws we
+we rebel and cry out, “No law for us.“ As long as we obey the laws we
 are like machines, and on goes the universe, and we cannot break it.
 Laws as laws become man's nature. The first inkling of life on its
 higher level is in seeing this struggle within us to break the bond of
-nature and to be free. "Freedom, O Freedom! Freedom, O Freedom!" is the
+nature and to be free. “Freedom, O Freedom! Freedom, O Freedom!“ is the
 song of the soul. Bondage, alas, to be bound in nature, seems its fate.
 
 Why should there be serpent, or ghost, or demon worship and all these
@@ -771,11 +771,11 @@ struggle goes on. Nay, the whole of nature from the very sun to the
 atoms is under law, and even for man there is no freedom. But we cannot
 believe it. We have been studying laws from the beginning and yet cannot
 — nay, will not — believe that man is under law. The soul cries ever,
-"Freedom, O Freedom!" With the conception of God as a perfectly free
+“Freedom, O Freedom!“ With the conception of God as a perfectly free
 Being, man cannot rest eternally in this bondage. Higher he must go, and
 unless the struggle were for himself, he would think it too severe. Man
-says to himself, "I am a born slave, I am bound; nevertheless, there is
-a Being who is not bound by nature. He is free and Master of nature."
+says to himself, “I am a born slave, I am bound; nevertheless, there is
+a Being who is not bound by nature. He is free and Master of nature.“
 
 The conception of God, therefore, is as essential and as fundamental a
 part of mind as is the idea of bondage. Both are the outcome of the idea
@@ -872,7 +872,7 @@ pass through their street, so they howled and shrieked and clutched at
 my feet as I passed. As they pressed closer, I began to run, but the
 faster I ran, the faster came the monkeys and they began to bite at me.
 It seemed impossible to escape, but just then I met a stranger who
-called out to me, "Face the brutes." I turned and faced the monkeys, and
+called out to me, “Face the brutes.“ I turned and faced the monkeys, and
 they fell back and finally fled. That is a lesson for all life — face
 the terrible, face it boldly. Like the monkeys, the hardships of life
 fall back when we cease to flee before them. If we are ever to gain
@@ -895,8 +895,8 @@ the Truth Ultimate which comes from the idea of oneness. Then will be
 lost the idea that one is greater than another. The nearer we approach
 the law of freedom, the more we shall come under the Lord, and troubles
 will vanish. Then we shall not differentiate the door of hell from the
-gate of heaven, nor differentiate between men and say, "I am greater
-than any being in the universe." Until we see nothing in the world but
+gate of heaven, nor differentiate between men and say, “I am greater
+than any being in the universe.“ Until we see nothing in the world but
 the Lord Himself, all these evils will beset us and we shall make all
 these distinctions; because it is only in the Lord, in the Spirit, that
 we are all one; and until we see God everywhere, this unity will not
@@ -932,8 +932,8 @@ choosing the path through hells, will reach it, but it will take time.
 We cannot save him. Some hard knocks on his head will help him to turn
 to the Lord. The path of virtue, purity, unselfishness, spirituality,
 becomes known at last and what all are doing unconsciously, we are
-trying to do consciously. The idea is expressed by St. Paul, "The God
-that ye ignorantly worship, Him declare I unto you." This is the lesson
+trying to do consciously. The idea is expressed by St. Paul, “The God
+that ye ignorantly worship, Him declare I unto you.“ This is the lesson
 for the whole world to learn. What have these philosophies and theories
 of nature to do, if not to help us to attain to this one goal in life?
 Let us come to that consciousness of the identity of everything and let
@@ -958,7 +958,7 @@ the highest worship. You are one with the universe. That only is
 humility — not crawling upon all fours and calling yourself a sinner.
 That is the highest evolution when this veil of differentiation is torn
 off. The highest creed is Oneness. I am so-and-so is a limited idea, not
-true of the real "I". I am the universal; stand upon that and ever
+true of the real “I“. I am the universal; stand upon that and ever
 worship the Highest through the highest form, for God is Spirit and
 should be worshipped in spirit and in truth. Through lower forms of
 worship, man's material thoughts rise to spiritual worship and the
@@ -970,52 +970,52 @@ that is the highest spiritual worship. The grandeur of realising these
 ideas, how difficult it is! I theorise, talk, philosophize; and the next
 moment something comes against me, and I unconsciously become angry, I
 forget there is anything in the universe but this little limited self, I
-forget to say, "I am the Spirit, what is this trifle to me? I am the
-Spirit." I forget it is all myself playing, I forget God, I forget
+forget to say, “I am the Spirit, what is this trifle to me? I am the
+Spirit.“ I forget it is all myself playing, I forget God, I forget
 freedom.
 
 Sharp as the blade of a razor, long and difficult and hard to cross, is
 the way to freedom. The sages have declared this again and again. Yet do
 not let these weaknesses and failures bind you. The Upanishads have
-declared, "Arise ! Awake ! and stop not until the goal is reached." We
+declared, “Arise ! Awake ! and stop not until the goal is reached.“ We
 will then certainly cross the path, sharp as it is like the razor, and
 long and distant and difficult though it be. Man becomes the master of
 gods and demons. No one is to blame for our miseries but ourselves. Do
 you think there is only a dark cup of poison if man goes to look for
 nectar? The nectar is there and is for every man who strives to reach
-it. The Lord Himself tells us, "Give up all these paths and struggles.
+it. The Lord Himself tells us, “Give up all these paths and struggles.
 Do thou take refuge in Me. I will take thee to the other shore, be not
-afraid." We hear that from all the scriptures of the world that come to
-us. The same voice teaches us to say, "Thy will be done upon earth, as
-it is in heaven," for "Thine is the kingdom and the power and the
-glory." It is difficult, all very difficult. I say to myself, "This
+afraid.“ We hear that from all the scriptures of the world that come to
+us. The same voice teaches us to say, “Thy will be done upon earth, as
+it is in heaven,“ for “Thine is the kingdom and the power and the
+glory.“ It is difficult, all very difficult. I say to myself, “This
 moment I will take refuge in Thee, O Lord. Unto Thy love I will
 sacrifice all, and on Thine altar I will place all that is good and
 virtuous. My sins, my sorrows, my actions, good and evil, I will offer
-unto Thee; do Thou take them and I will never forget." One moment I say,
-"Thy will be done," and the next moment something comes to try me and I
+unto Thee; do Thou take them and I will never forget.“ One moment I say,
+“Thy will be done,“ and the next moment something comes to try me and I
 spring up in a rage. The goal of all religions is the same, but the
-language of the teachers differs. The attempt is to kill the false "I",
-so that the real "I", the Lord, will reign. "I the Lord thy God am a
-jealous God. Thou shalt have no other gods before me," say the Hebrew
-scriptures. God must be there all alone. We must say, "Not I, but Thou,"
+language of the teachers differs. The attempt is to kill the false “I“,
+so that the real “I“, the Lord, will reign. “I the Lord thy God am a
+jealous God. Thou shalt have no other gods before me,“ say the Hebrew
+scriptures. God must be there all alone. We must say, “Not I, but Thou,“
 and then we should give up everything but the Lord. He, and He alone,
 should reign. Perhaps we struggle hard, and yet the next moment our feet
 slip, and then we try to stretch out our hands to Mother. We find we
-cannot stand alone. Life is infinite, one chapter of which is, "Thy will
-be done," and unless we realise all the chapters we cannot realise the
-whole. "Thy will be done" — every moment the traitor mind rebels against
+cannot stand alone. Life is infinite, one chapter of which is, “Thy will
+be done,“ and unless we realise all the chapters we cannot realise the
+whole. “Thy will be done“ — every moment the traitor mind rebels against
 it, yet it must be said, again and again, if we are to conquer the lower
 self. We cannot serve a traitor and yet be saved. There is salvation for
 all except the traitor and we stand condemned as traitors, traitors
 against our own selves, against the majesty of Mother, when we refuse to
 obey the voice of our higher Self. Come what will, we must give our
 bodies and minds up to the Supreme Will. Well has it been said by the
-Hindu philosopher, "If man says twice, 'Thy will be done,' he commits
-sin." "Thy will be done," what more is needed, why say it twice? What is
-good is good. No more shall we take it back. "Thy will be done on earth
+Hindu philosopher, “If man says twice, 'Thy will be done,' he commits
+sin.“ “Thy will be done,“ what more is needed, why say it twice? What is
+good is good. No more shall we take it back. “Thy will be done on earth
 as it is in heaven, for Thine is the kingdom and the power and the glory
-for evermore."
+for evermore.“
 </details>
 
 ## Appendix
@@ -1045,7 +1045,7 @@ Sahaja Subtle System[^39][^40]
 > destiny.<br>
 > Victory, Victory, Victory to thee.[^42]
 
-**Context**: ভারত ভাগ্য বিধাতা, *bharoto bhagyo bidhata*: "Dispenser of India's destiny" 
+**Context**: ভারত ভাগ্য বিধাতা, *bharoto bhagyo bidhata*: “Dispenser of India's destiny“ 
 >
 > রাত্রি প্রভাতিল, উদিল রবিচ্ছবি পূর্ব-উদয়গিরিভালে –<br>
 > গাহে বিহঙ্গম, পূণ্য সমীরণ নবজীবনরস ঢালে।<br>
@@ -1093,7 +1093,7 @@ the Original Tongues and with the Former Translations Diligently Compared and
 Reviſed, by His Majesty’s ſpeciall Comand.* Oxford University Press, 1769, 
 The Church of England.
 
-Jefferson, Thomas. "Declaration of Independence." Stone Engraving ed., 
+Jefferson, Thomas. “Declaration of Independence.“ Stone Engraving ed., 
 William J. Stone, 1820 1776. general editor, Second Continental Congress.
 
 Publius. *The Federalist.* John and Andrew M'Lean, 1788.
@@ -1101,8 +1101,8 @@ Publius. *The Federalist.* John and Andrew M'Lean, 1788.
 Sieyès, Emmanuel Joseph. *Qu'est-Ce Que Le Tiers-État?* 1789.
 
 Marx, Karl and Friedrich Engels. *Manifest Der Kommunistischen Partei: 
-Veröffentlicht Im Februar 1848.* Gedruckt in der Office der "Bildungs-
-Gesellschaft für Arbeiter" von J.E. Burghard, 1848.
+Veröffentlicht Im Februar 1848.* Gedruckt in der Office der “Bildungs-
+Gesellschaft für Arbeiter“ von J.E. Burghard, 1848.
 
 *The Bhagavad Gita with the Commentary of Sri Sankaracharya.* Translated by 
 Alladi Mahadeva Sastri, Samata Books, 1897.
@@ -1119,13 +1119,13 @@ by Friedrich Engels, Charles H. Kerr & Company, 1906.
 
 Gandhi, Mohandas K. *સર્વોદય \[Sarvodaya\].* 1908.
 
-Tagore, Rabindranath. "Bharoto Bhagyo Bidhata." 1911.
+Tagore, Rabindranath. “Bharoto Bhagyo Bidhata.“ 1911.
 
-Swami Vivekananda. "A Study of the Sāṅkhya Philosophy." *The Complete Works of 
+Swami Vivekananda. “A Study of the Sāṅkhya Philosophy.“ *The Complete Works of 
 the Swami Vivekananda, Part 2*, Edited by Swami Prajnananda, Mayavati Memorial 
 Edition ed., Prabuddha Bharat Office, 1915, pp. 439-49.
 
-\---. "What Is Religion?" *The Complete Works of the Swami Vivekananda, Part 1*, 
+\---. “What Is Religion?“ *The Complete Works of the Swami Vivekananda, Part 1*, 
 Edited by Swami Prajnananda, Mayavati Memorial Edition ed., Prabuddha Bharat 
 Office, 1915, pp. 333-43.
 
@@ -1133,7 +1133,7 @@ Office, 1915, pp. 333-43.
 Aid of Previous Versions and with Constant Consultation of Jewish Authorities.* 
 Jewish Publication Society of America, 1917, Max L. Margolis.
 
-Tagore, Rabindranath. "The Morning Song of India." 1919.
+Tagore, Rabindranath. “The Morning Song of India.“ 1919.
 
 *Al-Qurʾān.* The Cairo Edition, Amiri Press, 1924, Al-Azhar University.
 
@@ -1145,11 +1145,11 @@ Gentile, Benito Mussolini and Giovanni. *La Dottrina Del Fascismo.* Treccani,
 Gupta, Mahendranath. *The Gospel of Sri Ramakrishna.* Edited by Mahendranath Gupta, 
 Translated by Swami Nikhilananda, Ramakrishna-Vivekananda Center of New York, 1942.
 
-Gandhi, Mohandas K. "The Magic Spell of a Book." *An Autobiography, or, the 
+Gandhi, Mohandas K. “The Magic Spell of a Book.“ *An Autobiography, or, the 
 Story of My Experiments with Truth*, Translated by Mahadev Desai, Navajivan 
 Trust, 1945, pp. 334-36.
 
-Nehru, Jawaharlal. "Tryst with Destiny." 14 August, 1947. New Delhi. Personal 
+Nehru, Jawaharlal. “Tryst with Destiny.“ 14 August, 1947. New Delhi. Personal 
 Communication.
 
 *Pali Tipiṭaka.* Sixth Council Edition, Vipassana Research Institute, 1956, 
@@ -1183,21 +1183,21 @@ Dictionary\]*, ed. 2nd Edition, Asian Educational Services, 2002.
 
 *The Message of the Qurʼan.* Translated by Muhammad Asad, Book Foundation, 2004.
 
-Alex-engraver. "Sahaja Subtle System." Wikimedia Foundation, 2011.
+Alex-engraver. “Sahaja Subtle System.“ Wikimedia Foundation, 2011.
 
-NASA. "Hubble Ultra Deep Field 2014." Space Telescope Science Institute, 2014.
+NASA. “Hubble Ultra Deep Field 2014.“ Space Telescope Science Institute, 2014.
 
-Sieyès, Emmanuel Joseph. "What Is the Third Estate?" *Emmanuel Joseph Sieyès: 
+Sieyès, Emmanuel Joseph. “What Is the Third Estate?“ *Emmanuel Joseph Sieyès: 
 The Essential Political Writings*, Brill, 2014, Oliver W. Lembcke and Florian Weber.
 
 Radhakrishnan, Sarvepalli. *The Principal Upaniṣads.* HarperCollins Publishers, 2020.
 
-"Why the Matrix Is a Trans Story According to Lilly Wachowski." *Netflix: Behind 
+“Why the Matrix Is a Trans Story According to Lilly Wachowski.“ *Netflix: Behind 
 the Streams*. reported by Lilly Wachowski, 4 August 2020, Netflix.
 
 *Mundakopanishad.* Ministry of Culture, Government of India, 2023.
 
-MapGrid. "Flag of India — Construction Sheet." Wikimedia Foundation, 2023.
+MapGrid. “Flag of India — Construction Sheet.“ Wikimedia Foundation, 2023.
 
 ## Positively Not The End[^45]
 
@@ -1205,13 +1205,13 @@ MapGrid. "Flag of India — Construction Sheet." Wikimedia Foundation, 2023.
 
 Hubble Ultra Deep Field 2014 (HUDF 2014)[^46][^47]
 
-## तिरंगा, tiraṅgā: "tricolour"[^48]
+## तिरंगा, tiraṅgā: “tricolour“[^48]
 
 ![img](flagOfIndia.jpg)
 
 Flag of India — Construction Sheet[^49][^50]
 
-[^1]: मनु, *manu*: " thinking creature (Monier-Williams 784)" + स्मृति, *smṛti*: "remembrance (Monier-Williams 1272)"
+[^1]: मनु, *manu*: “thinking creature (Monier-Williams 784)“ + स्मृति, *smṛti*: “remembrance (Monier-Williams 1272)“
 
 [^2]: તન-મન-ધન a. n. \[See તન + મન + ધન\] Lit. The body, the mind, and
     one’s wealth. Hence, 2. All that one loves; the highest object of
@@ -1238,11 +1238,11 @@ Flag of India — Construction Sheet[^49][^50]
 [^9]: Radhakrishnan, Sarvepalli. *The Principal Upaniṣads.*
     HarperCollins Publishers, 2020.
 
-[^10]: "Transcendence" is a word one is reluctant to use freely, for it
+[^10]: “Transcendence“ is a word one is reluctant to use freely, for it
     has the tone, the imprint of the special, the holy. According to the
-    dictionary, "to transcend" simply means "to rise above or go beyond
-    a limit, exceed, excel"; also "to go beyond the universe and time."
-    "Transcendence" has placed itself in the domain of religion, where
+    dictionary, “to transcend“ simply means “to rise above or go beyond
+    a limit, exceed, excel“; also “to go beyond the universe and time.“
+    “Transcendence“ has placed itself in the domain of religion, where
     it is on holy ground and protected from casual usage. That the word
     is used in all religions is unsurprising since it covers an area
     passing human knowledge, while expressing the hopes and expectations
@@ -1252,18 +1252,18 @@ Flag of India — Construction Sheet[^49][^50]
     Mahendranath Gupta, Translated by Swami Nikhilananda,
     Ramakrishna-Vivekananda Center of New York, 1942.
 
-[^12]: Gandhi, Mohandas K. "The Magic Spell of a Book." *An
+[^12]: Gandhi, Mohandas K. “The Magic Spell of a Book.“ *An
     Autobiography, or, the Story of My Experiments with Truth*,
     translated by Mahadev Desai, Navajivan Trust, 1945, pp. 334-36.
 
 [^13]: Rand, Ayn. *For the New Intellectual.* Penguin Publishing Group,
     1963.
 
-[^14]: "Why the Matrix Is a Trans Story According to Lilly Wachowski."
+[^14]: “Why the Matrix Is a Trans Story According to Lilly Wachowski.“
     *Netflix: Behind the Streams*. reported by Lilly Wachowski, 4 August
     2020, Netflix.
 
-[^15]: Swami Vivekananda. "A Study of the Sāṅkhya Philosophy." *The
+[^15]: Swami Vivekananda. “A Study of the Sāṅkhya Philosophy.“ *The
     Complete Works of the Swami Vivekananda, Part 2*, edited by Swami
     Prajnananda, Mayavati Memorial Edition ed., Prabuddha Bharat Office,
     1915, pp. 439-49.
@@ -1303,7 +1303,7 @@ Flag of India — Construction Sheet[^49][^50]
 [^25]: *The Message of the Qurʼan.* Translated by Muhammad Asad, Book
     Foundation, 2004.
 
-[^26]: Jefferson, Thomas. "Declaration of Independence." Stone Engraving
+[^26]: Jefferson, Thomas. “Declaration of Independence.“ Stone Engraving
     ed., William J. Stone, 1820 1776. general editor, Second Continental
     Congress.
 
@@ -1311,13 +1311,13 @@ Flag of India — Construction Sheet[^49][^50]
 
 [^28]: Sieyès, Emmanuel Joseph. *Qu'est-Ce Que Le Tiers-État?* 1789.
 
-[^29]: ---. "What Is the Third Estate?" *Emmanuel Joseph Sieyès: The
+[^29]: ---. “What Is the Third Estate?“ *Emmanuel Joseph Sieyès: The
     Essential Political Writings*, Brill, 2014, Oliver W. Lembcke and
     Florian Weber.
 
 [^30]: Marx, Karl and Friedrich Engels. *Manifest Der Kommunistischen
     Partei: Veröffentlicht Im Februar 1848.* Gedruckt in der Office der
-    "Bildungs-Gesellschaft für Arbeiter" von J.E. Burghard, 1848.
+    “Bildungs-Gesellschaft für Arbeiter“ von J.E. Burghard, 1848.
 
 [^31]: ---. *Manifesto of the Communist Party.* Translated by Friedrich
     Engels, Charles H. Kerr & Company, 1906.
@@ -1338,7 +1338,7 @@ Flag of India — Construction Sheet[^49][^50]
 [^37]: *The Matrix.* Directed By Wachowski, Lana and Lilly Wachowski, Warner
     Brothers, 1999.
 
-[^38]: Swami Vivekananda. "What Is Religion?" *The Complete Works of the
+[^38]: Swami Vivekananda. “What Is Religion?“ *The Complete Works of the
     Swami Vivekananda, Part 1*, edited by Swami Prajnananda, Mayavati
     Memorial Edition ed., Prabuddha Bharat Office, 1915, pp. 333-43.
 
@@ -1349,27 +1349,27 @@ Flag of India — Construction Sheet[^49][^50]
     (Sushumna nadi). D. Right channel (Pingala nadi). E. Spirit. F. Ego.
     G. Superego
 
-    Alex-engraver. "Sahaja Subtle System." Wikimedia Foundation, 2011.
+    Alex-engraver. “Sahaja Subtle System.“ Wikimedia Foundation, 2011.
     
 [^40]: “True it is, without falsehood, certain and most true. That 
     which is above is like to that which is below, and that which is 
     below is like to that which is above, to accomplish the miracles 
     of one thing  by a single act of adaptation (Steel 486).“
 
-    Steele, Robert, and Dorothea Waley Singer. "The Emerald Table." (1928): 485-501.
+    Steele, Robert, and Dorothea Waley Singer. “The Emerald Table.“ (1928): 485-501.
     
 [^41]: Nehru, Jawaharlal. “Tryst with Destiny.” Constituent Assembly of India, 
 	14 August 1947, The Council House, New Delhi. Keynote Address.
 
 [^42]: National Anthem of India, Abridged Version.
 
-[^43]: Tagore, Rabindranath. "Bharoto Bhagyo Bidhata." 1911.
+[^43]: Tagore, Rabindranath. “Bharoto Bhagyo Bidhata.“ 1911.
 
-[^44]: ---. "The Morning Song of India." 1919.
+[^44]: ---. “The Morning Song of India.“ 1919.
 
 [^45]: *Mera Naam Joker.* Directed by Raj Kapoor, R.K. FIlms, 1970.
 
-[^46]: NASA. "Hubble Ultra Deep Field 2014 (HUDF 2014)." Space Telescope Science 
+[^46]: NASA. “Hubble Ultra Deep Field 2014 (HUDF 2014).“ Space Telescope Science 
     Institute, 2014.
 
 [^47]: The whole problem of speaking about the end (particularly the end 
@@ -1385,15 +1385,15 @@ Flag of India — Construction Sheet[^49][^50]
      
 [^48]: त्रि, tri “three” +‎ रङ्ग, raṅga: “colour (Monier-Williams 862)”
 
-[^49]: MapGrid. "Flag of India — Construction Sheet." Wikimedia
+[^49]: MapGrid. “Flag of India — Construction Sheet.“ Wikimedia
     Foundation, 2023.
 
-[^50]: Dr. S. Radhakrishnan explained—"Bhagwa or the Saffron denotes
+[^50]: Dr. S. Radhakrishnan explained—“Bhagwa or the Saffron denotes
     renunciation or disinterestedness. Our leaders must be indifferent
     to material gains and dedicate themselves to their work. The white
     in the centre is light, the path of truth to guide our conduct. The
     green shows our relation to (the) soil, our relation to the plant
-    life here, on which all other life depends. The "Ashoka Chakra" in
+    life here, on which all other life depends. The “Ashoka Chakra“ in
     the centre of the white is the wheel of the law of dharma. Truth or
     satya, dharma or virtue ought to be the controlling principle of
     those who work under this flag. Again, the wheel denotes motion.
