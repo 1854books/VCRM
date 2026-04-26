@@ -6,7 +6,7 @@ The Vedic
 context of religions of man
 
 a rewriting of wor(l)d history<br>
-edited by<br>
+Edited by<br>
 Kalpit Parikh<br>
 <br>
 
