@@ -6,7 +6,7 @@ The Vedic
 context of religions of man
 
 a rewriting of wor(l)d history<br>
-by<br>
+edited by<br>
 Kalpit Parikh<br>
 <br>
 
@@ -21,7 +21,7 @@ Published in  કલા નગરી, *kalā nagarī*: "city of art" by મન, 
 
 Cataloging in Publication Data
 
-Name: Kalpit Parikh, 2023— author<br>
+Name: Kalpit Parikh, 2023— editor<br>
 Title: The Vedic context of religions of man/ Kalpit Parikh<br>
 ASIN:<br>
 Subjects: 1. Religion 2. History<br>
