@@ -28,17 +28,15 @@ Subjects: 1. Religion 2. History<br>
 
 ## README
 
-> Ju. 'Tis but thy name that is my Enemy: Thou art thy ſelfe, though not
-> a *Mountague*, What's *Mountague*? it is nor hand nor foote, Nor arme,
-> nor face, O be ſome other name Belonging to a man. What? in a names
-> that which we call a Roſe, By any other word would ſmell as ſweete, So
-> *Romeo* would, were he not *Romeo* cal'd, Retaine that deare
-> perfection which he owes, Without that title *Romeo*, doffe thy name,
-> And for thy name which is no part of thee, Take all my ſelfe.
->
-> Ro. I take thee at thy word: Call me but loue, and Ile be new
-> baptizde, Henceforth I neuer will be Romeo (*Romeo and
-> Juliet* Act 2 Scene 2).[^3]
+*The Vedic context of religions of man* attempts to reconstruct the meaning of words 
+based on translations. Translations are demarcated as follows: The first instance a 
+Word in a section is written in the original script (transcription) of the reference 
+religion, followed by a romanization (transliteration) of the Word in ISO Latin 1 
+in italics, followed by a brief definition (translation) of the Word in English in quotes, 
+with longer definitions foregoing the quotes —and each succeeding instance of the Word in the 
+section is written in the transliteration of the Word in the ISO Latin 1 in italics:  
+
+धामन्, dhāman: “(Divine) presence”[^3]
 
 ## Acknowledgement 
 
@@ -1078,8 +1076,6 @@ Sahaja Subtle System[^39][^40]
 
 *The Torah.* Aleppo Codex, Shlomo ben Buya, 920, Aaron ben Moses ben Asher.
 
-Shakespeare, William. *Romeo and Juliet, Quarto 2.* Thomas Creede, 1599.
-
 *The Holy Bible, Containing the Old Teſtament, and the New: Tranſlated out of 
 the Original Tongues and with the Former Translations Diligently Compared and 
 Reviſed, by His Majesty’s ſpeciall Comand.* Oxford University Press, 1769, 
@@ -1157,6 +1153,10 @@ Rand, Ayn. *Atlas Shrugged.* Random House, 1957.
 *Mahābhāratam.* BORI Critical Edition, The Bhandarkar Oriental Research 
 Institute, 1966, Vishnu S. Sukhtankar.
 
+Gonda, Jan. *The Meaning of the Sanskrit Term Dhaman*. Noord-Hollandsche U.M, 1967, 
+Verhandelingen Der Koninklijke Nederlandse Akademie Van Wetenschappen, Afd. 
+Letterkunde Nieuwe Reeks, D. 73, No. 2.
+
 *Mera Naam Joker.* Directed by Raj Kapoor, R. K. Films, 1970.
 
 *The Dhammapada.* Translated by Daw Mya Tin, Department for the Promotion 
@@ -1209,8 +1209,15 @@ Flag of India — Construction Sheet[^51][^52]
     one’s wealth. Hence, 2. All that one loves; the highest object of
     one’s ambition (Belsare 577).
 
-[^3]: Shakespeare, William. *Romeo and Juliet, Quarto 2.* Thomas Creede,
-    1599.
+[^3]:  	The conclusion to be drawn from this examination of many relevant texts 
+	seems therefore to be that Sāyaṇa’s explication of the term dhäman- (see his 
+	commentary on RV. 10, 82, 3): dhämäni =devänärp, tejaly,sthänäni is essentially 
+	right. The term has one single 'central meaning' which may be exactly defined. 
+	As however vagueness and 'openness', though variable, are the most striking 
+	differentia of sense in general 43), which is reflected in its 'zonal' structure, 
+	shifts in application have not, in accordance with context and situation, failed 
+	to arise, from which, also in this case, varieties of multiple 'meaning' have 
+	to a certain extent developed (Gonda 94-95).
 
 [^4]: भा, bhā: “light or a beam of l°, lustre, splendour (Monier-Williams 747)”  + रत, rata:
     “delighting in, intent upon, fond or enamoured of, devoted or
