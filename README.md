@@ -28,15 +28,9 @@ Subjects: 1. Religion 2. History<br>
 
 ## README
 
-This book uses English translations of historical texts to reconstruct meaning. 
-Translations are demarcated as follows: The first instance a Word in a section is written in 
-the original script (transcription) of the reference text, followed by a romanization 
-(transliteration) of the Word in ISO Latin 1 in italics, followed by a brief definition 
-(translation) of the Word in English in quotes, with longer definitions foregoing the 
-quotes —and each succeeding instance of the Word in the section is written in the 
-transliteration of the Word in the ISO Latin 1 in italics:  
-
-धामन्, dhāman: “(Divine) presence”[^3]
+The Vedic context of religions of man is a treatise on religions of man. The book proposes to show 
+certain ones of the texts of the religions of man suggest—whether by accident or in essence, 
+a metaphysics given in the वेद, veda: “knowledge.”[^3]
 
 ## Acknowledgement 
 
