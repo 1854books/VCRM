@@ -26,7 +26,7 @@ Title: The Vedic context of religions of man/ compiled by Kalpit Parikh<br>
 ASIN:<br>
 Subjects: 1. Religion 2. History<br>
 
-## [README](https://www.amazon.com/dp/B0C88RSPRK)
+## README
 
 > Ju. 'Tis but thy name that is my Enemy: Thou art thy ſelfe, though not
 > a *Mountague*, What's *Mountague*? it is nor hand nor foote, Nor arme,
