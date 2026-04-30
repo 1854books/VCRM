@@ -30,7 +30,7 @@ Subjects: 1. Religion 2. History<br>
 
 *The Vedic context of religions of man* is a book on comparative religion that interprets selected world historical texts in the context of the वेद, *veda*: “knowledge.”[^4]
 
-While the chapters are not strictly chronological, they have been arranged according to historical categories that situate the texts within the Indian historical universe.[^5]
+While the chapters are not strictly chronological, they have been arranged according to historical formations that situate the texts within the Indian historical universe.[^5]
 
 ## Acknowledgement 
 
