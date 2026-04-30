@@ -1199,7 +1199,7 @@ Flag of India — Construction Sheet[^53][^54]
 
 [^1]: इतिहास Iti-hāsa, as, m. (iti-ha-āsa, ‘so indeed it was’),talk, legend, tradition, 
 	history, traditional accounts of former events, heroic history, as the 
-	Mahā-bhārata (Monier-Williams 1320)+ पुराण पुराण mf(ई or आ)n. belonging to ancient 
+	Mahābhārata (Monier-Williams 1320)+ पुराण पुराण mf(ई or आ)n. belonging to ancient 
 	or olden times, ancient, old (also = withered, worn out, opp. 
 	to नूतन, नव), RV. &c. &c. (Monier-Williams 635);
 
